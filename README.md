@@ -4,7 +4,7 @@ Before you start, [make sure to watch RetroGamingNow's video about this first.](
 Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
 
 ## To-do List
-- [ ] Video Analyzation
+- [ ] Video Analyzation *
 - [ ] Incident Reports
 - [ ] Images & Pictures
 

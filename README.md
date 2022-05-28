@@ -22,6 +22,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)
+* [Jar Files](/jar/)
 
 ## Contribution
 Feel free to create any pull requests or open issues if you want to contribute to the documentation. Anything is appriciated.

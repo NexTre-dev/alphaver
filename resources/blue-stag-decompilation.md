@@ -32,11 +32,15 @@ This may take a while if your computer isn’t decent enough. Once decompilation
 ![](https://lh5.googleusercontent.com/_BnkRYg6B2_PekBMBkFGpX7pmIQFiCHGziGZbMDmKWK0tF4RciGCV_SU02LKN2Urhi8tPyoUL6OXCXI4WtZN-NCpiBF371edmtShRSiBTNUOKgwcLeBi8BXQg1TG9tXmf4w68eDT8GYcZpyvqQ)
 
 The class I’ve highlighted, `BlockButton`, is the class that needs to be renamed. Right click on it, click rename and rename it to something else, like  `LilypadBlockButton`:
+
 ![](https://lh6.googleusercontent.com/Gq0OXUOrg5rSIUdkxWMarYnJe5Loc6dlhS5BBXNYKn0OYpdYPUW7I6pOXppiHKDrfJF-GUKyUKMGWDu5Kmrenu0nfg869_wKR-NPnR4OEj_AlEA2z49T-_j1WimPuz47XEKuPgj1StnJ6nlwWg)
+
 ![](https://lh3.googleusercontent.com/2XEwNjQUefvCI4f11sy8wVLL-2Ee4TuGOQZF5pNy5Lj32HvyK-GmtOp0xuX-xUhrvndv-61hMkbNIfV2MIIPNbgOjZbaag1aaCAmtsNTHHwoxe2Jk8CsHmzZR8oc2gtoxkqLc1g3nfoPes5K_Q)
+
 ![](https://lh5.googleusercontent.com/iOOL-bdItHlQZx0YhSVYLxGXPV76P7mnGVNn0CWgNSgbacHh8S0R_03Ds6adpslnxjV65-YP-A2YavVDzSQgCj0RgfUwn4jci_py3GrkcO9taKTZX4Cpbt3qUR05Y8ixaaCVeDpQvbz514_f3A)
 
 Now you can update the jar file by clicking on File > Export program:
+
 ![](https://lh6.googleusercontent.com/FdeCrA5p_tQkre296dtidMNvAGJAGkBb2CZTCYryhnbT1QMwfHSVOJIF1es99Fl5C90QYG-UHgIdfeMBhF6vN9AbyE53ju6JlvLYGgjshjEXRQWS_OfK2hadRmMpaygUDAQGS5M7ViWdpYwYuA)
 
 ## 3. Deobfuscating Lilypad
@@ -52,19 +56,25 @@ Feel free to edit the workspace settings if you’re not a fan of hiding files a
 Decompiled source code isn’t always perfect. However, you can fix it. The source code is stored in the src/minecraft folder. The files are stored in the net/minecraft/src folder inside that folder unless otherwise stated. Here is how to fix it:
 * In BlockFire.java, EntityChicken.java, ItemFlintAndSteel.java and RecipesWeapons.java, add `throws IOException`:
   * Before *(BlockFire.java)*:
+
     ![](https://lh4.googleusercontent.com/2BEyp2Oq8H3dqLWwclLD3waTk9BpZjaZf_7qONx8gjmV0HDbKx23OQA9lZVjDw3lsrNTt8C-4LtoSnu8F7iREknfnEerT32urCvc-XOqowhtLsYWgM53K_aciKSbJRgWsT0vsm6YH4lxtT-7zw)
   * After *(BlockFire.java)*:
+
     ![](https://lh3.googleusercontent.com/G_lRtJdnC1_mPJHUI-8q-COnc7LxHFiFNt07kXnyehkwj33VRzsCuj_r9xcenCKnp8iS_M7J1INGqcFhXeZFcFqJgK5Uk4VCQA8dp_8kKNUU7vRBILsOBakawvLkXRPAiQUMVZR0mcjeVAyWTQ)
   * Using the Extension Pack for Java makes this process easier. Press Ctrl+Period on the error squiggles and click on “Add throws declaration”:
+
     ![](https://lh3.googleusercontent.com/hVkPRDSqXNHQlZ4B1W5MCOC9oAnJjLpChjGUAi9vYu-2NySkZNHuZJwbsbnoiUrkIgOGJi6W8snvtX53NrUTNBzkYg-ecMK16hciB2dGvxCW1QEYEC-jjH24MB-7pC4lNpA50B2VbMwS5jyGwg)
   * Make sure to put in `import java.io.IOException;` at the top of each file.
 * In ClassX.java, go to the bottom of the file to find `public static void a(NBTTagCompound nBTTagCompound0, DataOutput dataOutput1) {`  and add `throws IOException`:
   * Before:
+
     ![](https://lh6.googleusercontent.com/AaV1Yu1PHiTBzCd4MG7djPw2mwBHhefHfHsPAtFQ-FnNlXGEyZZQGUFUj0nmkNKlhi84JvHKnviBmdMiNNP8lAQglM5Jh_rAE5lwU_-lFhmlcGyLAzj4k61-mWYT4XrHI3CfPNtlaNnpt2utlA)
   * After:
+
     ![](https://lh6.googleusercontent.com/7ZqNtkwmftur19G1v48z_zT3K8tZwTv4nP9ZSpD67X374tHRGOyyrD4HIZppUfz0jjfvGMuepNbe-hHVcmT3dlRZBj0T8qgHDMDOjHdW4uc2IBgkc0A7C_n6ZKZPv3i6c-KGI0dtBr1J9AT5EQ)
 * Delete BlockMinecartTrack.java. There is a duplicate that is used instead with the name “ClassIf”.
 * In Minecraft.java (inside src/minecraft/net/minecraft/client), add in `InputHandler.mc = this;` after line 140:
+
   ![](https://lh4.googleusercontent.com/AKbT5Z4rPamqo-WFxjvB2oxfxM7weO5iKFn9Q9FbKk3DfgTCcsQjjEzv-exRCMobPy1XAH_-HrhEsNR4pdTGG21JjjaHE6SACsX6ELN7iV_e4P5TuXYJVOuU9gh3r9c03ueVQIMt4eIeBvyHyQ)
 
 ## 5. Running Lilypad

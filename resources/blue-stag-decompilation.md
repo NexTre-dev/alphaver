@@ -13,7 +13,7 @@ Please do not distribute your modded jars! They contain deobfuscated source code
 You are going to need the following:
 * A JDK, for compiling and decompiling Java code. You can get one at [Adoptium](https://adoptium.net/).
 * Lilypad_qa.jar, [download link 1 (mirror)](../jar/), [download link 2 (original)](https://www.mediafire.com/file/uo2zqueiw2e872y/lilypad_qa.jar/file)
-* [RetroMCP-Java](https://github.com/MCPHackers/RetroMCP-Java/releases/lates), for deobfuscation and recompilation.
+* [RetroMCP-Java](https://github.com/MCPHackers/RetroMCP-Java/releases/latest), for deobfuscation and recompilation.
 * [Recaf](https://github.com/Col-E/Recaf/releases/latest), for modifying the jar file to make deobfuscation work *(Alternatives that can modify jars can be used)*.
 * *Optional: [Visual Studio Code](https://code.visualstudio.com/), for editing the source code with ease. Also install [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) for features you would find in an IDE.*
 

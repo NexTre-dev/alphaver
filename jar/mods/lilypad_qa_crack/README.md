@@ -1,6 +1,6 @@
 # lilypad_qa Crack
-v1.0
-Made by pr1ncess
+**v1.0**  
+*Made by pr1ncess*
 
 ## Install
 Install like the other jars

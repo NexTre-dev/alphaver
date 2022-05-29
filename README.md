@@ -19,9 +19,13 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Entry point](/videos/entry-point.md)
 * [Version 01](/videos/version-01.md)
 * [The search](/videos/the-search.md)
+* [Version 03](/videos/version-03.md)
+* [Version 05](/videos/version-05.md)
+* [Version 06](/videos/version-06.md)
+* [Version 07](/videos/version-07.md)
 
 ## Guides & Resources
-* [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)
+* ~~[Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)~~
 * [Jar Files](/jar/)
 
 ## Contribution

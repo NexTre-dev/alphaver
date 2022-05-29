@@ -1,11 +1,12 @@
 // Imports
 import fs from 'fs';
-import {fromMarkdown} from "./node_modules/mdast-util-from-markdown/index.js";
 import * as url from 'url';
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 
+import createPages from './createPages.js';
+
 // Setting project root
-global.__baseDir = __dirname.replace(/\/wiki/gi, "");
+const __baseDir = __dirname.replace(/\/wiki/gi, "");
 
 // Setting config options
 import config from './config.json' assert {type: 'json'};
@@ -17,17 +18,17 @@ const build = () => {
     }
     fs.mkdirSync(outputDir, {recursive: true});
 
-    fs.readdirSync(global.__baseDir).forEach(relativeDir => {
-        let dirItemPath = global.__baseDir + '/' + relativeDir;
+    fs.readdirSync(__baseDir).forEach(relativeDir => {
+        let dirItemPath = __baseDir + '/' + relativeDir;
         if (dirItemPath.startsWith('.')) {
             return;
         }
         let dirItemObject = fs.lstatSync(dirItemPath);
         if (dirItemObject.isDirectory()) {
             // create pages recursively
-            
+            createPages(__baseDir, relativeDir);
         } else {
-
+            return;
         }
     })
 }

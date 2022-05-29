@@ -41,7 +41,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Sunrise](/videos/sunrise.md) *(Latest Video)*
 
 ## Guides & Resources
-* ~~[Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)~~
+* [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)
 * [Jar Files](/jar/)
 * [Item & Block IDs](/resources/ids.md)
 

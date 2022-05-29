@@ -4,9 +4,10 @@ Before you start, [make sure to watch RetroGamingNow's video about this first.](
 Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
 
 ## To-do List
-- [ ] Video Analyzation *
+- [X] Video Analyzation
+- [X] Images & Pictures *(mostly done)*
 - [ ] Incident Reports
-- [ ] Images & Pictures
+- [ ] Write down every chat message that happened in videos
 
 ## Outline
 ### 1. Basic Lore

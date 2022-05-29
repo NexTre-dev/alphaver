@@ -1,805 +1,204 @@
 [← Home Page](../README.md)
 
 # Item & Block IDs (Preview 2)
-<table>
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Item Name</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Stone</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Grass</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Dirt</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Cobblestone</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Planks</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Sapling</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Bedrock</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Flowing Water</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Still Water</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Flowing Lava</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>Still Lava</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>Sand</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>Gravel</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Gold Ore</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>Iron Ore</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>Coal Ore</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>Wood</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>Leaves</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>Sponge</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>Glass</td>
-    </tr>
-    <tr>
-      <td>35</td>
-      <td>Wool</td>
-    </tr>
-    <tr>
-      <td>37</td>
-      <td>Blue Dandelion</td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td>Silver Rose</td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>Purple Mushroom</td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>Red Mushroom</td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>Block of Gold</td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>Block of Iron</td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>Double Stone Slab</td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>Stone Slab</td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>Gray Bricks</td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>TNT</td>
-    </tr>
-    <tr>
-      <td>47</td>
-      <td>Bookshelves</td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td>Mossy Cobblestone</td>
-    </tr>
-    <tr>
-      <td>49</td>
-      <td>Obsidian</td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td>Torch</td>
-    </tr>
-    <tr>
-      <td>51</td>
-      <td>Fire</td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td>Monster Spawner (Pig)</td>
-    </tr>
-    <tr>
-      <td>53</td>
-      <td>Wooden Stairs</td>
-    </tr>
-    <tr>
-      <td>54</td>
-      <td>Chest</td>
-    </tr>
-    <tr>
-      <td>55</td>
-      <td>Greenstone Dust (Cross)</td>
-    </tr>
-    <tr>
-      <td>56</td>
-      <td>Diamond Ore</td>
-    </tr>
-    <tr>
-      <td>57</td>
-      <td>Block of Diamond</td>
-    </tr>
-    <tr>
-      <td>58</td>
-      <td>Crafting Table</td>
-    </tr>
-    <tr>
-      <td>59</td>
-      <td>Wheat Crops</td>
-    </tr>
-    <tr>
-      <td>60</td>
-      <td>Farmland</td>
-    </tr>
-    <tr>
-      <td>61</td>
-      <td>Furnace</td>
-    </tr>
-    <tr>
-      <td>62</td>
-      <td>Burning Furnace</td>
-    </tr>
-    <tr>
-      <td>63</td>
-      <td>Standing Sign</td>
-    </tr>
-    <tr>
-      <td>64</td>
-      <td>Wooden Door (Block)</td>
-    </tr>
-    <tr>
-      <td>65</td>
-      <td>Ladder</td>
-    </tr>
-    <tr>
-      <td>66</td>
-      <td>Rail</td>
-    </tr>
-    <tr>
-      <td>67</td>
-      <td>Cobblestone Stairs</td>
-    </tr>
-    <tr>
-      <td>68</td>
-      <td>Mounted Sign</td>
-    </tr>
-    <tr>
-      <td>69</td>
-      <td>Lever</td>
-    </tr>
-    <tr>
-      <td>70</td>
-      <td>Stone Pressure Plate</td>
-    </tr>
-    <tr>
-      <td>71</td>
-      <td>Iron Door (Block)</td>
-    </tr>
-    <tr>
-      <td>72</td>
-      <td>Wooden Pressure Plate</td>
-    </tr>
-    <tr>
-      <td>73</td>
-      <td>Greenstone Ore</td>
-    </tr>
-    <tr>
-      <td>74</td>
-      <td>Greenstone Ore (Glowing)</td>
-    </tr>
-    <tr>
-      <td>75</td>
-      <td>Greenstone Torch (Unlit)</td>
-    </tr>
-    <tr>
-      <td>76</td>
-      <td>Greenstone Torch (Lit)</td>
-    </tr>
-    <tr>
-      <td>77</td>
-      <td>Stone Button</td>
-    </tr>
-    <tr>
-      <td>78</td>
-      <td>Snow</td>
-    </tr>
-    <tr>
-      <td>79</td>
-      <td>Ice</td>
-    </tr>
-    <tr>
-      <td>80</td>
-      <td>Snow Block</td>
-    </tr>
-    <tr>
-      <td>81</td>
-      <td>Cactus</td>
-    </tr>
-    <tr>
-      <td>82</td>
-      <td>Clay</td>
-    </tr>
-    <tr>
-      <td>83</td>
-      <td>Sugar Cane Reeds</td>
-    </tr>
-    <tr>
-      <td>84</td>
-      <td>Jukebox</td>
-    </tr>
-    <tr>
-      <td>90</td>
-      <td>Reinforced Glass</td>
-    </tr>
-    <tr>
-      <td>91</td>
-      <td>Wooden Pillar</td>
-    </tr>
-    <tr>
-      <td>92</td>
-      <td>Stone Scaffold</td>
-    </tr>
-    <tr>
-      <td>93</td>
-      <td>X-Ray Scaffold</td>
-    </tr>
-    <tr>
-      <td>94</td>
-      <td>Scaffold</td>
-    </tr>
-    <tr>
-      <td>95</td>
-      <td>Tiles</td>
-    </tr>
-    <tr>
-      <td>96</td>
-      <td>Stone Pillar</td>
-    </tr>
-    <tr>
-      <td>97</td>
-      <td>DEBUG Block</td>
-    </tr>
-    <tr>
-      <td>98</td>
-      <td>Blue Tile</td>
-    </tr>
-    <tr>
-      <td>99</td>
-      <td>Yellow Tile</td>
-    </tr>
-    <tr>
-      <td>100</td>
-      <td>Alt. Grass</td>
-    </tr>
-    <tr>
-      <td>101</td>
-      <td>Block of Mojang</td>
-    </tr>
-    <tr>
-      <td>102</td>
-      <td>Block of Mojang (White)</td>
-    </tr>
-    <tr>
-      <td>103</td>
-      <td>Block of Mojang (Green)</td>
-    </tr>
-    <tr>
-      <td>104</td>
-      <td>Ghost Block</td>
-    </tr>
-    <tr>
-      <td>105</td>
-      <td>Stair Ladder</td>
-    </tr>
-    <tr>
-      <td>106</td>
-      <td>Alt. Dirt</td>
-    </tr>
-    <tr>
-      <td>107</td>
-      <td>Alt. Stone</td>
-    </tr>
-    <tr>
-      <td>108</td>
-      <td>Alt. Sand</td>
-    </tr>
-    <tr>
-      <td>109</td>
-      <td>Wool (Magenta)</td>
-    </tr>
-    <tr>
-      <td>110</td>
-      <td>Wool (Blue)</td>
-    </tr>
-    <tr>
-      <td>111</td>
-      <td>Wool (Green)</td>
-    </tr>
-    <tr>
-      <td>112</td>
-      <td>Wool (Black)</td>
-    </tr>
-    <tr>
-      <td>256</td>
-      <td>Iron Shovel</td>
-    </tr>
-    <tr>
-      <td>257</td>
-      <td>Iron Pickaxe</td>
-    </tr>
-    <tr>
-      <td>258</td>
-      <td>Iron Axe</td>
-    </tr>
-    <tr>
-      <td>259</td>
-      <td>Flint And Steel</td>
-    </tr>
-    <tr>
-      <td>260</td>
-      <td>Apple</td>
-    </tr>
-    <tr>
-      <td>261</td>
-      <td>Bow</td>
-    </tr>
-    <tr>
-      <td>262</td>
-      <td>Arrow</td>
-    </tr>
-    <tr>
-      <td>263</td>
-      <td>Coal</td>
-    </tr>
-    <tr>
-      <td>264</td>
-      <td>Diamond</td>
-    </tr>
-    <tr>
-      <td>265</td>
-      <td>Iron Ingot</td>
-    </tr>
-    <tr>
-      <td>266</td>
-      <td>Gold Ingot</td>
-    </tr>
-    <tr>
-      <td>267</td>
-      <td>Iron Sword</td>
-    </tr>
-    <tr>
-      <td>268</td>
-      <td>Wooden Sword</td>
-    </tr>
-    <tr>
-      <td>269</td>
-      <td>Wooden Shovel</td>
-    </tr>
-    <tr>
-      <td>270</td>
-      <td>Wooden Pickaxe</td>
-    </tr>
-    <tr>
-      <td>271</td>
-      <td>Wooden Axe</td>
-    </tr>
-    <tr>
-      <td>272</td>
-      <td>Stone Sword</td>
-    </tr>
-    <tr>
-      <td>273</td>
-      <td>Stone Shovel</td>
-    </tr>
-    <tr>
-      <td>274</td>
-      <td>Stone Pickaxe</td>
-    </tr>
-    <tr>
-      <td>275</td>
-      <td>Stone Axe</td>
-    </tr>
-    <tr>
-      <td>276</td>
-      <td>Diamond Sword</td>
-    </tr>
-    <tr>
-      <td>277</td>
-      <td>Diamond Shovel</td>
-    </tr>
-    <tr>
-      <td>278</td>
-      <td>Diamond Pickaxe</td>
-    </tr>
-    <tr>
-      <td>279</td>
-      <td>Diamond Axe</td>
-    </tr>
-    <tr>
-      <td>280</td>
-      <td>Stick</td>
-    </tr>
-    <tr>
-      <td>281</td>
-      <td>Bowl</td>
-    </tr>
-    <tr>
-      <td>282</td>
-      <td>Mushroom Stew</td>
-    </tr>
-    <tr>
-      <td>283</td>
-      <td>Golden Sword</td>
-    </tr>
-    <tr>
-      <td>284</td>
-      <td>Golden Shovel</td>
-    </tr>
-    <tr>
-      <td>285</td>
-      <td>Golden Pickaxe</td>
-    </tr>
-    <tr>
-      <td>286</td>
-      <td>Golden Axe</td>
-    </tr>
-    <tr>
-      <td>287</td>
-      <td>String</td>
-    </tr>
-    <tr>
-      <td>288</td>
-      <td>Feather</td>
-    </tr>
-    <tr>
-      <td>289</td>
-      <td>Gunpowder</td>
-    </tr>
-    <tr>
-      <td>290</td>
-      <td>Wooden Hoe</td>
-    </tr>
-    <tr>
-      <td>291</td>
-      <td>Stone Hoe</td>
-    </tr>
-    <tr>
-      <td>292</td>
-      <td>Iron Hoe</td>
-    </tr>
-    <tr>
-      <td>293</td>
-      <td>Diamond Hoe</td>
-    </tr>
-    <tr>
-      <td>294</td>
-      <td>Golden Hoe</td>
-    </tr>
-    <tr>
-      <td>295</td>
-      <td>Seeds</td>
-    </tr>
-    <tr>
-      <td>296</td>
-      <td>Wheat</td>
-    </tr>
-    <tr>
-      <td>297</td>
-      <td>Bread</td>
-    </tr>
-    <tr>
-      <td>298</td>
-      <td>Leather Helmet</td>
-    </tr>
-    <tr>
-      <td>299</td>
-      <td>Leather Tunic</td>
-    </tr>
-    <tr>
-      <td>300</td>
-      <td>Leather Pants</td>
-    </tr>
-    <tr>
-      <td>301</td>
-      <td>Leather Boots</td>
-    </tr>
-    <tr>
-      <td>302</td>
-      <td>Chainmail Helmet</td>
-    </tr>
-    <tr>
-      <td>303</td>
-      <td>Chainmail Chestplate</td>
-    </tr>
-    <tr>
-      <td>304</td>
-      <td>Chainmail Leggings</td>
-    </tr>
-    <tr>
-      <td>305</td>
-      <td>Chainmail Boots</td>
-    </tr>
-    <tr>
-      <td>306</td>
-      <td>Iron Helmet</td>
-    </tr>
-    <tr>
-      <td>307</td>
-      <td>Iron Chestplate</td>
-    </tr>
-    <tr>
-      <td>308</td>
-      <td>Iron Leggings</td>
-    </tr>
-    <tr>
-      <td>309</td>
-      <td>Iron Boots</td>
-    </tr>
-    <tr>
-      <td>310</td>
-      <td>Diamond Helmet</td>
-    </tr>
-    <tr>
-      <td>311</td>
-      <td>Diamond Chestplate</td>
-    </tr>
-    <tr>
-      <td>312</td>
-      <td>Diamond Leggings</td>
-    </tr>
-    <tr>
-      <td>313</td>
-      <td>Diamond Boots</td>
-    </tr>
-    <tr>
-      <td>314</td>
-      <td>Golden Helmet</td>
-    </tr>
-    <tr>
-      <td>315</td>
-      <td>Golden Chestplate</td>
-    </tr>
-    <tr>
-      <td>316</td>
-      <td>Golden Leggings</td>
-    </tr>
-    <tr>
-      <td>317</td>
-      <td>Golden Boots</td>
-    </tr>
-    <tr>
-      <td>318</td>
-      <td>Flint</td>
-    </tr>
-    <tr>
-      <td>319</td>
-      <td>Raw Porkchop</td>
-    </tr>
-    <tr>
-      <td>320</td>
-      <td>Cooked Porkchop</td>
-    </tr>
-    <tr>
-      <td>321</td>
-      <td>Painting</td>
-    </tr>
-    <tr>
-      <td>322</td>
-      <td>Golden Apple</td>
-    </tr>
-    <tr>
-      <td>323</td>
-      <td>Sign</td>
-    </tr>
-    <tr>
-      <td>324</td>
-      <td>Wooden Door</td>
-    </tr>
-    <tr>
-      <td>325</td>
-      <td>Bucket</td>
-    </tr>
-    <tr>
-      <td>326</td>
-      <td>Bucket of Water</td>
-    </tr>
-    <tr>
-      <td>327</td>
-      <td>Bucket of Lava</td>
-    </tr>
-    <tr>
-      <td>328</td>
-      <td>Minecart</td>
-    </tr>
-    <tr>
-      <td>329</td>
-      <td>Saddle</td>
-    </tr>
-    <tr>
-      <td>330</td>
-      <td>Iron Door</td>
-    </tr>
-    <tr>
-      <td>331</td>
-      <td>Greenstone Dust</td>
-    </tr>
-    <tr>
-      <td>332</td>
-      <td>Snowball</td>
-    </tr>
-    <tr>
-      <td>333</td>
-      <td>Boat</td>
-    </tr>
-    <tr>
-      <td>334</td>
-      <td>Leather</td>
-    </tr>
-    <tr>
-      <td>335</td>
-      <td>Bucket of Milk</td>
-    </tr>
-    <tr>
-      <td>336</td>
-      <td>Brick</td>
-    </tr>
-    <tr>
-      <td>337</td>
-      <td>Clay Ball</td>
-    </tr>
-    <tr>
-      <td>338</td>
-      <td>Sugar Cane</td>
-    </tr>
-    <tr>
-      <td>339</td>
-      <td>Paper</td>
-    </tr>
-    <tr>
-      <td>340</td>
-      <td>Book</td>
-    </tr>
-    <tr>
-      <td>341</td>
-      <td>Slimeball</td>
-    </tr>
-    <tr>
-      <td>342</td>
-      <td>Minecart with Chest</td>
-    </tr>
-    <tr>
-      <td>343</td>
-      <td>Minecart with Furnace</td>
-    </tr>
-    <tr>
-      <td>344</td>
-      <td>Egg</td>
-    </tr>
-    <tr>
-      <td>345</td>
-      <td>Obsidian Helmet</td>
-    </tr>
-    <tr>
-      <td>346</td>
-      <td>Obsidian Chestplate</td>
-    </tr>
-    <tr>
-      <td>347</td>
-      <td>Obsidian Leggings</td>
-    </tr>
-    <tr>
-      <td>348</td>
-      <td>Obsidian Boots</td>
-    </tr>
-    <tr>
-      <td>349</td>
-      <td>Obsidian Sword</td>
-    </tr>
-    <tr>
-      <td>350</td>
-      <td>Obsidian Shovel</td>
-    </tr>
-    <tr>
-      <td>351</td>
-      <td>Obsidian Pickaxe</td>
-    </tr>
-    <tr>
-      <td>352</td>
-      <td>Obsidian Axe</td>
-    </tr>
-    <tr>
-      <td>353</td>
-      <td>Obsidian Hoe</td>
-    </tr>
-    <tr>
-      <td>354</td>
-      <td>Obsidian Ingot</td>
-    </tr>
-    <tr>
-      <td>355</td>
-      <td>Gray Dye</td>
-    </tr>
-    <tr>
-      <td>356</td>
-      <td>Green Dye</td>
-    </tr>
-    <tr>
-      <td>357</td>
-      <td>Blue Dye</td>
-    </tr>
-    <tr>
-      <td>358</td>
-      <td>Magenta Dye</td>
-    </tr>
-    <tr>
-      <td>359</td>
-      <td>Roasted Red Mushroom</td>
-    </tr>
-    <tr>
-      <td>2256</td>
-      <td>Music Disc (Hidden Den)</td>
-    </tr>
-    <tr>
-      <td>2257</td>
-      <td>Music Disc (Lemuria)</td>
-    </tr>
-  </tbody>
-</table>
+
+|   ID | Item Name |
+| ---: | :-------- |
+|    1 | Stone |
+|    2 | Grass |
+|    3 | Dirt |
+|    4 | Cobblestone |
+|    5 | Planks |
+|    6 | Sapling |
+|    7 | Bedrock |
+|    8 | Flowing Water |
+|    9 | Still Water |
+|   10 | Flowing Lava |
+|   11 | Still Lava |
+|   12 | Sand |
+|   13 | Gravel |
+|   14 | Gold Ore |
+|   15 | Iron Ore |
+|   16 | Coal Ore |
+|   17 | Wood |
+|   18 | Leaves |
+|   19 | Sponge |
+|   20 | Glass |
+|   35 | Wool |
+|   37 | Blue Dandelion |
+|   38 | Silver Rose |
+|   39 | Purple Mushroom |
+|   40 | Red Mushroom |
+|   41 | Block of Gold |
+|   42 | Block of Iron |
+|   43 | Double Stone Slab |
+|   44 | Stone Slab |
+|   45 | Gray Bricks |
+|   46 | TNT |
+|   47 | Bookshelves |
+|   48 | Mossy Cobblestone |
+|   49 | Obsidian |
+|   50 | Torch |
+|   51 | Fire |
+|   52 | Monster Spawner (Pig) |
+|   53 | Wooden Stairs |
+|   54 | Chest |
+|   55 | Greenstone Dust (Cross) |
+|   56 | Diamond Ore |
+|   57 | Block of Diamond |
+|   58 | Crafting Table |
+|   59 | Wheat Crops |
+|   60 | Farmland |
+|   61 | Furnace |
+|   62 | Burning Furnace |
+|   63 | Standing Sign |
+|   64 | Wooden Door (Block) |
+|   65 | Ladder |
+|   66 | Rail |
+|   67 | Cobblestone Stairs |
+|   68 | Mounted Sign |
+|   69 | Lever |
+|   70 | Stone Pressure Plate |
+|   71 | Iron Door (Block) |
+|   72 | Wooden Pressure Plate |
+|   73 | Greenstone Ore |
+|   74 | Greenstone Ore (Glowing) |
+|   75 | Greenstone Torch (Unlit) |
+|   76 | Greenstone Torch (Lit) |
+|   77 | Stone Button |
+|   78 | Snow |
+|   79 | Ice |
+|   80 | Snow Block |
+|   81 | Cactus |
+|   82 | Clay |
+|   83 | Sugar Cane Reeds |
+|   84 | Jukebox |
+|   90 | Reinforced Glass |
+|   91 | Wooden Pillar |
+|   92 | Stone Scaffold |
+|   93 | X-Ray Scaffold |
+|   94 | Scaffold |
+|   95 | Tiles |
+|   96 | Stone Pillar |
+|   97 | DEBUG Block |
+|   98 | Blue Tile |
+|   99 | Yellow Tile |
+|  100 | Alt. Grass |
+|  101 | Block of Mojang |
+|  102 | Block of Mojang (White) |
+|  103 | Block of Mojang (Green) |
+|  104 | Ghost Block |
+|  105 | Stair Ladder |
+|  106 | Alt. Dirt |
+|  107 | Alt. Stone |
+|  108 | Alt. Sand |
+|  109 | Wool (Magenta) |
+|  110 | Wool (Blue) |
+|  111 | Wool (Green) |
+|  112 | Wool (Black) |
+|  256 | Iron Shovel |
+|  257 | Iron Pickaxe |
+|  258 | Iron Axe |
+|  259 | Flint And Steel |
+|  260 | Apple |
+|  261 | Bow |
+|  262 | Arrow |
+|  263 | Coal |
+|  264 | Diamond |
+|  265 | Iron Ingot |
+|  266 | Gold Ingot |
+|  267 | Iron Sword |
+|  268 | Wooden Sword |
+|  269 | Wooden Shovel |
+|  270 | Wooden Pickaxe |
+|  271 | Wooden Axe |
+|  272 | Stone Sword |
+|  273 | Stone Shovel |
+|  274 | Stone Pickaxe |
+|  275 | Stone Axe |
+|  276 | Diamond Sword |
+|  277 | Diamond Shovel |
+|  278 | Diamond Pickaxe |
+|  279 | Diamond Axe |
+|  280 | Stick |
+|  281 | Bowl |
+|  282 | Mushroom Stew |
+|  283 | Golden Sword |
+|  284 | Golden Shovel |
+|  285 | Golden Pickaxe |
+|  286 | Golden Axe |
+|  287 | String |
+|  288 | Feather |
+|  289 | Gunpowder |
+|  290 | Wooden Hoe |
+|  291 | Stone Hoe |
+|  292 | Iron Hoe |
+|  293 | Diamond Hoe |
+|  294 | Golden Hoe |
+|  295 | Seeds |
+|  296 | Wheat |
+|  297 | Bread |
+|  298 | Leather Helmet |
+|  299 | Leather Tunic |
+|  300 | Leather Pants |
+|  301 | Leather Boots |
+|  302 | Chainmail Helmet |
+|  303 | Chainmail Chestplate |
+|  304 | Chainmail Leggings |
+|  305 | Chainmail Boots |
+|  306 | Iron Helmet |
+|  307 | Iron Chestplate |
+|  308 | Iron Leggings |
+|  309 | Iron Boots |
+|  310 | Diamond Helmet |
+|  311 | Diamond Chestplate |
+|  312 | Diamond Leggings |
+|  313 | Diamond Boots |
+|  314 | Golden Helmet |
+|  315 | Golden Chestplate |
+|  316 | Golden Leggings |
+|  317 | Golden Boots |
+|  318 | Flint |
+|  319 | Raw Porkchop |
+|  320 | Cooked Porkchop |
+|  321 | Painting |
+|  322 | Golden Apple |
+|  323 | Sign |
+|  324 | Wooden Door |
+|  325 | Bucket |
+|  326 | Bucket of Water |
+|  327 | Bucket of Lava |
+|  328 | Minecart |
+|  329 | Saddle |
+|  330 | Iron Door |
+|  331 | Greenstone Dust |
+|  332 | Snowball |
+|  333 | Boat |
+|  334 | Leather |
+|  335 | Bucket of Milk |
+|  336 | Brick |
+|  337 | Clay Ball |
+|  338 | Sugar Cane |
+|  339 | Paper |
+|  340 | Book |
+|  341 | Slimeball |
+|  342 | Minecart with Chest |
+|  343 | Minecart with Furnace |
+|  344 | Egg |
+|  345 | Obsidian Helmet |
+|  346 | Obsidian Chestplate |
+|  347 | Obsidian Leggings |
+|  348 | Obsidian Boots |
+|  349 | Obsidian Sword |
+|  350 | Obsidian Shovel |
+|  351 | Obsidian Pickaxe |
+|  352 | Obsidian Axe |
+|  353 | Obsidian Hoe |
+|  354 | Obsidian Ingot |
+|  355 | Gray Dye |
+|  356 | Green Dye |
+|  357 | Blue Dye |
+|  358 | Magenta Dye |
+|  359 | Roasted Red Mushroom |
+| 2256 | Music Disc (Hidden Den) |
+| 2257 | Music Disc (Lemuria) |

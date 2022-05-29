@@ -8,11 +8,13 @@ This is a guide on decompiling and deobfuscation of the third publicly released 
 ## 0. Notes and prerequisites
 This guide assumes that you are using Windows. If you are on a different operating system, you can try to figure out similar instructions.
 
+A day after this guide has been created, a new method of decompilation has been discovered. However, it is quite complicated. If you want to stay simple, read on. If you want more accurate code, go over to [this Discord message](https://discord.com/channels/773771861812183080/978673408386670762/980382428340305930) and figure things out yourself.
+
 Please do not distribute your modded jars! They contain deobfuscated source code, which may or may not be illegal! Also, at the time of writing this sentence, people are looking at ways to use Fabric instead, so this guide might soon become obsolete. Also, keep in mind that a few classes have the wrong names when deobfuscated, but that should not be too much of a problem.
 
 You are going to need the following:
 * A JDK, for compiling and decompiling Java code. You can get one at [Adoptium](https://adoptium.net/).
-* Lilypad_qa.jar, [download link 1 (mirror)](../jar/), [download link 2 (original)](https://www.mediafire.com/file/uo2zqueiw2e872y/lilypad_qa.jar/file)
+* Lilypad_qa.jar, [download link 1 (mirror)](../jar/), [download link 2 (original)](https://www.mediafire.com/file/uo2zqueiw2e872y/lilypad_qa.jar/file) (obviously)
 * [RetroMCP-Java](https://github.com/MCPHackers/RetroMCP-Java/releases/latest), for deobfuscation and recompilation.
 * [Recaf](https://github.com/Col-E/Recaf/releases/latest), for modifying the jar file to make deobfuscation work *(Alternatives that can modify jars can be used)*.
 * *Optional: [Visual Studio Code](https://code.visualstudio.com/), for editing the source code with ease. Also install [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) for features you would find in an IDE.*
@@ -50,8 +52,8 @@ Once you have the modified jar, rename it to “minecraft.jar” and move it to 
 ![](https://lh3.googleusercontent.com/f0J5MD3Agqr3ybiTwZFjIKfPCRXRgNfC53ajAlsZxSQmV5_O3twsVrk-pL1faZpRNqRPO-4SULMUwG2i7ky0TJ8JGwr7uDgb6yADY0YxTBjnehzkcl0IHD1N2-3W23pt53sV1-tF0Y-I6hjSrw)
 
 If you are a Visual Studio Code user, you can take the time to delete the workspace folder (this folder is useful if you use the Eclipse IDE), rename RetroMCP-Java-all.jar to mcp.jar, [download this zip file](https://drive.google.com/file/d/1lqJgnaZ7Jm81tM3J-Ab9gekd-JCnKjiE/view?usp=sharing) and move all the files from the zip to your folder containing RetroMCP-Java. These files will speed up development. Here’s how it works:
-* Run *Tasks*: Run Build Task on the command palette (Ctrl+Shift+P) to build Lilypad and run it.
-* Run *Tasks*: Run Test Task on the command palette to close Lilypad, in case the X button does not work.
+* Run *Tasks: Run Build Task* on the command palette (Ctrl+Shift+P) to build Lilypad and run it.
+* Run *Tasks: Run Test Task* on the command palette to close Lilypad, in case the X button does not work.
 Feel free to edit the workspace settings if you’re not a fan of hiding files and file nesting. To open the folder in Visual Studio Code, right click on the explorer, select “Show more options” if you are using Windows 11 and click on “Open with Code”.
 
 ## 4. Fixing the source code
@@ -74,6 +76,9 @@ Decompiled source code isn’t always perfect. However, you can fix it. The sour
   * After:
 
     ![](https://lh6.googleusercontent.com/7ZqNtkwmftur19G1v48z_zT3K8tZwTv4nP9ZSpD67X374tHRGOyyrD4HIZppUfz0jjfvGMuepNbe-hHVcmT3dlRZBj0T8qgHDMDOjHdW4uc2IBgkc0A7C_n6ZKZPv3i6c-KGI0dtBr1J9AT5EQ)
+  * Using the Extension Pack for Java makes this process easier. Press Ctrl+Period on the error squiggles and click on “Add throws declaration”:
+    
+    ![](https://lh5.googleusercontent.com/QlNUTSvNmiRO2-Y2pU5slVVvHwDp_JMHTwxIOjyXWHcYTFYFiT1_R556kRBuZCRoM5FzO3ENnrvud58MPtum3-OzQOfCNPDis5N3L1OiK5I9VITTwTW3Pt3UtNMhNFXmNrdxVRQCS8sAyoTmcg)
 * Delete BlockMinecartTrack.java. There is a duplicate that is used instead with the name “ClassIf”.
 * In Minecraft.java (inside src/minecraft/net/minecraft/client), add in `InputHandler.mc = this;` after line 140:
 
@@ -96,3 +101,24 @@ Don’t forget to turn on “Show FPS” in the settings!
 ![](https://lh4.googleusercontent.com/dBgMazTJ9FOBky2XH3tjDfr09czH5Du3gwalpkKtu4U8k8izCyesflAgyNayQ1aH30Iq9Pik3S3_F1rqQaW8qqKTruTVgw7K-n3_EiRndAxYLaQIE50NCf1mmp8VNYV8fn0TrNUn1vsRCqSMaw)
 
 That’s more like it! Now you have your own version of Lilypad you can tinker around and mess around with! The number 2,147,483,647’s the limit! I hope this guide helps. If a new version comes out, the process should be similar. If you want to know some basic mods, read on. Otherwise, have fun modding!
+
+*And if you’re wondering, here’s my Visual Studio Code theme:*
+![](https://lh5.googleusercontent.com/-PQF3VN9cdxzVuYvS8mQz24H7cJFO8o-DsxdDqrm7vM_U67FhbtDNtLr8mnHTHq2dYmGLp6DbdYr-1BMy1CTaxfq0L19YdU0Ghvhf9XM76_W1f1XQd9gnYsvCpp733t3tpeUI4x9q-JfEmsCig)
+
+# Sample mods
+
+## 1: Permanent 10pm-5am
+![](https://lh4.googleusercontent.com/UAU1Y3SAQH7h2qQwDhO6ONQzpf1IUCBXvJzyGocZoJuDPkXI2Fxy6_kUQ9kZZukXQq812RwqmTY4SJlmgko-PFDvYeZLORfqT1jdQYUVCUjyEw-ItfUC2LzG5nW22-btCdwEjdTHOdLDk6zHpA)
+
+Do you want to see the wacky world generation that happens at midnight but you don't have enough sleep for that? This is where decompilation comes in useful!
+
+On line 181 of GuiEditSign.java:
+* Replace `boolean z8 = this.time_hr > 22 || this.time_hr < 5;` with `boolean z8 = true;`.
+
+On line 25 of RenderPainting.java:
+* Replace `this.loadTexture(true ? "/art/kz.png" : "/art/zz.png");` with `this.loadTexture("/art/zz.png");`.
+
+On line 100 of ThreadDownloadResources.java:
+* Replace `InputStream inputStream3 = this.getClass().getResourceAsStream(i2 <= 22 && i2 >= 5 ? "/soundres.txt" : "/soundres_a.txt");` with `InputStream inputStream3 = this.getClass().getResourceAsStream("/soundres_a.txt");`.
+
+Relative to the folder containing RetroMCP, save [this file](https://i.imgur.com/OSNJME7.png) to src/minecraft/art/zz.png. If you do not download this file, the game will crash because it does not exist in Lilypad QA.

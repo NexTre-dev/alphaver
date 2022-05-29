@@ -10,6 +10,13 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 - [ ] Incident Reports
 - [ ] Write down every chat message that happened in videos
 
+## List of Questions
+- [ ] What does R.O.S.T.R.U.M stand for?
+- [ ] Where are the codes 5 and 8?
+- [ ] Are any messages sent during the sightings important?
+- [ ] What do the paintings mean?
+- [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
+
 ## Outline
 ### 1. Basic Lore
 * [Developers](/lore/developers.md)

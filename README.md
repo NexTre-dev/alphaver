@@ -6,6 +6,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 ## To-do List
 - [X] Video Analyzation
 - [X] Images & Pictures *(mostly done)*
+- [ ] File, audio and image analyzations *
 - [ ] Incident Reports
 - [ ] Write down every chat message that happened in videos
 

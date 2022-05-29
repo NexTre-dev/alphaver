@@ -18,20 +18,12 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 - [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
 
 ## Outline
-<table>
-    <tr>
-    <td valign="top">
-
 ### 1. Basic Lore
 * [Developers](/lore/developers.md)
 * [Other Characters](/lore/other-characters.md)
 * [Invasion Players](/lore/invasion-players.md)
 * [Codes](/lore/codes.md)
 * [Anomalies](/lore/anomalies.md)
-
-    </td>
-    <td valign="top">
-
 ### 2. Videos & Analyzation
 * [Entry point](/videos/entry-point.md)
 * [Version 01](/videos/version-01.md)
@@ -54,10 +46,6 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Discovered](/videos/discovered.md)
 * [????](/videos/question-mark.md)
 * [Sunrise](/videos/sunrise.md) *(Latest Video)*
-
-    </td>
-    <td valign="top">
-
 ### 3. Sightings
 * [Sighting #1](sightings/sighting-1.md)
 * [Sighting #2](sightings/sighting-2.md)
@@ -71,10 +59,6 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Sighting #10](sightings/sighting-10.md)
 * [Sighting #11](sightings/sighting-11.md)
 * [Sighting #12](sightings/sighting-12.md)
-
-    </td>
-    </tr>
-</table>
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)

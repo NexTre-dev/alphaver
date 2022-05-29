@@ -102,7 +102,7 @@ Don’t forget to turn on “Show FPS” in the settings!
 
 That’s more like it! Now you have your own version of Lilypad you can tinker around and mess around with! The number 2,147,483,647’s the limit! I hope this guide helps. If a new version comes out, the process should be similar. If you want to know some basic mods, read on. Otherwise, have fun modding!
 
-*And if you’re wondering, here’s my Visual Studio Code theme:*
+*And if you’re wondering, here’s my Visual Studio Code theme:*  
 ![](https://lh5.googleusercontent.com/-PQF3VN9cdxzVuYvS8mQz24H7cJFO8o-DsxdDqrm7vM_U67FhbtDNtLr8mnHTHq2dYmGLp6DbdYr-1BMy1CTaxfq0L19YdU0Ghvhf9XM76_W1f1XQd9gnYsvCpp733t3tpeUI4x9q-JfEmsCig)
 
 # Sample mods

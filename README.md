@@ -20,7 +20,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 ## Outline
 <table>
     <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
 
 ### 1. Basic Lore
 * [Developers](/lore/developers.md)
@@ -30,7 +30,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Anomalies](/lore/anomalies.md)
 
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
 
 ### 2. Videos & Analyzation
 * [Entry point](/videos/entry-point.md)
@@ -56,7 +56,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Sunrise](/videos/sunrise.md) *(Latest Video)*
 
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
 
 ### 3. Sightings
 * [Sighting #1](sightings/sighting-1.md)

@@ -46,6 +46,19 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Discovered](/videos/discovered.md)
 * [????](/videos/question-mark.md)
 * [Sunrise](/videos/sunrise.md) *(Latest Video)*
+### 3. Sightings
+* [Sighting #1](sightings/sighting-1.md)
+* [Sighting #2](sightings/sighting-2.md)
+* [Sighting #3](sightings/sighting-3.md)
+* [Sighting #4](sightings/sighting-4.md)
+* [Sighting #5](sightings/sighting-5.md)
+* [Sighting #6](sightings/sighting-6.md)
+* [Sighting #7](sightings/sighting-7.md)
+* [Sighting #8](sightings/sighting-8.md)
+* [Sighting #9](sightings/sighting-9.md)
+* [Sighting #10](sightings/sighting-10.md)
+* [Sighting #11](sightings/sighting-11.md)
+* [Sighting #12](sightings/sighting-12.md)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)
@@ -54,6 +67,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Jar Files](/jar/)
 * [Item & Block IDs](/resources/ids.md)
 * [OST.rar](/resources/ost-rar.md)
+* [The milestone mechanic](mechanics/milestone.md)
 
 ## Contribution
 Feel free to create any pull requests or open issues if you want to contribute to the documentation. Anything is appriciated.

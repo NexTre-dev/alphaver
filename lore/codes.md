@@ -9,7 +9,7 @@
    - Codes 0-4 are found by getting to the milestone 10 in the [Lilypad Release](), every code is restricted to a different account.
 5. *unknown*
 6. ee16f45ea4d60
-   - Seen in video [????]().
+   - Seen in video [????](../videos/question-mark.md).
 7. 4d0feb521f160
-   - Seen in comments of [OST.rar]().
+   - Seen in comments of [OST.rar](../resources/ost-rar.md).
 1. unknown

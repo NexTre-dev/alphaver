@@ -13,7 +13,7 @@ Thankfully, we managed to find someone with more saved footage. We have yet to r
 ## Characters
 * orble
   * Playtester ID is `78cd-f96d`
-  * The same skin and world is seen in [Presentation]()
+  * The same skin and world is seen in [Presentation](presentation.md)
 
 ## Anomalies
 * 0:05:45:

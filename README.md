@@ -24,6 +24,19 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Version 06](/videos/version-06.md)
 * [Version 07](/videos/version-07.md)
 * [Internal footage 1](/videos/internal-footage-1.md)
+* [Attempt to run today](/videos/attempt-to-run-today.md)
+* [Version 10](/videos/version-10.md)
+* [Internal footage 2](/videos/internal-footage-2.md)
+* [Developer preview](/videos/developer-preview.md)
+* [Unknown Version](/videos/unknown-version.md)
+* [Closed Preview](/videos/closed-preview.md)
+* [Feature Testing](/videos/feature-testing.md)
+* [Internal footage 3](/videos/internal-footage-3.md)
+* [Version 13](/videos/version-13.md)
+* [Presentation](/videos/presentation.md)
+* [Discovered](/videos/discovered.md)
+* [????](/videos/question-mark.md)
+* [Sunrise](/videos/sunrise.md) *(Latest Video)*
 
 ## Guides & Resources
 * ~~[Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)~~

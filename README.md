@@ -99,6 +99,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 ### 7. Other Content
 * [OST.rar](/resources/ost-rar.md)
 * [Jar Files](/jar/)
+* [All Items in playable versions](items/README.md)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)

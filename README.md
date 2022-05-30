@@ -9,9 +9,9 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Video Analyzation~~
 - [X] ~~Sighting/Incident Reports~~
 - [X] ~~File, audio and image analyzations~~
-- [ ] Write down every chat message that happened in videos *
+- [X] ~~Write down every chat message that happened in videos~~
+- [ ] Images & Pictures, Videos *
 - [ ] Organize the analyzation of the Lilypad .jar
-- [ ] Images & Pictures, Videos
 - [ ] Item documentation
 - [ ] Add youtube links to each video
 

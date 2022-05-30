@@ -42,17 +42,17 @@ Some sound effects this version includes.
 #### Ambience
 * cave1.ogg
   * 0:09.024, stereo, 44.1 kHz sample rate
-  * [Listen here](https://drive.google.com/file/d/1HO0QjCTAc0-XlByMJ_roKfs7w9fGy3Mx/view?resourcekey)
+  * [🔊 Listen here](https://drive.google.com/file/d/1HO0QjCTAc0-XlByMJ_roKfs7w9fGy3Mx/view?resourcekey)
 * cave2.ogg
   * 0:06.177, mono, 22.05 kHz sample rate
-  * [Listen here](https://drive.google.com/file/d/1dB0zTpmNn0PhFf8mCoKnds5oyoAB_sFC/view?resourcekey)
+  * [🔊 Listen here](https://drive.google.com/file/d/1dB0zTpmNn0PhFf8mCoKnds5oyoAB_sFC/view?resourcekey)
 * cave3.ogg
   * 0:15.995, mono, 22.05 kHz sample rate
-  * [Listen here](https://drive.google.com/file/d/1Lg7ENJMsFzSNIQ69I_OkTOZc4Lb7zXhJ/view?resourcekey)
+  * [🔊 Listen here](https://drive.google.com/file/d/1Lg7ENJMsFzSNIQ69I_OkTOZc4Lb7zXhJ/view?resourcekey)
 * cave4.ogg
   * 0:08.944, stereo, 22.05 kHz sample rate
   * This one is *almost* a palindrome
-  * [Listen here](https://drive.google.com/file/d/1EU7ohsJdhG0Z7zipXztYleJKPFxvIkOo/view?resourcekey&usp=slides_web)
+  * [🔊 Listen here](https://drive.google.com/file/d/1EU7ohsJdhG0Z7zipXztYleJKPFxvIkOo/view?resourcekey&usp=slides_web)
 
 ### PH1.rar
 | Found in        | File Size | Password Protected?                                      |

@@ -89,6 +89,9 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
 * [A guide about giants](/mobs/LilypadGiant.md)
 
+#### Preview Versions
+* [Analyzation of the Preview 2 .jar](/resources/preview-2-analyzation.md)
+
 ### 6. Mechanics
 * [The milestone mechanic](mechanics/milestone.md)
 * [The chunk name mechanic](mechanics/chunk-names.md)

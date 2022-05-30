@@ -61,6 +61,10 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Sighting #12](sightings/sighting-12.md)
 ### 4. Chat Messages
 * [Entry Point](/chat_messages/entry-point.md)
+### 5. Game Content
+#### Lilypad
+* [Analyzation of the Lilypad .jar](/jar/lilypad_qa/README.md#analyzation)
+* [A guide about giants](/mobs/LilypadGiants.md)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)

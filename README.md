@@ -7,8 +7,11 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 - [X] Video Analyzation
 - [X] Images & Pictures *(mostly done)*
 - [X] Sighting/Incident Reports
-- [ ] File, audio and image analyzations *
-- [ ] Write down every chat message that happened in videos
+- [X] File, audio and image analyzations
+- [ ] Write down every chat message that happened in videos *
+- [ ] Organize the analyzation of the Lilypad .jar
+
+*\* = working on it*
 
 ## List of Questions
 - [ ] What does R.O.S.T.R.U.M stand for?

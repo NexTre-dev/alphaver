@@ -85,23 +85,27 @@ There is only one file, **stdout.txt**, it contains a youtube link to [the video
 | content.rar  | 3.6 MB    |
 | 40_0.txt     | 371 bytes |
 
+<details open><summary>
+
 ### 40_0.txt
-> "You can't tell me none of you have noticed it.
-> 
-> 
-> The weird buildings people have been posting on the internet?
-> 
-> [...]
-> 
-> There are not many of these posts, but they all seem consistent
-> 
-> on top of that, we may have a record of the very thing happening in our own branch,  
-> if we can even call it that.
-> 
-> Is [0] behind this too?"
-> 
-> 
-> "What the hell"
+</summary>
+
+```txt
+"You can't tell me none of you have noticed it.
+
+The weird buildings people have been posting on the internet?
+[...]
+There are not many of these posts, but they all seem consistent
+on top of that, we may have a record of the very thing happening in our own branch,
+if we can even call it that.
+
+Is [0] behind this too?"
+
+"What the hell"
+
+
+```
+</details>
 
 ### content.rar
 | Found in | File Size | Password Protected?                                                                      |
@@ -125,78 +129,137 @@ There is only one file, **stdout.txt**, it contains a youtube link to [the video
 
 *\* = i'm way too lazy to check, if you have time open a pr about this, ty <3*
 
+<details open><summary>
+
 ### 39_0.txt
+
 | Found in     | File Size |
 | -----------  | --------- |
-| content.rar  | unknown   |
-> MINECRAFT ALPHA 1.0.16 VERSIONS
-> 
-> created 2021-2022
-> 
-> Thank you to everyone involved, incl. playtesters  
-> \- from lead dev
-> 
-> 16.04.2022
+| content.rar  | unknown*  |
+</summary>
 
-### f***.mp4
+```txt
+MINECRAFT ALPHA 1.0.16 VERSIONS
+created 2021-2022
+
+Thank you to everyone involved, incl. playtesters
+- from lead dev
+
+16.04.2022
+```
+</details>
+
+<details open><summary>
+
+### f***.mp4[^1]
+
 | Found in     | File Size |
 | -----------  | --------- |
-| content.rar  | unknown   |
+| content.rar  | unknown*  |
+</summary>
 
-*(video)*
+https://user-images.githubusercontent.com/89975834/170937701-b343ab3d-838e-4861-962d-480dccde7800.mp4
+</details>
+
+<details open><summary>
 
 ### image0.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 102KB     | 436x276    |
 
-<img src="https://lh4.googleusercontent.com/0DiyibFpVodaDxAYXE6SM-DPbO6as-ZfJn7YO0N9sGvS0qeCk8yoWhRrkCNxRZBEAHfynGzObdfblP1ZeqW1LUCg0kua7GtJxUwTkOP2HaBuaGFUNyp_AjSq8Nli0F2sh_IS9liWAnAsGuVfCNQ6WQ" width="400">
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 102KB     | 436 x 276    |
+</summary>
+<img src="https://lh4.googleusercontent.com/0DiyibFpVodaDxAYXE6SM-DPbO6as-ZfJn7YO0N9sGvS0qeCk8yoWhRrkCNxRZBEAHfynGzObdfblP1ZeqW1LUCg0kua7GtJxUwTkOP2HaBuaGFUNyp_AjSq8Nli0F2sh_IS9liWAnAsGuVfCNQ6WQ" width="400"/>
+</details>
+
+<details open><summary>
 
 ### image1.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 70KB      | 422x250    |
 
-<img src="https://lh4.googleusercontent.com/9pxrx7VVOA7K8Q7Jh_BJlMCE9hiL6sQ6ZI9B9qkMF_MEMGaEnx4i45aRxgJ0uyPVeenxnHlhCeHNyt5wGAGngVwQEDl9DcyHMwYvJlU4LByLjWvPecAjfeZw-34r8DlN8rTbzqwhvGdp0iQ2j0ILWw" width="400">
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 70KB      | 422 x 250    |
+</summary>
+<img src="https://lh4.googleusercontent.com/9pxrx7VVOA7K8Q7Jh_BJlMCE9hiL6sQ6ZI9B9qkMF_MEMGaEnx4i45aRxgJ0uyPVeenxnHlhCeHNyt5wGAGngVwQEDl9DcyHMwYvJlU4LByLjWvPecAjfeZw-34r8DlN8rTbzqwhvGdp0iQ2j0ILWw" width="400"/>
+</details>
 
-### image3.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 111KB     | 423x267    |
+<details open><summary>
 
-<img src="https://lh5.googleusercontent.com/D-uqdIfG9YKFnKnx1rPOc-tQhFPlpn6ft29AcsmvpHnvUaF4s43ImwobldKdRzWp-yNqZcaYx_ObauFQb-_TokcNQOr_u6LCEA-HL1CqTGLMIhR8EPu11QfkDTmBRL_xkU8nuqAkK3p_UidJfpuu5Q" width="400">
+### image2.png
+
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | unknown*  | 431 x 285    |
+</summary>
+<img src="https://user-images.githubusercontent.com/89975834/170946175-91a04446-10e3-4192-91a7-2d20788f0e01.png" width="400"/>
+</details>
+
+<details open><summary>
+
+### image3.png[^1]
+
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 111KB     | 423 x 267    |
+</summary>
+<img src="https://user-images.githubusercontent.com/89975834/170943887-0bd59a29-0700-4d20-91dd-1c1cb599530f.png" width="400"/>
+
+[*open original*](https://lh5.googleusercontent.com/D-uqdIfG9YKFnKnx1rPOc-tQhFPlpn6ft29AcsmvpHnvUaF4s43ImwobldKdRzWp-yNqZcaYx_ObauFQb-_TokcNQOr_u6LCEA-HL1CqTGLMIhR8EPu11QfkDTmBRL_xkU8nuqAkK3p_UidJfpuu5Q)
+</details>
+
+<details open><summary>
 
 ### image4.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 188KB     | 396x368    |
 
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 188KB     | 396 x 368    |
+</summary>
 <img src="https://lh6.googleusercontent.com/rEyUWBQ4USNCwV7kfa5yPs_NmfnOKWumwu5vammbeoWf_8I6EYTJzCbQss3OHCjyrwWE5dUZIJpRPuK9C8qmsabFxc42q20nkYj9mIBWNF9wqZORzS3w8OGJQO-q7QQVbwDYXDiPmJvCTcIrS6QVHg" width="400">
+</details>
+
+<details open><summary>
 
 ### image5.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 53KB      | 439x266    |
 
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 53KB      | 439 x 266    |
+</summary>
 <img src="https://lh6.googleusercontent.com/r3_3l7mMhySrMp7hL_bPgWPZN2HnXS7KkczRu9Z84lT_QrGTtZMPbE8zrGz-YUjNseJlEIL7pbApFOIY-Jgysk9_LHnpKo01lm4_3GOZPJ1hCa4WlVG4g1y4LhxC8IHsee1Pbl4VEDd-RUeIPjY0KA" width="400">
+</details>
+
+<details open><summary>
 
 ### image6.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 303KB     | 628x464    |
 
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 303KB     | 628 x 464    |
+</summary>
 <img src="https://lh5.googleusercontent.com/xgGs8-QhYF7dJALd4yXlqQcT6t9b-PbpFiMoAzEJ5isLvJmq3AT_HJS885o66ZerxzPmvuK1RLbHIFNDAi_oE6aNSFqC352JrQ2SgNRzKibDclZsfaSk3bfMp5s8m3B1NsBcKucR_dqrba1rw6QV5g" width="400">
+</details>
+
+<details open><summary>
 
 ### image7.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 70KB      | 425x244    |
 
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 70KB      | 425 x 244    |
+</summary>
 <img src="https://lh5.googleusercontent.com/_qZ60-_jD8f1t4z_sAYN-0b1KW4GJmeJuxTcKke18iKPHvYx6djWXCcxKZ0zKahmRreHWczMKu0jF37EHhDj7FPezh85Y-c1ptbVeiwq04r58X5KrZIa_JV7RqLVL9j0mwowAxJcj8Cb-8TMLNpGiw" width="400">
+</details>
 
-### Screenshot_at_2022-01-13_12-13-01.png.png
-| Found in     | File Size | Dimensions |
-| -----------  | --------- | ---------- |
-| content.rar  | 545KB     | 1920x1080  |
+<details open><summary>
 
+### Screenshot_at_2022-01-13_12-13-01.png
+
+| Found in     | File Size | Dimensions   |
+| -----------  | --------- | ------------ |
+| content.rar  | 545KB     | 1920 x 1080  |
+</summary>
 <img src="https://lh5.googleusercontent.com/MMv1aMPaqtKBbvs6fIirxDWlZoZT70QNgQ_185nmtDXfh-R_ppicc_W0QgD4v8LFdrt17ka2ua-zWDDhuQHFBcmZh-fVhjsAA3pG0JY6HgmfkzxBCHQ24PT77SNH1KOvy3psqBXua4cwRZkYdkOdFg" width="400">
+</details>
+
+[^1]: Censored

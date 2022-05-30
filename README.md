@@ -69,7 +69,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Sighting #10](sightings/sighting-10.md)
 * [Sighting #11](sightings/sighting-11.md)
 * [Sighting #12](sightings/sighting-12.md)
-* 
+  
 ### 4. Chat Messages
 * [Entry Point](/chat_messages/entry-point.md)
 * [Version 01](chat_messages/version-01.md)

@@ -16,6 +16,7 @@ dev1 was seen on the website of [Internal footage 2](../videos/internal-footage-
 
 ### dev2
 dev2 was seen in-game in the video [Sunrise](../videos/sunrise.md), and mentioned in the description of [Sunrise](../videos/sunrise.md).
+Persumably passed away.
 
 ### dev3
 dev3 was mentioned in the description of [Presentation](../videos/presentation.md).

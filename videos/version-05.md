@@ -1,6 +1,6 @@
 [← Home Page](../README.md)
 
-# Video #%: Version 05
+# Video #5: Version 05
 | Post Date  | Minecraft Version             | Length  | FPS | Resolution |
 | ---------  | ----------------------------- | ------- | --- | ---------- |
 | 2021-08-04 | Minecraft Alpha v1.0.16_05_05 | 1:01:46 | 60  | 1080x720   |

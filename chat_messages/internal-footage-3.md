@@ -50,7 +50,7 @@
 > **Sh:166f315 joined**  
 > **Sh:46748c8 joined**  
 > **Sh:188ed963 joined**  
-> **dev4:** 0 pushed some changes, adn now this happens  
+> **dev4:** 0 pushed some changes, and now this happens  
 > **Sh:d3952d8 joined**  
 > **Sh:1325b236 joined**  
 > **Sh:4826079 joined**  

@@ -10,6 +10,8 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 - [ ] Write down every chat message that happened in videos *
 - [ ] Organize the analyzation of the Lilypad .jar
 - [ ] Images & Pictures, Videos
+- [ ] Item documentation
+- [ ] Add youtube links to each video
 
 *\* = working on it*
 

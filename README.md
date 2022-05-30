@@ -70,11 +70,15 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Entry Point](/chat_messages/entry-point.md)
 * [Version 01](chat_messages/version-01.md)
 * [The search](chat_messages/the-search.md)
+* [Version 03](chat_messages/version-03.md)
 * [Version 06](chat_messages/version-06.md)
 * [Version 07](chat_messages/version-07.md)
 * [Attempt to run today](chat_messages/attempt-to-run-today.md)
 * [Version 10](chat_messages/version-10.md)
 * [Internal footage 3](chat_messages/internal-footage-3.md)
+* [Presentation](chat_messages/presentation.md)
+* [Discovered](chat_messages/discovered.md)
+* [Sunrise](chat_messages/sunrise.md)
 
 ### 5. Game Content
 #### Lilypad

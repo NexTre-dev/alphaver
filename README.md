@@ -31,6 +31,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Invasion Players](/lore/invasion-players.md)
 * [Codes](/lore/codes.md)
 * [Anomalies](/lore/anomalies.md)
+
 ### 2. Videos & Analyzation
 * [Entry point](/videos/entry-point.md)
 * [Version 01](/videos/version-01.md)
@@ -53,6 +54,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Discovered](/videos/discovered.md)
 * [????](/videos/question-mark.md)
 * [Sunrise](/videos/sunrise.md) *(Latest Video)*
+
 ### 3. Sightings
 > **WARNING:** Due to the method of becoming a `Shadow Player` is public now, these sightings *(and further ones)* should be disregarded, even though the ones below mean absolutely nothing.
 * [Sighting #1](sightings/sighting-1.md)
@@ -67,6 +69,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Sighting #10](sightings/sighting-10.md)
 * [Sighting #11](sightings/sighting-11.md)
 * [Sighting #12](sightings/sighting-12.md)
+* 
 ### 4. Chat Messages
 * [Entry Point](/chat_messages/entry-point.md)
 * [Version 01](chat_messages/version-01.md)
@@ -83,17 +86,21 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 
 ### 5. Game Content
 #### Lilypad
-* [Analyzation of the Lilypad .jar](/jar/lilypad_qa/README.md#analyzation)
+* [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
 * [A guide about giants](/mobs/LilypadGiant.md)
+
+### 6. Mechanics
+* [The milestone mechanic](mechanics/milestone.md)
+
+### 7. Other Content
+* [OST.rar](/resources/ost-rar.md)
+* [Jar Files](/jar/)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)
 * [not Zsoz#0001's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
 * [How to turn into a shadow player](resources/shadow-player.md)
-* [Jar Files](/jar/)
 * [Item & Block IDs](/resources/ids.md)
-* [OST.rar](/resources/ost-rar.md)
-* [The milestone mechanic](mechanics/milestone.md)
 
 ## Contribution
 Feel free to create any pull requests or open issues if you want to contribute to the documentation. Anything is appriciated.

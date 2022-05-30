@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #8: Internal footage 1
-| Post Date  | Minecraft Version                                                    | Length  | FPS | Resolution |
-| ---------  | -------------------------------------------------------------------- | ------- | --- | ---------- |
-| 2021-08-31 | Minecraft Alpha v1.0.16_02 [RECRUITMENT IN PROGRESS; ID: 8b92af5de8] | 1:42:12 | 60  | 1920x1080  |
+| Post Date  | Minecraft Version                                                    | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | -------------------------------------------------------------------- | ------- | --- | ---------- | ----------------- |
+| 2021-08-31 | Minecraft Alpha v1.0.16_02 [RECRUITMENT IN PROGRESS; ID: 8b92af5de8] | 1:42:12 | 60  | 1920x1080  | [Watch it here](https://www.youtube.com/watch?v=Z4w1YChA_7c) |
 
 ## Description
 "We paid them [Mojang], so they let us do that, and even gave us access to the auth system. How the project manager pulled it off is beyond me."

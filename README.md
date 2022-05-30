@@ -12,8 +12,8 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Write down every chat message that happened in videos~~
 - [X] ~~Images & Pictures, Videos~~
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
+- [X] ~~Add youtube links to each video~~
 - [ ] Item documentation
-- [ ] Add youtube links to each video *
 
 *\* = working on it*
 

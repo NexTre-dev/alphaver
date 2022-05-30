@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #19: Discovered
-| Post Date  | Minecraft Version                     | Length   | FPS     | Resolution |
-| ---------  | ------------------------------------- | -------- | ------- | ---------  |
-| 2022-04-16 | Minecraft Alpha v1.0.16.05_13 Lilypad | 0:58:00  | 29.97   | 1280x720   |
+| Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
+| ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
+| 2022-04-16 | Minecraft Alpha v1.0.16.05_13 Lilypad | 0:58:00  | 29.97   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=aozla1r6yVM) |
 
 > This is a downloadable Lilypad client.  
 > **ONLY RUN THESE FILES AT YOUR OWN RISK!**

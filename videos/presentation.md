@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #18: Presentation
-| Post Date  | Minecraft Version                     | Length   | FPS     | Resolution |
-| ---------  | ------------------------------------- | -------- | ------- | ---------  |
-| 2022-01-31 | Minecraft Alpha v1.0.16.05_13 Lilypad | 2:26:11  | 59.94   | 1280x720   |
+| Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
+| ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
+| 2022-01-31 | Minecraft Alpha v1.0.16.05_13 Lilypad | 2:26:11  | 59.94   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=h0TGeSA6GvA) |
 
 ## Description
 "This you, ORBL?"

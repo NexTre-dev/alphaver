@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #13: Unknown Version
-| Post Date  | Minecraft Version          | Length  | FPS | Resolution |
-| ---------  | -------------------------- | ------- | --- | ---------- |
-| 2021-10-07 | Minecraft Alpha v1.0.16.05 | 0:55:20 | 60  | 1280x1080  |
+| Post Date  | Minecraft Version          | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | -------------------------- | ------- | --- | ---------- | ----------------- |
+| 2021-10-07 | Minecraft Alpha v1.0.16.05 | 0:55:20 | 60  | 1280x1080  | [Watch it here](https://www.youtube.com/watch?v=wSSrGSEbS8M) |
 
 ## Description
 "What the hell is this footage"

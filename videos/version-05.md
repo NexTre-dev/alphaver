@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #5: Version 05
-| Post Date  | Minecraft Version             | Length  | FPS | Resolution |
-| ---------  | ----------------------------- | ------- | --- | ---------- |
-| 2021-08-04 | Minecraft Alpha v1.0.16_05_05 | 1:01:46 | 60  | 1080x720   |
+| Post Date  | Minecraft Version             | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | ----------------------------- | ------- | --- | ---------- | ----------------- |
+| 2021-08-04 | Minecraft Alpha v1.0.16_05_05 | 1:01:46 | 60  | 1080x720   | [Watch it here](https://www.youtube.com/watch?v=c4AODDweOV8) |
 
 ## Description
 "Just footage of me walking around. I want to believe that the thing with the weird white doors is just a glitch, but on this version I can't be sure."

@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #7: Version 07
-| Post Date  | Minecraft Version             | Length  | FPS | Resolution |
-| ---------  | ----------------------------- | ------- | --- | ---------- |
-| 2021-08-12 | Minecraft Alpha v1.0.16_05_07 | 1:20:42 | 60  | 1280x720   |
+| Post Date  | Minecraft Version             | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | ----------------------------- | ------- | --- | ---------- | ----------------- |
+| 2021-08-12 | Minecraft Alpha v1.0.16_05_07 | 1:20:42 | 60  | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=aLyvQq_Aajw) |
 
 ## Description
 Thankfully, we managed to find someone with more saved footage. We have yet to recover a jar of any of these versions, but looking at how fast we're progressing, it's only a matter of time.

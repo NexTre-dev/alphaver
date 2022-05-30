@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #16: Internal footage 3
-| Post Date  | Minecraft Version                                    | Length   | FPS  | Resolution |
-| ---------  | ---------------------------------------------------- | -------- | ---- | ---------  |
-| 2022-01-12 | Minecraft Alpha v1.0.16.05_13 Lilypad QA BUILD: DEV6 | 5:35:36  | 60   | 1280x720   |
+| Post Date  | Minecraft Version                                    | Length   | FPS  | Resolution | Youtube Link      |
+| ---------  | ---------------------------------------------------- | -------- | ---- | ---------  | ----------------- |
+| 2022-01-12 | Minecraft Alpha v1.0.16.05_13 Lilypad QA BUILD: DEV6 | 5:35:36  | 60   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=OrrlwoyW0h8) |
 
 > This video contains [OST.rar](../resources/ost-rar.md), it's a collection of music.  
 > It can be downloaded from https://www.mediafire.com/file/uek5chnjsibm0kd/OST.rar/file.

@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #2: Version 01
-| Post Date  | Minecraft Version             | Length  | FPS | Resolution |
-| ---------  | ----------------------------- | ------- | --- | ---------- |
-| 2021-08-01 | Minecraft Alpha v1.0.16_05_01 | 0:45:36 | 60  | 1080x720   |
+| Post Date  | Minecraft Version             | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | ----------------------------- | ------- | --- | ---------- | ----------------- |
+| 2021-08-01 | Minecraft Alpha v1.0.16_05_01 | 0:45:36 | 60  | 1080x720   | [Watch it here](https://www.youtube.com/watch?v=paErafBTcdw) |
 
 ## Description
 "You didn't believe I have this version, so here it is."

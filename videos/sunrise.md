@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #21: Sunrise
-| Post Date  | Minecraft Version             | Length   | FPS     | Resolution |
-| ---------  | ----------------------------- | -------- | ------- | ---------  |
-| 2022-05-28 | Minecraft Alpha v1.0.16.05_12 | 01:17:23 | 60      | 1280x720   |
+| Post Date  | Minecraft Version             | Length   | FPS     | Resolution | Youtube Link      |
+| ---------  | ----------------------------- | -------- | ------- | ---------  | ----------------- |
+| 2022-05-28 | Minecraft Alpha v1.0.16.05_12 | 01:17:23 | 60      | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=tp8rrfd5MiU) |
 
 ## Description
 Cut content(?)

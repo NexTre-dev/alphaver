@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #1: Entry Point
-| Post Date  | Minecraft Version          | Length  | FPS | Resolution |
-| ---------  | -------------------------- | ------- | --- | ---------- |
-| 2021-08-01 | Minecraft Alpha v1.0.16_02 | 1:19:16 | 30  | 720x480    |
+| Post Date  | Minecraft Version          | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | -------------------------- | ------- | --- | ---------- | ----------------- |
+| 2021-08-01 | Minecraft Alpha v1.0.16_02 | 1:19:16 | 30  | 720x480    | [Watch it here](https://www.youtube.com/watch?v=-vdMzeM15nQ) |
 
 ## Description
 Date and time unknown, however the year is certainly 2010.

@@ -54,6 +54,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [????](/videos/question-mark.md)
 * [Sunrise](/videos/sunrise.md) *(Latest Video)*
 ### 3. Sightings
+> **WARNING:** Due to the method of becoming a `Shadow Player` is public now, these sightings *(and further ones)* should be disregarded, even though the ones below mean absolutely nothing.
 * [Sighting #1](sightings/sighting-1.md)
 * [Sighting #2](sightings/sighting-2.md)
 * [Sighting #3](sightings/sighting-3.md)

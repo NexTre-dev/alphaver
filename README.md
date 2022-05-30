@@ -4,12 +4,14 @@ Before you start, [make sure to watch RetroGamingNow's video about this first.](
 Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
 
 ## To-do List
-- [X] Video Analyzation
-- [X] Images & Pictures *(mostly done)*
-- [X] Sighting/Incident Reports
-- [X] File, audio and image analyzations
+- [X] ~~Video Analyzation~~
+- [X] ~~Sighting/Incident Reports~~
+- [X] ~~File, audio and image analyzations~~
 - [ ] Write down every chat message that happened in videos *
 - [ ] Organize the analyzation of the Lilypad .jar
+- [ ] Images & Pictures, Videos
+- [ ] Item documentation
+- [ ] Add youtube links to each video
 
 *\* = working on it*
 

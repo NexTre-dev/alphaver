@@ -1,5 +1,6 @@
 # ! DISCLAMER !
 * These files *might* contain malicious code, **run it at your own risk**.
+* A installation of Java is required.
 * I heavily recommend you use a secure environment to run these files, like virtual machines.
 * Only run them if you are willing to accept the risks mentioned above.
 

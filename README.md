@@ -67,7 +67,7 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 ### 5. Game Content
 #### Lilypad
 * [Analyzation of the Lilypad .jar](/jar/lilypad_qa/README.md#analyzation)
-* [A guide about giants](/mobs/LilypadGiants.md)
+* [A guide about giants](/mobs/LilypadGiant.md)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)

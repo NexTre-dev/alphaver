@@ -59,6 +59,8 @@ Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google 
 * [Sighting #10](sightings/sighting-10.md)
 * [Sighting #11](sightings/sighting-11.md)
 * [Sighting #12](sightings/sighting-12.md)
+### 4. Chat Messages
+* [Entry Point](/chat_messages/entry-point.md)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)

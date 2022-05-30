@@ -1,3 +1,6 @@
+[← Home Page](../README.md)  
+[← All Items](./README.md)
+
 # Blue_flame
 | Item ID | In-game Name |
 | ------- | ------------ |
@@ -6,7 +9,7 @@
 ## Information 
 It can light up a lily pad and can be used as a light source
 
-## Obtainig the Item
+## Obtaining the Item
 It can be found in the sky, and you can mine it with your hand.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/59568966/171044931-68d30530-9184-4d08-b775-a8a27f59e326.png)

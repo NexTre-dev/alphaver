@@ -40,5 +40,5 @@
 > **dJ155:** on orbl's old pc  
 > **dJ155:** what?  
 > 
-> **MachineRage:** yeah, there were these things that happened when the PC was connected to our servers, they souldn't have happened now  
+> **MachineRage:** yeah, there were these things that happened when the PC was connected to our servers, they shouldn't have happened now  
 > **MachineRage:** what the hell  

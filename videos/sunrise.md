@@ -25,6 +25,8 @@ Cut content(?)
 
 ## Events & Anomalies
 * The audio is a track that wasn't heard anywhere yet.
+* ~0:22: There is a weird nametag looking thing, could be a compression artifact, could be not.  
+  ![image](https://user-images.githubusercontent.com/66027449/171012438-4e589b24-a636-4b5a-a82f-eef23c42ad8b.png)
 * 0:24:58: The moon looks strange, it looks like it has been shattered in half.
 * 0:50:34: The sun also looks strange -- it appears to be the Crab Nebula from the [paintings](../resources/paintings.md).
 * 0:50:34: dev2 is seen next to an iron door.

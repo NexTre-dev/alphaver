@@ -15,17 +15,12 @@ const outputDir = config.outputDirectory  ? '.' + config.outputDirectory : "./si
 
 const build = () => {
     let buildTimeStart = process.hrtime();
+
     const pageCreator = new PageCreator(__baseDir, outputDir);
-    pageCreator.createPage('./jar/lilypad_qa/lilypad_qa_client.jar');
-    new Promise((resolve) => {
-        setTimeout(() => {
-            resolve();
-        }, 1000)
-    }).then(() => {
-        let stop = process.hrtime(buildTimeStart);
-        console.log(`Successful build in: ${stop[0]*1000}ms`);
-    })
+    pageCreator.buildSite();
     
+    let buildTimeStop = process.hrtime(buildTimeStart);  
+    console.log(`Successful build in ${Math.round(buildTimeStop[0] * 1000 + buildTimeStop[1] / 1000000)}ms`);
 }
 
 build();

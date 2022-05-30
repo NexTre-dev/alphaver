@@ -4,8 +4,8 @@ import path from 'path';
 
 export default class PageCreator {
     constructor(sourceDir, outputDir) {
-        this.sourceDir = sourceDir;
-        this.outputDir = outputDir;
+        this.source = sourceDir;
+        this.output = outputDir;
         this.createOutputDir(outputDir);
     }
 
@@ -17,18 +17,44 @@ export default class PageCreator {
         }
     }
 
-    // pagePath is relative to {sourceDir}
+    // pagePath is relative to {output}
     createPage(pagePath) {
+        let destinationFile = this.output + '/' + pagePath;
+        let sourceFile = this.source + '/' + pagePath;
+        if (!fs.existsSync(path.dirname(destinationFile))) {
+            fs.mkdirSync(path.dirname(destinationFile), {recursive: true});
+        }
         if (path.extname(pagePath) == '.md') {
             // parse md
+            let outputFile = destinationFile.replace('.md', '.json');
+            let mdTree = fromMarkdown(fs.readFileSync(sourceFile));
+            fs.writeFileSync(outputFile, JSON.stringify(mdTree));
         } else {
             // passthrough other assets
-            let destination = path.resolve(this.outputDir, pagePath);
-            if (!fs.existsSync(destination)) {
-                fs.mkdirSync(path.dirname(destination), {recursive: true});
-            }
-            fs.copyFileSync(path.resolve(this.sourceDir, pagePath), path.resolve(this.outputDir, pagePath));
-            console.log(`Passed through ${pagePath} to ${path.resolve(this.outputDir, pagePath)}`);
+            fs.copyFileSync(sourceFile, destinationFile);
+            console.log(`Passed through ${path.basename(pagePath)}`);
         }
+    }
+
+    buildDirectoryRecursive(workingDir) {
+        let readDir = this.source + '/' + workingDir;
+
+        fs.readdirSync(readDir, {withFileTypes: true}).forEach(dirEnt => {
+
+            // ignore dotfiles and wiki directory
+            if (dirEnt.name.startsWith('.') || dirEnt.name == 'wiki') {
+                return;
+            }
+
+            if (fs.lstatSync(readDir + '/' + dirEnt.name).isDirectory()) {
+                this.buildDirectoryRecursive(workingDir + '/' + dirEnt.name);
+            } else {
+                this.createPage(workingDir + '/' + dirEnt.name);
+            }
+        })
+    }
+
+    buildSite() {
+        this.buildDirectoryRecursive('');
     }
 }

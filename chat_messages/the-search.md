@@ -1,4 +1,4 @@
-# Video = The Search
+# Video #3: The Search
 ## Minecraft Chat
 >**xorcist6869:**
 >This is my save loaded right?
@@ -90,10 +90,8 @@
 >But I don't want to give up now after all this time.
 >
 >*(CONSOLE: Stopping the Server..)*
->
->
->## SKYPE
->
+
+## Skype
 >**LORD_OF_THE_FLIES_1998:**
 >Did you stop the server?
 >

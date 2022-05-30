@@ -3,6 +3,8 @@ Before you start, [make sure to watch RetroGamingNow's video about this first.](
 
 Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
 
+Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.youtube.com/watch?v=Wj6q8UySvdI) or [this text-based guide](jar/README.md#usage-windows-mac) on how you can install alphavers.
+
 ## To-do List
 - [X] ~~Video Analyzation~~
 - [X] ~~Sighting/Incident Reports~~

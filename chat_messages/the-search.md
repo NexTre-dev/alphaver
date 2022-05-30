@@ -1,16 +1,14 @@
 # Video = The Search
 ## Minecraft Chat
 >**xorcist6869:**
->It might be
->It is quite old.
 >This is my save loaded right?
 >
 >**dj_p155:**
 >Yeah it is.
 >
 >**xorcist6869:**
->With this fog
->Can't find my house.
+>With this fog I
+>can't find my house.
 >
 >**dj_p155:**
 >Oh I see it.

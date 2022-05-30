@@ -36,6 +36,7 @@ You can get one at https://exalpha-dev.github.io/.
   * `public static final ly imgur9F0A3un = new ly(102, 157, gb.d).c(2.0f).b(10.0f).a(i)`
   * The variable name is a link to an imgur image.
   * https://imgur.com/9F0A3un.
+  <img src="https://i.imgur.com/9F0A3un.png" width="300">
 
 ### Newsound
 Some sound effects this version includes.

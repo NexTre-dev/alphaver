@@ -108,11 +108,11 @@ Is [0] behind this too?"
 #### Files
 | File Name                               | File Size |
 | --------------------------------------- | --------- |
-| 39_0.txt                                | 3.6 MB    |
-| f\*\*\*.mp4                             | unknown*  |
+| 39_0.txt                                | 134B      |
+| f\*\*\*.mp4                             | 3.9 MB    |
 | image0.png                              | 102KB     |
 | image1.png                              | 70KB      |
-| image2.png                              | unknown*  |
+| image2.png                              | 173KB     |
 | image3.png                              | 111KB     |
 | image4.png                              | 188KB     |
 | image5.png                              | 53KB      |
@@ -128,7 +128,7 @@ Is [0] behind this too?"
 
 | Found in     | File Size |
 | -----------  | --------- |
-| content.rar  | unknown*  |
+| content.rar  | 134B      |
 </summary>
 
 ```txt
@@ -148,7 +148,7 @@ Thank you to everyone involved, incl. playtesters
 
 | Found in     | File Size |
 | -----------  | --------- |
-| content.rar  | unknown*  |
+| content.rar  | 3.9MB     |
 </summary>
 
 https://user-images.githubusercontent.com/89975834/170937701-b343ab3d-838e-4861-962d-480dccde7800.mp4
@@ -182,7 +182,7 @@ https://user-images.githubusercontent.com/89975834/170937701-b343ab3d-838e-4861-
 
 | Found in     | File Size | Dimensions   |
 | -----------  | --------- | ------------ |
-| content.rar  | unknown*  | 431 x 285    |
+| content.rar  | 173KB     | 431 x 285    |
 </summary>
 <img src="https://user-images.githubusercontent.com/89975834/170946175-91a04446-10e3-4192-91a7-2d20788f0e01.png" width="400"/>
 </details>

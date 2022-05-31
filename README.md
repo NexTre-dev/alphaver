@@ -19,7 +19,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 
 ## List of Questions
 - [ ] What does R.O.S.T.R.U.M stand for?
-- [ ] Where are the codes 5 and 8?
+- [ ] Where is the code 5?
 - [ ] Are any messages sent during the sightings important?
 - [ ] What do the paintings mean?
 - [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**

@@ -15,7 +15,6 @@ They are referred to as dev# or just simply #.
 - Made the Crab Nebula have some “significance” other than cosmetics ([Sunrise](../videos/sunrise.md))
 - *Is antagonistic toward at least one of the dev team members* ([Internal footage 2](../videos/internal-footage-2.md), [Presentation](../videos/presentation.md))
 - *Has possibly been updating the versions since their release* ([Discovered](../videos/discovered.md))
-- 
 
 ### dev1
 - Can be seen as a name on the forums in [Internal footage 2](../videos/internal-footage-2.md)

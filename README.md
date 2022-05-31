@@ -95,6 +95,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 ### 6. Mechanics
 * [The milestone mechanic](mechanics/milestone.md)
 * [The chunk name mechanic](mechanics/chunk-names.md)
+* [The "hunger" mechanic](mechanics/hunger.md)
 
 ### 7. Other Content
 * [OST.rar](/resources/ost-rar.md)

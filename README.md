@@ -14,6 +14,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
 - [ ] Item documentation
+- [ ] Seperate Preview and Lilypad item & block IDs
 
 *\* = working on it*
 
@@ -101,12 +102,28 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [OST.rar](/resources/ost-rar.md)
 * [Jar Files](/jar/)
 * [All Items in playable versions](items/README.md)
+* [Item & Block IDs](/resources/ids.md)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)
 * [not Zsoz#0001's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
+* [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
 * [How to turn into a shadow player](resources/shadow-player.md)
-* [Item & Block IDs](/resources/ids.md)
+
+## Community-driven Resources
+* Minecraft Servers
+  > Obviously, a **VPN** is recommended when joining these servers.
+  * Preview 2:
+    * not Zsoz's Server: `217.144.54.233:1337`
+    * ErdBeer's Server: `erdbeerbaerlp.de:24258`
+    * princess's Server: `51.81.23.95:25587`
+  * Lilypad:
+    > **Important Note:** Lilypad servers are **not** official server jars.
+    > If a server is claiming anything about sightings, it is most likely **false information**.
+    * Devad's Server: `Lilypad.mc-join.org`
+    * ErdBeer's Server: `erdbeerbaerlp.de:24259`
+    * BlackOut's Server: `lilypad.alphaver.xyz`
 
 ## Contribution
-Feel free to create any pull requests or open issues if you want to contribute to the documentation. Anything is appriciated.
+Feel free to create any pull requests or open issues if you want to contribute to the documentation. 
+Anything is appreciated.

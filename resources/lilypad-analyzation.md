@@ -65,7 +65,7 @@ Some sound effects this version includes.
 > "What the hell is this"
 
 #### Files
-There is only one file, **stdout.txt**, it contains a youtube link to [the video ????](../../videos/question-mark.md).
+There is only one file, **stdout.txt**, it contains a youtube link to [the video ????](../videos/question-mark.md).
 
 ### PH2.rar
 | Found in        | File Size | Password Protected?                                                                      |

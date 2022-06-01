@@ -95,8 +95,6 @@ if we can even call it that.
 Is [0] behind this too?"
 
 "What the hell"
-
-
 ```
 </details>
 
@@ -119,8 +117,6 @@ Is [0] behind this too?"
 | image6.png                              | 303KB     |
 | image7.png                              | 70KB      |
 | Screenshot_at_2022-01-13_12-13-01.png   | 545KB     |
-
-*\* = i'm way too lazy to check, if you have time open a pr about this, ty <3*
 
 <details open><summary>
 

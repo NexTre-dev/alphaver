@@ -35,9 +35,11 @@ export default class PageCreator {
             if (fixedLinksHTML.match(mdLinkPattern)) {
                 fixedLinksHTML.match(mdLinkPattern).forEach(match => {
                     let newString = match.replace(/\.md/, '.html');
+                    newString = newString.replace(/README/i, 'index');
                     fixedLinksHTML = fixedLinksHTML.replace(match, newString);
                 });
             }
+            fixedLinksHTML = `<body>${fixedLinksHTML}</body>`;
             fs.writeFileSync(outputFile, fixedLinksHTML);
         } else {
             // passthrough other assets

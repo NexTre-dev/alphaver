@@ -1,4 +1,4 @@
-import {fromMarkdown} from "mdast-util-from-markdown";
+import {marked} from 'marked';
 import fs from 'fs';
 import path from 'path';
 
@@ -26,9 +26,19 @@ export default class PageCreator {
         }
         if (path.extname(pagePath) == '.md') {
             // parse md
-            let outputFile = destinationFile.replace('.md', '.json');
-            let mdTree = fromMarkdown(fs.readFileSync(sourceFile));
-            fs.writeFileSync(outputFile, JSON.stringify(mdTree));
+            let outputFile = destinationFile.replace('.md', '.html');
+            outputFile = outputFile.replace(/README/i, 'index');
+            let html = marked.parse(fs.readFileSync(sourceFile).toString());
+            
+            let fixedLinksHTML = html;
+            let mdLinkPattern = new RegExp(/href=".*?"/gi);
+            if (fixedLinksHTML.match(mdLinkPattern)) {
+                fixedLinksHTML.match(mdLinkPattern).forEach(match => {
+                    let newString = match.replace(/\.md/, '.html');
+                    fixedLinksHTML = fixedLinksHTML.replace(match, newString);
+                });
+            }
+            fs.writeFileSync(outputFile, fixedLinksHTML);
         } else {
             // passthrough other assets
             fs.copyFileSync(sourceFile, destinationFile);

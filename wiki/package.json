@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/NexTre-dev/alphaver#readme",
   "dependencies": {
+    "common-tags": "^1.8.2",
+    "marked": "^4.0.16",
     "mdast-util-from-markdown": "^1.2.0"
   },
   "type": "module"

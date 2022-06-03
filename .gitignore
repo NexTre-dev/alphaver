@@ -1,3 +1,2 @@
-/wiki/node_modules
-/wiki/pages.json
-/wiki/site
+/wiki/src/node_modules
+**/site

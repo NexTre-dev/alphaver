@@ -1,7 +1,7 @@
 [← Home Page](../README.md)  
 [← All Items](./README.md)
 
-# Obsidian Chestplate
+# Edible Fire
 | Item ID (v1605_unrpreview2) | Item ID (lilypad_qa) | In-game Name |
 | :-------------------------: | :------------------: | ------------ |
 | *doesn't exist* | 361 | edibleFire |

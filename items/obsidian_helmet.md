@@ -7,7 +7,7 @@
 | 345 | 346 | obsidianArmor0 |
 
 ## Information 
-A new helmet. Has 2 protection points *(lilypad_qa only)* and adds 1.5 armor durability points when worn.
+A new helmet. Adds 2 S-like points *(lilypad_qa only)* and 1.5 armor points when worn.
 
 ## Obtaining the Item
 You can craft it with 5 obsidian ingots using a usual helmet recipe.

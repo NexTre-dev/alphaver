@@ -7,7 +7,7 @@ This is a list of items that are exclusive to or have some relevancy to AlphaVer
 | Item Name | ID (v1605_unrpreview2) | ID (lilypad_qa) | Version Added |
 |-----------|-------------------|-----------------|---------------|
 | [blue_flame](./blue_flame.md) | - | 116 | lilypad_qa |
-| [obsidian_helmet](./obsidian_helmet) | 345 | 346 | v1605_unrpreview2 |
+| [obsidian_helmet](./obsidian_helmet.md) | 345 | 346 | v1605_unrpreview2 |
 | [obsidian_chestplate](./obsidian_chestplate.md) | 346 | 347 | v1605_unrpreview2 |
 | [obsidian_leggings](./obsidian_leggings.md) | 347 | 348 | v1605_unrpreview2 |
 | [obsidian_boots](./obsidian_boots.md) | 348 | 349 | v1605_unrpreview2 |

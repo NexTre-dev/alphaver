@@ -2,9 +2,9 @@
 [← All Items](./README.md)
 
 # Blue_flame
-| Item ID | In-game Name |
-| ------- | ------------ |
-| 116     | Blue_flame   |
+| Item ID (v1605_unrpreview2) | Item ID (lilypad_qa) | In-game Name |
+| :-------------------------: | :------------------: | ------------ |
+| *doesn't exist* | 116 | blueFlame |
 
 ## Information 
 It can light up a lily pad and can be used as a light source

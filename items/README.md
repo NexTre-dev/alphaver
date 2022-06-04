@@ -24,5 +24,5 @@ This is a list of items that are exclusive to or have some relevancy to AlphaVer
 | [fryshroom](./fryshroom.md) | 359 | 360 | v1605_unrpreview2 |
 | [edible_fire](./edible_fire.md) | - | 361 | lilypad_qa |
 | [flameberge](./flameberge.md) | - | 362 | lilypad_qa |
-| [music_disc (Hidden Den)](./hidden_den.md) | 2256 | 2256 | v1605_unrpreview2 |
-| [music_disc (Lemuria)](./lemuria.md) | 2257 | 2257 | v1605_unrpreview2 |
+| music_disc (Hidden Den) | 2256 | 2256 | v1605_unrpreview2 |
+| music_disc (Lemuria) | 2257 | 2257 | v1605_unrpreview2 |

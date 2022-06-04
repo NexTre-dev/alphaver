@@ -10,7 +10,7 @@
 A type of food. Restores 1 heart when eaten.
 
 ## Obtaining the Item
-You can craft it with 1 blue fire.
+You can craft it with 1 [blue flame](./blue_flame.md).
 
 ## Images
 | Item texture | In-game texture |

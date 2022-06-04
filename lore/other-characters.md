@@ -40,6 +40,8 @@ They recorded the video [Version 07](../videos/version-07.md).
 
 Their operating system is `Windows Vista`.
 
+Their Discord username is `ORBL`.
+
 **MIGHT BE A DEVELOPER.**
 
 ### MachineRage

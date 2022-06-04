@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #6: Version 06
-| Post Date  | Minecraft Version                                | Length  | FPS | Resolution |
-| ---------  | ------------------------------------------------ | ------- | --- | ---------- |
-| 2021-08-07 | Minecraft Alpha v1.0.16_05_06 (MULTIPLAYER TEST) | 7:25:51 | 60  | 1280x720   |
+| Post Date  | Minecraft Version                                | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | ------------------------------------------------ | ------- | --- | ---------- | ----------------- |
+| 2021-08-07 | Minecraft Alpha v1.0.16_05_06 (MULTIPLAYER TEST) | 7:25:51 | 60  | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=h6ZfTvZiPt8) |
 
 ## Description
 "Me and my friend build stairs and we try to make a basement too"

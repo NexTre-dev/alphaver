@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #11: Internal footage 2 [reupload]
-| Post Date  | Minecraft Version | Length  | FPS | Resolution |
-| ---------  | ----------------- | ------- | --- | ---------- |
-| 2021-09-23 | 16.05             | 3:28:33 | 60  | 1280x720   |
+| Post Date  | Minecraft Version | Length  | FPS | Resolution | Youtube Link      |
+| ---------  | ----------------- | ------- | --- | ---------- | ----------------- |
+| 2021-09-23 | 16.05             | 3:28:33 | 60  | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=kRZlxYdYqmM) |
 
 ## Description
 [22.09.2021]: "I knew it would come to this one time or another. I missed a spot while editing out my personal information. Still, I don't think it's too late, so please remove the original upload and replace it with this version"

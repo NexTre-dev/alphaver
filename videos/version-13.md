@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #17: Version 13
-| Post Date  | Minecraft Version                     | Length   | FPS     | Resolution |
-| ---------  | ------------------------------------- | -------- | ------- | ---------  |
-| 2022-01-23 | Minecraft Alpha v1.0.16.05_13 Lilypad | 2:05:56  | 59.94   | 1280x720   |
+| Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
+| ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
+| 2022-01-23 | Minecraft Alpha v1.0.16.05_13 Lilypad | 2:05:56  | 59.94   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=2N2WtAe0a9I) |
 
 ## Description
 "There it is"

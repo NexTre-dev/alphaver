@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
 # Video #12: Developer preview
-| Post Date  | Minecraft Version                    | Length   | FPS    | Resolution |
-| ---------  | ------------------------------------ | -------- | -----  | ---------- |
-| 2021-09-29 | Minecraft Alpha v1.0.16_05 [PREVIEW] | 11:09:41 | 59.94  | 1920x1080  |
+| Post Date  | Minecraft Version                    | Length   | FPS    | Resolution | Youtube Link      |
+| ---------  | ------------------------------------ | -------- | -----  | ---------- | ----------------- |
+| 2021-09-29 | Minecraft Alpha v1.0.16_05 [PREVIEW] | 11:09:41 | 59.94  | 1920x1080  | [Watch it here](https://www.youtube.com/watch?v=MvL8CCf8jk0) |
 
 > This is a downloadable preview client.  
 > **ONLY RUN THESE FILES AT YOUR OWN RISK!**

@@ -29,4 +29,4 @@ const runServer = () => {
     }
 }
 
-runServer();
+export default runServer;

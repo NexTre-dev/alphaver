@@ -1,5 +1,6 @@
-[← Home Page](../README.md)  
-[← All Items](./README.md)
+[Home Page](../README.md) | [All Items](./README.md)
+
+---
 
 # Blue_flame
 | Item ID | In-game Name |

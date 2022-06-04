@@ -7,7 +7,7 @@
 | 347 | 348 | obsidianArmor2 |
 
 ## Information 
-New leggings. Has 2 protection points *(lilypad_qa only)* and adds 3 durability points when worn.
+New leggings. Has 2 S-like points *(lilypad_qa only)* and adds 3 armor points when worn.
 
 ## Obtaining the Item
 You can craft it with 7 obsidian ingots using a usual leggings recipe.

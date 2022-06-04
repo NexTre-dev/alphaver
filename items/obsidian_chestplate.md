@@ -7,7 +7,7 @@
 | 346 | 347 | obsidianArmor1 |
 
 ## Information 
-A new chestplate. Has 2 protection points *(lilypad_qa only)* and adds 4 armor durability points when worn.
+A new chestplate. Adds 2 S-like points *(lilypad_qa only)* and adds 4 armor points when worn.
 
 ## Obtaining the Item
 You can craft it with 8 obsidian ingots using a usual chestplate recipe.

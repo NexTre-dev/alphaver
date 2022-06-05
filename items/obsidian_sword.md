@@ -15,6 +15,6 @@ You can craft it with 2 obsidian ingots and a stick using a usual sword recipe.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![obsidianSword_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/obsidian_sword.png) | - |
+| ![obsidianSword_16x16](./textures/obsidian_sword.png) | - |
 
 [^1]: TODO: Add info about damage

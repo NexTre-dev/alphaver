@@ -15,4 +15,4 @@ You can obtain an ingot by smelting a block of obsidian in the furnace.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![obsidianIngot_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/obsidian_ingot.png) | - |
+| ![obsidianIngot_16x16](./textures/obsidian_ingot.png) | - |

@@ -15,4 +15,4 @@ You can craft it with 4 obsidian ingots using a usual boots recipe.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![obsidianBoots_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/obsidian_boots.png) | - |
+| ![obsidianBoots_16x16](./textures/obsidian_boots.png) | - |

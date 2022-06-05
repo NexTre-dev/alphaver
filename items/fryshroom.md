@@ -15,4 +15,4 @@ You can obtain this item by smelting a red mushroom.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![fryshroom_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/fryshroom.png) | - |
+| ![fryshroom_16x16](./textures/fryshroom.png) | - |

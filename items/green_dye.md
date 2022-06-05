@@ -15,4 +15,4 @@ You can obtain it by smelting greenstone dust.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![greenDye_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/green_dye.png) | - |
+| ![greenDye_16x16](./textures/green_dye.png) | - |

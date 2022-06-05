@@ -15,4 +15,4 @@ You can obtain it by smelting coal.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![blackDye_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/black_dye.png) | - |
+| ![blackDye_16x16](./textures/black_dye.png) | - |

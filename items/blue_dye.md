@@ -15,4 +15,4 @@ You can obtain the item by smelting a blue dandelion.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![blueDye_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/blue_dye.png) | - |
+| ![blueDye_16x16](./textures/blue_dye.png) | - |

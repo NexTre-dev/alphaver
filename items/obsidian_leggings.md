@@ -15,4 +15,4 @@ You can craft it with 7 obsidian ingots using a usual leggings recipe.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![obsidianLeggings_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/obsidian_leggings.png) | - |
+| ![obsidianLeggings_16x16](./textures/obsidian_leggings.png) | - |

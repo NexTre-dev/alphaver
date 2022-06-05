@@ -91,6 +91,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [A guide about giants](/mobs/LilypadGiant.md)
 
 #### Preview Versions
+* [Analyzation of the Preview .jar](/resources/preview-analyzation.md)
 * [Analyzation of the Preview 2 .jar](/resources/preview-2-analyzation.md)
 
 ### 6. Mechanics

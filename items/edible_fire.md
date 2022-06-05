@@ -15,4 +15,4 @@ You can craft it with 1 [blue flame](./blue_flame.md).
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![edibleFire_16x16](./textures/edible_Fire.png) | - |
+| ![edibleFire_16x16](./textures/edible_fire.png) | - |

@@ -15,4 +15,4 @@ You can craft it with 5 obsidian ingots using a usual helmet recipe.
 ## Images
 | Item texture | In-game texture |
 | :----------: | :-----------: |
-| ![obsidianHelmet_16x16](https://raw.githubusercontent.com/Vladg24YT/alphaver/patch-2/items/textures/obsidian_helmet.png) | - |
+| ![obsidianHelmet_16x16](./textures/obsidian_helmet.png) | - |

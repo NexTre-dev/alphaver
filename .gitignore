@@ -1,3 +1,6 @@
-# A svelte app for rendering Markdown.
-# This will get implemented later.
+/wiki/src/node_modules
+**/site
+
+# Currently is for pages that can't be implemented in Markdown cleanly.
+# W.I.P Svelte App.
 .viewer

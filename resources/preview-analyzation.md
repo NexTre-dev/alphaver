@@ -1,9 +1,9 @@
 [← Home Page](../README.md)
 
-## Preview 2 Analyzation
+## Preview Analyzation
 | Upload date  | File Size |
 | -----------  | --------- |
-| 2021-09-29   | 15.23 MB   |
+| 2021-09-29   | 15.23 MB  |
 
 ### Gameplay & Other Stuff
 * This version has a 40-minute timer like the Minecraft Demo, that starts as soon as you click 'OK' on a popup dialog

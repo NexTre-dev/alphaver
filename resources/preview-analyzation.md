@@ -8,7 +8,7 @@
 ### Gameplay & Other Stuff
 * This version has a 40-minute timer like the Minecraft Demo, that starts as soon as you click 'OK' on a popup dialog
 * This timer does not reset when opening pause menu, exiting the preview world or exiting the game
-* Cheats are enabled by default
+* Cheats are enabled by default (Block 97 is blocked)
 
 <details open><summary>
 

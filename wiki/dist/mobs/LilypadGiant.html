@@ -1,0 +1,33 @@
+<body><p><a href="../index.html">← Home Page</a></p>
+<h1 id="giant-lilypad">Giant (Lilypad)</h1>
+<p>Giants are a boss mob added in Lilypad, and are currently the only boss mob. They are distinct from the unused giants in vanilla. They are colossal zombie-like figures, with large amounts of health and attack power. Defeating giants gives rare loot not obtainable elsewhere.</p>
+<h2 id="info">Info</h2>
+<p>A giant&#39;s health is four multiplied with the amount of <a href="../mechanics/milestone.html">milestones</a> a player has accrued over the course of their world, up to a limit of 800 health. If the player has no milestones, the giant will spawn as if the player had one. Giants have an attack strength of 50.</p>
+<p>Giants make low rumbling noises when idle, and emit a higher rumble upon death. Giants have no hurt sound.</p>
+<h2 id="behavior">Behavior</h2>
+<p>Giants have basic zombie-like AI, and will move directly towards the player in order to harm them.</p>
+<h2 id="spawning">Spawning</h2>
+<p>Giants only spawn in singleplayer and while no other giants are present. Giants do not spawn in Peaceful mode, and existing giants will despawn upon selecting Peaceful mode. Upon spawning, giants are assigned a random name matching the chunk they spawned in. This name is displayed on a healthbar visible the the player from any location.</p>
+<p>In order for a Giant to spawn, the game calculates the following:</p>
+<ul>
+<li>The last x-position the player was in when the last giant was spawned, divided by 32 and rounded down.</li>
+<li>The last y-position the player was in when the last giant was spawned, divided by 32 and rounded down.</li>
+</ul>
+<p>Once these positions are calculated, the game checks the following:</p>
+<ul>
+<li><p>If the calculated x-position is inequal to the player&#39;s current x-position, divided by 32 and rounded down.</p>
+</li>
+<li><p>If the calculated y-position is inequal to the player&#39;s current z-position, divided by 32 and rounded down.</p>
+<p>Effectively, this means that, in order to spawn a new giant, the player must travel at least 64 blocks away on the x axis from the last player location of a giant spawn, or be far enough (a few chunks) away along the z-axis from this location.</p>
+</li>
+</ul>
+<p>If any of these two conditions are met, a giant has a 90% chance of spawning every tick. Additionally, this 90% chance can be bypassed if the player presses the <code>End</code> Key while these conditions are met. Doing so will output the following message to the output stream: <code>Taken the Titan&#39;s challenge. Good luck.</code> Besides this message, spawning using this method has no other differences than a natural spawn.</p>
+<h2 id="drops">Drops</h2>
+<p>Upon death, giants have an 80% chance to drop a single <a href="../items/flameberge.html">Flameberge</a>.</p>
+<h2 id="notes">Notes</h2>
+<ul>
+<li>Giants have two unused hurt sounds, consisting of loud thuds. Neither sound plays in-game.</li>
+<li>Giants share a model and their size with vanilla giants, being zombies scaled up by a factor of six - however, unlike vanilla giants, they have a unique texture.</li>
+<li>Giants&#39; hitbox only covers approximately their legs and lower torso; they will not register damage above this point.</li>
+</ul>
+</body>

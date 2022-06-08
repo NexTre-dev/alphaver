@@ -1,4 +1,4 @@
-/wiki/src/node_modules
+/wiki/node_modules
 **/site
 
 # Currently is for pages that can't be implemented in Markdown cleanly.

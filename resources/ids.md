@@ -1,6 +1,8 @@
 [← Home Page](../README.md)
 
-# Item & Block IDs (Preview 2)
+<table>
+<tr><th>Preview 2</th><th>Lilypad</th></tr>
+<tr> <td>
 
 |   ID | Item Name |
 | ---: | :-------- |
@@ -203,7 +205,7 @@
 | 2256 | Music Disc (Hidden Den) |
 | 2257 | Music Disc (Lemuria) |
 
-# Item & Block IDs (Lilypad)
+</td> <td>
 
 |   ID | Item Name |
 | ---: | :-------- |
@@ -417,3 +419,5 @@
 |  362 | Fire sword |
 | 2256 | Music Disc (Hidden Den) |
 | 2257 | Music Disc (Lemuria) |
+
+</td></tr> </table>

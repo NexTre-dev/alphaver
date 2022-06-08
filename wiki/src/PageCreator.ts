@@ -1,15 +1,19 @@
 import {marked} from 'marked';
-import fs from 'fs';
-import path from 'path';
+import * as fs from 'fs';
+import * as path from 'path';
+import Logger, { Formatter } from './log';
 
 export default class PageCreator {
-    constructor(sourceDir, outputDir) {
+    source: string;
+    output: string;
+
+    constructor(sourceDir: string, outputDir: string) {
         this.source = sourceDir;
         this.output = outputDir;
         this.createOutputDir(outputDir);
     }
 
-    createOutputDir(dir) {
+    createOutputDir(dir: string) {
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, {recursive: true});
         } else {
@@ -18,7 +22,7 @@ export default class PageCreator {
     }
 
     // pagePath is relative to {output}
-    createPage(pagePath) {
+    createPage(pagePath: string) {
         let destinationFile = this.output + '/' + pagePath;
         let sourceFile = this.source + '/' + pagePath;
         if (!fs.existsSync(path.dirname(destinationFile))) {
@@ -44,11 +48,11 @@ export default class PageCreator {
         } else {
             // passthrough other assets
             fs.copyFileSync(sourceFile, destinationFile);
-            console.log(`Passed through ${path.basename(pagePath)}`);
+            Logger.info(`Passed through ${path.basename(pagePath)} ${Formatter.italic('(not a markdown file)')}`);
         }
     }
 
-    buildDirectoryRecursive(workingDir) {
+    buildDirectoryRecursive(workingDir: string) {
         let readDir = this.source + '/' + workingDir;
 
         fs.readdirSync(readDir, {withFileTypes: true}).forEach(dirEnt => {

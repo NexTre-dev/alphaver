@@ -13,8 +13,9 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Images & Pictures, Videos~~
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
-- [ ] Item documentation
+- [X] ~~Item documentation~~
 - [ ] Seperate Preview and Lilypad item & block IDs
+- [ ] Migrate the repo content to GitHub's wiki feature *
 
 *\* = working on it*
 

@@ -15,7 +15,6 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Add youtube links to each video~~
 - [X] ~~Item documentation~~
 - [ ] Seperate Preview and Lilypad item & block IDs
-- [ ] Migrate the repo content to GitHub's wiki feature *
 
 *\* = working on it*
 

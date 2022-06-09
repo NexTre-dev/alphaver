@@ -36,7 +36,7 @@ We found a few other players who also seem to remember this version, however we 
 * 06:34:45: A new tile block:  
   <img src="https://lh5.googleusercontent.com/7gEbnS7_yke_0_sf2cZKlRn6wYGM-F8gtbiI6JvoArTxmKZU7jzSSEaLtpZwz02JMWE9qKiZDSg0_KxpuCDdXbUEPmDIlpQjIY6JxnLY7q2Uec6W5KZ5tA4pIdk7f0fnJym8IE_3_re-pWkN5CKfjA" width="180">
 * 06:17:46: Start of `dj_p155`'s AFK
-* 06:58:42: `dj_p155` leaves the game *(probably due to the same reason as what happesn to `xorcist6898`)*
+* 06:58:42: `dj_p155` leaves the game *(probably due to the same reason as what happens to `xorcist6898`)*
 * 07:14:46: Iron doors appear:  
   <img src="https://lh3.googleusercontent.com/Oj1Ni4o6sLc3Oh59jtPJb_q4ZNP0r4zPOnblLrpcrtuwf7z1jPVdIp72QAywX903xmn-42PyZhRCvTOMcBx9hPpAU8xw-MeDpEobkXVYPgVpp-6melBA3DCWc35mA1LZYlBjr_rVCBOiW-5XbC0ZmQ" width="150">
   <img src="https://lh5.googleusercontent.com/QiNJ0paK5pjRmLAo9FyNtQoIpVNijCHD8w6rL79qPXjbf6CCYmtTJObYFZDvAKkcQnDZLPMj47hGR28vIZwCWEVxOme9AniuzU8gXQw-WtQcjCrlesMxEgaFYQ-i3CorNJrlrwnZJFzKjhbfNOV7hg" width="170">
@@ -48,9 +48,9 @@ We found a few other players who also seem to remember this version, however we 
     Account has been temporarily suspended from Online Play due to the following infraction of the guidelines:  
     Session unauthorized
 
-    Further Infractions may lead to a permanent suspension.
+    Further infractions may lead to a permanent suspension.
 
-    ID: 2380-d8ob *(?)*
+    ID: 2380-d8eb
 
     WARNING ISSUED  
     Total warnings issued: 1
@@ -69,7 +69,7 @@ We found a few other players who also seem to remember this version, however we 
   Please log in here with your Minecraft account to enable the site content. (JavaScript must be enabled)
 
   <div align="center">
-    Login Successful. <br/>
+    Login successful. <br/>
     Your playtester ID (do not share): <code>2380-d8eb</code>
   </div> <br />
 
@@ -77,7 +77,7 @@ We found a few other players who also seem to remember this version, however we 
   * *List of all texture changes*
   * Fixed a bug related to the new textures
   * Initial work on a new User Interface design
-  * Enabled Multiplayer for testing purposes. SErver software can be downloaded *here*. Please follow the *guidelines* while playing online.
+  * Enabled Multiplayer for testing purposes. Server software can be downloaded *here*. Please follow the *guidelines* while playing online.
   * Recruitment is now re-enabled. The technical difficulties have been fixed.
   * Fixed bugs regarding shadow players.
   * Minor fixes listed *here*
@@ -85,7 +85,7 @@ We found a few other players who also seem to remember this version, however we 
   We would like to thank everyone who reported bugs on our *bug tracker.*
 
   > 20/08/2010: The recruitment process works by selecting accounts automatically.  
-  > Please do NOT email us asking to let someone in, or to ask how the recruitment carried out. These emails will be ignored.
+  > [Please do NOT email us asking to let someone in, or to ask how the recruitment is carried out. These emails will be ignored.]
 
   Reminder: this version is not to be disclosed anywhere. Sharing recordings and/or screenshots outside of the *bug tracker* is forbidden.
 

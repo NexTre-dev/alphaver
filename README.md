@@ -1,7 +1,7 @@
 # Minecraft's Alpha 1.0.16 Versions
 Before you start, [make sure to watch RetroGamingNow's video about this first.](https://www.youtube.com/watch?v=_d5hEiYIKKU)
 
-Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
+Highly influenced by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
 
 Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.youtube.com/watch?v=Wj6q8UySvdI) or [this text-based guide](jar/README.md#usage-windows-mac) on how you can install alphavers.
 
@@ -14,6 +14,9 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
 - [X] ~~Item documentation~~
+- [ ] Download & add more images
+- [ ] Timelines *(version timelines, videos, events, sightings)*
+- [ ] Add an in-depth guide of installing clients/servers
 - [ ] Seperate Preview and Lilypad item & block IDs
 
 *\* = working on it*

@@ -3,5 +3,5 @@
 **/site
 
 # Currently is for pages that can't be implemented in Markdown cleanly.
-# W.I.P Svelte App.
+# W.I.P Nuxt App.
 .viewer

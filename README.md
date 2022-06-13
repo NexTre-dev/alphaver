@@ -126,7 +126,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
     > **Important Note:** Lilypad servers are **not** official server jars.
     > If a server is claiming anything about sightings, it is most likely **false information**.
     * Devad's Server: `Lilypad.mc-join.org`
-    * ErdBeer's Server: `erdbeerbaerlp.de:24259` (Because server is very DDOSed, you need to ask `ErdbeerbaerLP#0001` to add you to whitelist.)
+    * ErdBeer's Server: `erdbeerbaerlp.de:24259` (Because server is very often DDOSed, you need to ask `ErdbeerbaerLP#0001` to add you to whitelist.)
     * BlackOut's Server: `lilypad.alphaver.xyz`
 
 ## Contribution

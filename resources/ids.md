@@ -302,13 +302,13 @@
 |  110 | Wool (Blue) |
 |  111 | Wool (Green) |
 |  112 | Wool (Black) |
-|  113 | debug 2d |
+|  113 | DEBUG block (2d) |
 |  114 | Salt block |
-|  115 | Plant |
-|  116 | Fire for the plant |
-|  117 | Plant with fire |
-|  118 | Plant with fire (2) |
-|  119 | Plant with fire (3) |
+|  115 | Glowing Flower |
+|  116 | Blue Fire |
+|  117 | Infused Flower (blue fire) |
+|  118 | Infused Flower (gold) |
+|  119 | Infused Flower (obsidian) |
 |  120 | Input block |
 |  256 | Iron Shovel |
 |  257 | Iron Pickaxe |
@@ -415,7 +415,7 @@
 |  358 | Blue Dye |
 |  359 | Magenta Dye |
 |  360 | Roasted Red Mushroom |
-|  361 | Fire for plants (but sideways) |
+|  361 | Edible Fire |
 |  362 | Fire sword |
 | 2256 | Music Disc (Hidden Den) |
 | 2257 | Music Disc (Lemuria) |

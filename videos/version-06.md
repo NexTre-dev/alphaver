@@ -56,6 +56,15 @@ We found a few other players who also seem to remember this version, however we 
     Total warnings issued: 1
   </details>
 
+Player - dj_p155
+After looking through this player name, it appears to not exist within Minecraft.
+IE - no UUID for this player name, which seems odd such that all Minecraft names should be archived regardless if the player has deleted their account.
+This is quite cryptic because the player in the video clearly has a custom skin, which when I check, none is found with that name.
+
+Theories:
+1. This player actually did have a valid Minecraft account but was removed by Mojang itself, including player name history.
+2. This player had an account but it is not associated with the main dev line of Minecraft, thus this forked version on Minecraft is not tracked.
+
 ## Changelog
 <img src="https://lh6.googleusercontent.com/Zuwy28Fx6dp5o62hqpFAs91dU8U-x4Ah8GUrF62uGR6nR_DkdCIm6oj3zHEUUdnn1vzdRHQP5G69Y2aFOqLEqQWFXTwqYY3p4zWopXteNGygW8riXVC-HXJqp_UYPM-9QGtUb8lkqDmDTNXgAw" width="350">
 <img src="https://lh3.googleusercontent.com/k0wX0f6qj1BPgY4h2-lO4SJ-uw3qrwJESu1-BlHljTaBvOKSDJW3suXcM8oDGoEUvtBsDrEaXAxYtQF_CMQFOpi6UTe73BkK5MD5_EY6NUrCWv_96xQqu1VgDg5qIfjDC5kWqfSDBroVMU2LtA" width="350">

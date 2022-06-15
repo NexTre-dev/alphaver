@@ -67,7 +67,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Sighting #3](sightings/sighting-3.md) `⚠️`
 * [Sighting #4](sightings/sighting-4.md) `⚠️`
 * [Sighting #5](sightings/sighting-5.md) `⚠️`
-* [Sighting #6](sightings/sighting-6.md) `✔️`
+* [Sighting #6](sightings/sighting-6.md)
 * [Sighting #7](sightings/sighting-7.md) `⚠️`
 * [Sighting #8](sightings/sighting-8.md) `⚠️`
 * [Sighting #9](sightings/sighting-9.md) `⚠️`

@@ -18,6 +18,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [ ] Timelines *(version timelines, videos, events, sightings)*
 - [ ] Add an in-depth guide of installing clients/servers
 - [ ] Seperate Preview and Lilypad item & block IDs
+- [ ] Reanalyze videos
 
 *\* = working on it*
 

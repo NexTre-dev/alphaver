@@ -1,7 +1,7 @@
 # Minecraft's Alpha 1.0.16 Versions
 Before you start, [make sure to watch RetroGamingNow's video about this first.](https://www.youtube.com/watch?v=_d5hEiYIKKU)
 
-Highly influenced *(technically a port to GitHub)*  by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
+Highly influenced by [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
 
 Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.youtube.com/watch?v=Wj6q8UySvdI) or [this text-based guide](jar/README.md#usage-windows-mac) on how you can install alphavers.
 
@@ -13,8 +13,12 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Images & Pictures, Videos~~
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
-- [ ] Item documentation
+- [X] ~~Item documentation~~
+- [ ] Download & add more images
+- [ ] Timelines *(version timelines, videos, events, sightings)*
+- [ ] Add an in-depth guide of installing clients/servers
 - [ ] Seperate Preview and Lilypad item & block IDs
+- [ ] Reanalyze videos
 
 *\* = working on it*
 
@@ -57,19 +61,19 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Sunrise](/videos/sunrise.md) *(Latest Video)*
 
 ### 3. Sightings
-> **WARNING:** Due to the method of becoming a `Shadow Player` is public now, these sightings *(and further ones)* should be disregarded, even though the ones below mean absolutely nothing.
-* [Sighting #1](sightings/sighting-1.md)
-* [Sighting #2](sightings/sighting-2.md)
-* [Sighting #3](sightings/sighting-3.md)
-* [Sighting #4](sightings/sighting-4.md)
-* [Sighting #5](sightings/sighting-5.md)
-* [Sighting #6](sightings/sighting-6.md)
-* [Sighting #7](sightings/sighting-7.md)
-* [Sighting #8](sightings/sighting-8.md)
-* [Sighting #9](sightings/sighting-9.md)
-* [Sighting #10](sightings/sighting-10.md)
-* [Sighting #11](sightings/sighting-11.md)
-* [Sighting #12](sightings/sighting-12.md)
+> **WARNING:** Due to becoming a `Shadow Player` is pretty known by now, further sightings and some need to be disregarded. Sightings that get marked with `⚠️` can't be proved legitimate.
+* [Sighting #1](sightings/sighting-1.md) `⚠️`
+* [Sighting #2](sightings/sighting-2.md) `⚠️`
+* [Sighting #3](sightings/sighting-3.md) `⚠️`
+* [Sighting #4](sightings/sighting-4.md) `⚠️`
+* [Sighting #5](sightings/sighting-5.md) `⚠️`
+* [Sighting #6](sightings/sighting-6.md) `✔️`
+* [Sighting #7](sightings/sighting-7.md) `⚠️`
+* [Sighting #8](sightings/sighting-8.md) `⚠️`
+* [Sighting #9](sightings/sighting-9.md) `⚠️`
+* [Sighting #10](sightings/sighting-10.md) `⚠️`
+* [Sighting #11](sightings/sighting-11.md) `⚠️`
+* [Sighting #12](sightings/sighting-12.md) `⚠️`
   
 ### 4. Chat Messages
 * [Entry Point](/chat_messages/entry-point.md)

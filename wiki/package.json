@@ -4,8 +4,7 @@
   "description": "A wiki generator for the Minecraft AlphaVer project.",
   "exports": "./build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./start.js"
+    "dev": "ts-node ./src/start.ts"
   },
   "repository": {
     "type": "git",
@@ -18,10 +17,16 @@
   },
   "homepage": "https://github.com/NexTre-dev/alphaver#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "common-tags": "^1.8.2",
     "marked": "^4.0.16",
     "mdast-util-from-markdown": "^1.2.0",
-    "serve-static": "^1.15.0"
+    "moment": "^2.29.3",
+    "serve-static": "^1.15.0",
+    "tsconfig-paths": "^4.0.0"
   },
-  "type": "module"
+  "devDependencies": {
+    "@types/node": "^17.0.40",
+    "@types/serve-static": "^1.13.10"
+  }
 }

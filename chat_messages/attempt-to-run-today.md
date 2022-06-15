@@ -2,17 +2,19 @@
 ## Discord Chat
 > **dJ155:** good luck  
 > 
-> **ORBL:** thank you  
-> **ORBL:** finaly found it  
-> **ORBL:** *uploaded an image*  
-> **ORBL:** pc is very slow, don't lnow how it even worked back in the day  
-> **ORBL:** somehow worked with 1.7.2 mods  
-> **ORBL:** let me upload the file  
-> **ORBL:** *uploaded a file name "Copy_of_rev11_0283.jar*  
+> **ORBL:**  
+> thank you  
+> finaly found it  
+> *uploaded an image*  
+> pc is very slow, don't lnow how it even worked back in the day  
+> somehow worked with 1.7.2 mods  
+> let me upload the file  
+> *uploaded a file name "Copy_of_rev11_0283.jar*  
 > 
-> **dJ155:** wow  
-> **dJ155:** we did it  
-> **dJ155:** we actually found a jar it seems  
+> **dJ155:**  
+> wow  
+> we did it  
+> we actually found a jar it seems  
 > 
 > **ORBL:** hope it works  
 > 
@@ -20,16 +22,19 @@
 > 
 > **ORBL:** good luck  
 > 
-> **dJ155:** i tried playing it  
-> **dJ155:** it launched  
-> **dJ155:** but after a minute or so it closed itself  
+> **dJ155:**  
+> i tried playing it  
+> it launched  
+> but after a minute or so it closed itself  
 > 
-> **ORBL:** anything interesting?  
-> **ORBL:** strange  
+> **ORBL:**  
+> anything interesting?  
+> strange  
 > 
-> **dJ155:** there were weird iron doors  
-> **dJ155:** it said that it can't connect to a server or something  
-> **dJ155:** still, the fact that we even found a jar of this version  
+> **dJ155:**  
+> there were weird iron doors  
+> it said that it can't connect to a server or something  
+> still, the fact that we even found a jar of this version  
 > 
 > **MachineRage:** Wait a second what  
 > 
@@ -37,8 +42,10 @@
 > 
 > **MachineRage:** This wasn't supposed to happen the version isn't connected to the server  
 > 
-> **dJ155:** on orbl's old pc  
-> **dJ155:** what?  
+> **dJ155:**  
+> on orbl's old pc  
+> what?  
 > 
-> **MachineRage:** yeah, there were these things that happened when the PC was connected to our servers, they shouldn't have happened now  
-> **MachineRage:** what the hell  
+> **MachineRage:**  
+> yeah, there were these things that happened when the PC was connected to our servers, they shouldn't have happened now  
+> what the hell  

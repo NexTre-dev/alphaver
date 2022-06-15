@@ -48,7 +48,7 @@ Some sound effects this version includes.
   * This one is *almost* a palindrome
   * [🔊 Listen here](https://drive.google.com/file/d/1EU7ohsJdhG0Z7zipXztYleJKPFxvIkOo/view?resourcekey&usp=slides_web)
 
-### PH1.rar
+### PH1.rar[^2]
 | Found in        | File Size | Password Protected?                                      |
 | --------------  | --------- | -------------------------------------------------------- |
 | lilypad_qa.jar  | 638 bytes | Yes, the password is `ab99d76f9a4c41a0f3591b122bbc985c`. |
@@ -67,7 +67,7 @@ Some sound effects this version includes.
 #### Files
 There is only one file, **stdout.txt**, it contains a youtube link to [the video ????](../videos/question-mark.md).
 
-### PH2.rar
+### PH2.rar[^3]
 | Found in        | File Size | Password Protected?                                                                      |
 | --------------  | --------- | ---------------------------------------------------------------------------------------- |
 | lilypad_qa.jar  | 3.45 MB   | Yes, the password is `c74329a1eef811c3affedba7645099d10c0f6441b78f73a893ccb405abe319ab`. |
@@ -252,3 +252,5 @@ https://user-images.githubusercontent.com/89975834/170937701-b343ab3d-838e-4861-
 </details>
 
 [^1]: Censored
+[^2]: Project Handle 1
+[^3]: Project Handle 2

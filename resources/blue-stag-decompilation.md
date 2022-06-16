@@ -21,8 +21,6 @@ Drag RetroMCP-Java into an empty folder, and run it to open up a command prompt:
 
 Type in `setup`, then select `a1.1.0`.
 
-![](https://lh6.googleusercontent.com/FdeCrA5p_tQkre296dtidMNvAGJAGkBb2CZTCYryhnbT1QMwfHSVOJIF1es99Fl5C90QYG-UHgIdfeMBhF6vN9AbyE53ju6JlvLYGgjshjEXRQWS_OfK2hadRmMpaygUDAQGS5M7ViWdpYwYuA)
-
 ## 2. Fixing mappings
 Go to `conf` and open up `client.tiny`, then replace `BlockButton` with something else, for example `BlockButtonVanilla`. Once you've done that save the file.
 
@@ -33,7 +31,7 @@ Once you have the modified jar, rename it to “minecraft.jar” and move it to 
 
 If you have an IDE, open up the workspace.
 
-**NOTE: IF YOU ARE USING INTELLIJ IDEA YOU FIRST MUST IMPORT THE MODULES AND SET `MCP_LOC` TO THE PATH OF YOUR RETROMCP FOLDER**
+**NOTE:** If you are using IntelliJ IDEA you must import the modules and set `MCP_LOC` to the path of your RetroMCP folder first!
 
 ## 4. Fixing the source code
 Decompiled source code isn’t always perfect. However, you can fix it. The source code is stored in the src/minecraft folder. The files are stored in the net/minecraft/src folder inside that folder unless otherwise stated. Here is how to fix it:

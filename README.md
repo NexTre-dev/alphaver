@@ -130,6 +130,9 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
     * Devad's Server: `Lilypad.mc-join.org`
     * ErdBeer's Server: `erdbeerbaerlp.de:24259`
     * BlackOut's Server: `lilypad.alphaver.xyz`
+* Wikis:
+  *  [alphaver.fandom.com](https://alphaver.fandom.com)
+  *  [mc-lilypad.fandom.com](https://mc-lilypad.fandom.com)
 
 ## Contribution
 Feel free to create any pull requests or open issues if you want to contribute to the documentation. 

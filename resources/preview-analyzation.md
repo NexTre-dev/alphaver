@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#5-game-content)
 
 ## Preview Analyzation
 | Upload date  | File Size |

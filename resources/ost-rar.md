@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#7-other-content)
 
 # OST.rar
 | Upload date  | File Size |

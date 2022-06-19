@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#6-mechanics)
 
 # Chunk Names (Lilypad)
 In Lilypad, every chunk has a unique name that is assigned to them, these names are also shown in the posted videos.

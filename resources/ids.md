@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#7-other-content)
 
 <table>
 <tr><th>Preview 2</th><th>Lilypad</th></tr>

@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#1-basic-lore)
 
 # Invasion Players
 An unnamed player was seen in [Entry point](../videos/entry-point.md).

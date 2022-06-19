@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#6-mechanics)
 
 # Milestones (Lilypad)
 If you died at least once, you might've noticed that instead of `Score`, you now have `Milestones`.  

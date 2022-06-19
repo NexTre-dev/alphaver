@@ -37,7 +37,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Codes](/lore/codes.md)
 * [Anomalies](/lore/anomalies.md)
 
-### 2. Videos & Analyzation
+### 2. Videos
 * [Entry point](/videos/entry-point.md)
 * [Version 01](/videos/version-01.md)
 * [The search](/videos/the-search.md)
@@ -108,7 +108,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Jar Files](/jar/)
 * [All Items in playable versions](items/README.md)
 * [Item & Block IDs](/resources/ids.md)
-* [GitHub messages](/resources/github-messages.md)
+* [GitHub Messages](/resources/github-messages.md)
 * [Rosepad - a modding environment for Lilypad](https://github.com/5GameMaker/Rosepad)
 
 ## Guides & Resources

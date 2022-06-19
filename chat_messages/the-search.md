@@ -1,3 +1,5 @@
+[← Home Page](../README.md#4-chat-messages)
+
 # Video #3: The Search
 ## Minecraft Chat
 >**xorcist6869:**

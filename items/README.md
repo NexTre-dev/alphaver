@@ -1,4 +1,4 @@
-[← Home Page](../README.md)  
+[← Home Page](../README.md#7-other-content)
 
 # Items
 This is a list of items that are exclusive to or have some relevancy to AlphaVer.

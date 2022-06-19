@@ -1,3 +1,5 @@
+[← Home Page](../README.md#4-chat-messages)
+
 # Video #19: Discovered
 ## Minecraft Chat
 > [ClientConnectionEntry] Attempt to read unregistered client  

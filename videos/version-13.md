@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#2-videos)
 
 # Video #17: Version 13
 | Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
@@ -21,4 +21,4 @@
 
 ## Characters
 * samurai_2001
-  * We know this, because the same desktop appears in [Sunrise](sunrise.md), and the player is referred to as `samurai_2001`.
+* We know this, because the same desktop appears in [Sunrise](sunrise.md), and the player is referred to as `samurai_2001`.

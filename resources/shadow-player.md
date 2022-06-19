@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#guides--resources)
 
 # How to become a shadow player
 The game will not render your player model if it starts with the character "ą".

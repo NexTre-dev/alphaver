@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#2-videos)
 
 # Video #6: Version 06
 | Post Date  | Minecraft Version                                | Length  | FPS | Resolution | Youtube Link      |

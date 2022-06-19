@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#6-mechanics)
 
 # Hunger Mechanics 
 I'm not even sure if I can call this a "hunger mechanic", it's more like "take damage out of the blue every once in a while".

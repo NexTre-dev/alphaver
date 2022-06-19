@@ -1,3 +1,5 @@
+[← Home Page](../README.md#4-chat-messages)
+
 # Video #16: Internal footage 3
 ## Minecraft Chat
 > **dev6 joined the game**  

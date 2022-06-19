@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#2-videos)
 
 # Video #8: Internal footage 1
 | Post Date  | Minecraft Version                                                    | Length  | FPS | Resolution | Youtube Link      |
@@ -49,18 +49,18 @@
   3. Do not let your player character be discovered in-game. If you do, signal it to Management and do not attempt to take down any images that make their way onto the internet. leave that work to Management.
 
   4. The candidate needs to be:
-    - an active player
-    - a player who uses a variety of content from the game
+- an active player
+- a player who uses a variety of content from the game
   ```
 * There is an application called `Recruitment client (temp name)`
   * It has no icon,
   * Displayed Text:
-    ```txt
-    CURRENTLY CONNECTED TO A WORLD
+```txt
+CURRENTLY CONNECTED TO A WORLD
 
-    Connected to:
-    0b92*sf(?)*5de8
+Connected to:
+0b92*sf(?)*5de8
 
-    Accept candidate *(focused button)*
-    Disconnect *(disabled button)*
-    ```
+Accept candidate *(focused button)*
+Disconnect *(disabled button)*
+```

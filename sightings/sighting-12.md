@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#3-sightings)
 
 # Sighting #12
 | Happened on | External User(s) | Version         | Footage      |

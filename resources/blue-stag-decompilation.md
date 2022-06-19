@@ -1,9 +1,11 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#guides--resources)
 
 # Decompiling Minecraft 1.0.16.05_13 Lilypad
 This is a guide on decompiling and deobfuscation of the third publicly released 1.0.16 version, lilypad_qa. Please do not share the source code as it is against the law to do so.
 
-<!--*Also, yes, I am aware that this is a stupid idea that isn’t productive at all. Who doesn’t want to mess around with the source code anyways?*-->
+<!-- 
+*Also, yes, I am aware that this is a stupid idea that isn’t productive at all. Who doesn’t want to mess around with the source code anyways?*
+-->
 
 ## 0. Notes and prerequisites
 Please reobfuscate jars! If you do not then they will contain deobfuscated source code, which may or may not be illegal!

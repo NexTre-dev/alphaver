@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#2-videos)
 
 # Video #11: Internal footage 2 [reupload]
 | Post Date  | Minecraft Version | Length  | FPS | Resolution | Youtube Link      |
@@ -25,18 +25,17 @@ Original description:
 
 ## Events
 * We see a list of bug reports.
-  * Note that the ID corresponds to the form of the tester ID, this means that all of these reports are from special versions.
-  * "PLAYER WITHOUT SKIN SPAWNED ??"
-  * Some are from banned players.
-  * They select bug #0078
-    * The title is "Audio not working in the hub"
-    * It is submitted by dev1
+* Note that the ID corresponds to the form of the tester ID, this means that all of these reports are from special versions.
+* "PLAYER WITHOUT SKIN SPAWNED ??"
+* Some are from banned players.
+* They select bug #0078
+  * The title is "Audio not working in the hub"
+  * It is submitted by dev1
 * They work in NetBeans IDE
-    * We can see the packages and class names:  
-      <img src="https://lh4.googleusercontent.com/3VEWizRzTOsPbJxCNRnW3EhRy74aXyAuYmNwNHNrW_81QF8BMmg_R84v_1XMv-F_3ARU7_lmOORy3zMW-VzYymqrGdjN8CmcHKViNpzax7EfwNN1cqmJz8l4z4J6GSeWjp9SYPPm7YlL6Zu3Xq2b9g" width="280">
-      <img src="https://lh5.googleusercontent.com/OfOaI6kr46TH4dYAoBZtTU_t_Y_66Gz9jPgR2Nohh5-Do7wWgh9MbE_IXvZqetaRlmohiuAQtQaDLXjWHNLQgiK33evyQIxbG51EItU1ZKLpki-KWf8vSLDa64oqC6bgr4fvpIkUi-Cy3hDQkoWPew" width="280">
+  * We can see the packages and class names:  
+    <img src="https://lh4.googleusercontent.com/3VEWizRzTOsPbJxCNRnW3EhRy74aXyAuYmNwNHNrW_81QF8BMmg_R84v_1XMv-F_3ARU7_lmOORy3zMW-VzYymqrGdjN8CmcHKViNpzax7EfwNN1cqmJz8l4z4J6GSeWjp9SYPPm7YlL6Zu3Xq2b9g" width="280">
+    <img src="https://lh5.googleusercontent.com/OfOaI6kr46TH4dYAoBZtTU_t_Y_66Gz9jPgR2Nohh5-Do7wWgh9MbE_IXvZqetaRlmohiuAQtQaDLXjWHNLQgiK33evyQIxbG51EItU1ZKLpki-KWf8vSLDa64oqC6bgr4fvpIkUi-Cy3hDQkoWPew" width="280">
 * They fix bug #0079, which then they test.
 * The video is from 2010-08-27, 10:00.
 * We can see the methods in ExtMain.hubClient:  
-  <img src="https://lh5.googleusercontent.com/dRq7qmW3RQKusgEeOz5iac7NqvV0tedxbrYnTL9NJslpvghfa5SphMcF3naWJAFRyc4eyd8HrGhcaJUbe4KEYNGWespudE4zZdwuEJK22U94z3CUJYQ10auPHWApum9646BI4DL7doBeO7leAnj9dQ" width="300">
-  
+<img src="https://lh5.googleusercontent.com/dRq7qmW3RQKusgEeOz5iac7NqvV0tedxbrYnTL9NJslpvghfa5SphMcF3naWJAFRyc4eyd8HrGhcaJUbe4KEYNGWespudE4zZdwuEJK22U94z3CUJYQ10auPHWApum9646BI4DL7doBeO7leAnj9dQ" width="300">

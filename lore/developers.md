@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#1-basic-lore)
 
 # Developers
 There seem to be seven developers.

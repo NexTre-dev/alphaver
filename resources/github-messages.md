@@ -1,3 +1,5 @@
+[← Home Page](../README.md#7-other-content)
+
 # GitHub messages
 
 Here's the list of all GitHub replies, left by [`exalpha-dev`](https://github.com/exalpha-dev).

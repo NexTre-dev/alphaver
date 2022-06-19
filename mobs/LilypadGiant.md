@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#5-game-content)
 
 # Giant (Lilypad)
 Giants are a boss mob added in Lilypad, and are currently the only boss mob. They are distinct from the unused giants in vanilla. They are colossal zombie-like figures, with large amounts of health and attack power. Defeating giants gives rare loot not obtainable elsewhere.

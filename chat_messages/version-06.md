@@ -1,3 +1,5 @@
+[← Home Page](../README.md#4-chat-messages)
+
 # Video #6: Version 06
 ## Minecraft Chat
 

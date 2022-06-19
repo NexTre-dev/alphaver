@@ -1,4 +1,4 @@
-[← Home Page](../README.md)
+[← Home Page](../README.md#1-basic-lore)
 
 # Codes
 There are 8 hexademical codes that can be found in AlphaVer videos and distributed files. They are meant to be typed into the Input Block (ID 120). Inputting the first 3 of the codes gives the password to [PH1.rar](../resources/lilypad-analyzation.md#ph1.rar). Inputting all 8 codes gives the password to [PH2.rar](../resources/lilypad-analyzation.md#ph2.rar).

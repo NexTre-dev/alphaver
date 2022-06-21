@@ -36,6 +36,8 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Invasion Players](/lore/invasion-players.md)
 * [Codes](/lore/codes.md)
 * [Anomalies](/lore/anomalies.md)
+* [The Hub](/lore/hub.md)
+* [Recruitment program](/lore/recruitment.md)
 
 ### 2. Videos
 * [Entry point](/videos/entry-point.md)

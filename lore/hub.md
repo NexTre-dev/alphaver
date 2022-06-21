@@ -1,5 +1,7 @@
 [← Home Page](../README.md#2-basic-lore)
 
+# The Hub
+
 **The Hub** was a dimension on a seperate server, `testalpha.minecraft.net`[^1], featured in several versions of the 16.05 branch.
 
 ## Description

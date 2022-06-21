@@ -24,7 +24,7 @@ The next appearance of the Hub was in Internal footage 2. [dev6](developers.md#d
 
 The final appearance of the Hub was in Internal footage 3. dev6 and [dev4](developers.md#dev4) used it to travel to some player's world.
 
-The existence of the Hub was hinted at in the video [Attempt to run today](./videos/attempt-to-run-today.md).
+The existence of the Hub was hinted at in the video [Attempt to run today](../videos/attempt-to-run-today.md).
 
 ## Footnotes
 [^1]: As seen in Internal fotage 2 code.

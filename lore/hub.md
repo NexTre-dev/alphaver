@@ -28,4 +28,4 @@ The existence of the Hub was hinted at in the video [Attempt to run today](./vid
 
 ## Footnotes
 [^1]: As seen in Internal fotage 2 code.
-[^2]: The meaning of iron doors in videos that didn't explicitly feature the Hub is yet to be discovered. Those videos are [Version 03](../videos/version-03.md), [Version 05](./videos/version-05.md), [Version 06](./videos/version-06.md) (may mean that the Hub did exist on Alpha 1.0.16.05_06) and [????](../videos/question-mark.md).
+[^2]: The meaning of iron doors in videos that didn't explicitly feature the Hub is yet to be discovered. Those videos are [Version 03](../videos/version-03.md), [Version 05](../videos/version-05.md), [Version 06](../videos/version-06.md) (may mean that the Hub did exist on Alpha 1.0.16.05_06) and [????](../videos/question-mark.md).

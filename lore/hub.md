@@ -20,9 +20,9 @@ Iron doors served as gateways, which allowed to enter or exit the Hub.[^2]
 ## Appearances
 The Hub was first seen in [Version 10](../videos/version-10.md), but [Internal footage 2](./videos/internal-footage-2.md) implies that it existed at least as early as Alpha 1.0.16.05_07.[^1]
 
-The next appearance of the Hub was in Internal footage 2. [dev6](./lore/developers.md#dev6) fixes a bug related to it.
+The next appearance of the Hub was in Internal footage 2. [dev6](developers.md#dev6) fixes a bug related to it.
 
-The final appearance of the Hub was in Internal footage 3. dev6 and [dev4](./lore/developers.md#dev4) used it to travel to some player's world.
+The final appearance of the Hub was in Internal footage 3. dev6 and [dev4](developers.md#dev4) used it to travel to some player's world.
 
 The existence of the Hub was hinted at in the video [Attempt to run today](./videos/attempt-to-run-today.md).
 

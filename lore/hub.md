@@ -9,7 +9,7 @@ The Hub looks like a maze of 3x3 corridors. Its walls are made out of Dimension 
 
 The corridors may end in a dead end or in a room. The dead ends are usually made out of Grenscreen blocks, but some dead ends have iron doors. The room always has a pool of water next to an iron door.
 
-It also seems like the Hub had some "exterior" space. Those pieces of land were made entirely of Fake blocks, as seen in [Internal footage 3](./videos/internal-footage-3.md).
+It also seems like the Hub had some "exterior" space. Those pieces of land were made entirely of Fake blocks, as seen in [Internal footage 3](/videos/internal-footage-3.md).
 
 ## Role
 The Hub allowed players to travel between each others' worlds without connecting to them directly. It worked like modern BungeeCord, but instead of additional worlds on the server, there were actual players' worlds. One could connect to a world of any other player, if both players were connected to the Internet.

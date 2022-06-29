@@ -1,0 +1,120 @@
+body {
+	
+  font-family: "Arial";
+  background-repeat: repeat;
+  image-rendering: crisp-edges;
+  background-color: rgba(240, 240, 240, 1);
+  
+  color: black;
+}
+
+.headtag{
+  background-repeat: repeat;
+  image-rendering: crisp-edges;
+  
+  padding-left: 9px;
+  padding-bottom: 3px;
+  background-color: rgba(255, 255, 255, 1);
+  width: 100%;
+}
+
+.uid {
+	display: inline-block;
+	font-style: italic;
+	font-family: "Arial";
+	border: gray solid 1.5px;
+	background: #00000060;
+	border-radius: 4px;
+	padding-left:1px;
+	padding-right:2px;
+	
+	color: #ffffffA0;
+}
+
+.uid_ban {
+	display: inline-block;
+	font-style: italic;
+	font-family: "Arial";
+	border: gray solid 1.5px;
+	background: #00000030;
+	border-radius: 4px;
+	padding-left:1px;
+	padding-right:2px;
+	
+	color: #ff0000D0;
+}
+
+.fileattach {
+	display: inline-block;
+	font-style: italic;
+	font-family: "Arial";
+	border: gray solid 1.5px;
+	background: #ffffff60;
+	border-radius: 4px;
+	padding-top: 10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	width: 150px;
+	padding-right:10px;
+	
+	color: #000000A0;
+}
+
+.recruitment {
+	font-style: italic;
+	text-decoration: underline;
+	color : #FFFFFFA0;
+	font-family: "Arial";
+}
+
+.content {
+	padding-left: 50px;
+}
+
+.login {
+	color: #FFFFFFB0;
+	padding-left: 80px;
+}
+
+.login2 {
+	background-color: #000000B0;
+	display: inline-block;
+	padding: 25px;
+}
+
+.i {
+	font-style: italic;
+}
+
+.comment {
+	width: 400px;
+	height: 40px;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	
+	display: inline-block;
+	font-style: italic;
+}
+a {
+	color: blue;
+}
+
+li {
+	padding: 2px;
+	font-size: 14px;
+}
+.statusupdate {
+	padding-bottom: 2px;
+	padding-top:0px;
+	padding-left: 2px;
+	background-color: #00000030;
+}

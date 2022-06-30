@@ -65,7 +65,7 @@ Thankfully, we managed to find someone with more saved footage. We have yet to r
 
   Changes to textures are nearing completion. We would like to thank everyone who helped test our new version and reported bugs on the *bug tracker*.
 
-  > 23/09/2010: You all can't behave yourselves. The guidelines clearly state: "You may not distribute the provided software, incl. server software [_]".
+  > 23/09/2010: You all can't behave yourselves. The guidelines clearly state: "You may not distribute the provided software, incl. server software [...]".
   > This rule alone had over 50 violations in the day of release alone when we started the multiplayer test.
   > Because of this, we made the decision to remove the download links to the server software along with manual jar downloads.
   > If you were kicked out of the game with the error message "Session unauthorized", this was the cause.

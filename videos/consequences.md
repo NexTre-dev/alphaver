@@ -1,6 +1,6 @@
 [← Home Page](../README.md#2-videos)
 
-# Video #22: Punishments
+# Video #22: Consequences
 | Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
 | ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
 | 2022-06-29 | Minecraft Alpha Version 1.0.16.05_06  | 1:16  | 29.97   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=5ju7V8J4V98) |
@@ -18,3 +18,40 @@
 ## Characters
 * `???` is recording.
 * `xorcist6898`'s account is been used.
+
+## Anomalies
+
+* The OS is Windows 7.
+* xorcist6898's Hamachi room IP address is `25.72.43.136`.
+* Hamachi room name is `MineCraftGaming`.
+* 0:36: New dimension (identified as `server.HubLegacy`), where the player remains while banned from online play.
+* 0:36: A label at the top of the screen: `You have been temporarily banned for violating our Online Play Guidelines! Remaining suspension time: 31 days`
+* 0:56: New Essence stat in the Player's inventory GUI. Similar to survival test stats.
+* Along with the new video, the exalpha-dev.github.io website got updated.
+
+## Chat log
+
+```
+>> with these new versions it makes at least some sense
+<< like, they promised so much in the new update
+<< some kind of ash dimension or something
+<< and yet noone is talking abouth these weird updates?
+<< i mean on the forums
+<< wonder if that's tied to that figure me and another guy looked for once
+<< btw did they also ban you for a month?
+>> wait wait waaaaaaaait
+>> they ban people now?
+<< I mean not me lmao
+<< but they did ban the guy whose account i borrowed for a while
+<< because my actual account it not in the tests
+<< i mean it doesn't get these new versions
+>> huh. Well, this is dumb (the ban i mean)
+>> i just hope they bring back that Ghoul mob, he's very fun
+>> actually, can you log into the game at all? in like, the launcher
+<< let me try actually
+>> k 
+<< i mean i can
+<< but it like
+<< puts me into this
+<< actually i'll show you later
+```

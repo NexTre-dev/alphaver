@@ -28,6 +28,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [ ] Are any messages sent during the sightings important?
 - [ ] What do the paintings mean?
 - [ ] What anomalies are in [Consequences](./videos/consequences.md)?
+- [ ] What is the meaning of **events** found in the [explore field of the new website](./website/29.06.2022/README.md#explore)?
 - [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
 
 ## Outline
@@ -92,6 +93,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Presentation](chat_messages/presentation.md)
 * [Discovered](chat_messages/discovered.md)
 * [Sunrise](chat_messages/sunrise.md)
+* [Consequences](chat_messages/consequences.md) *(Latest Video)*
 
 ### 5. Game Content
 #### Lilypad

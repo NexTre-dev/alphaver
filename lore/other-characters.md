@@ -59,7 +59,7 @@ MachineRage was seen in [Attempt to run today](../videos/attempt-to-run-today.md
 bug_nation was seen in [Version 10](../videos/version-10.md).
 
 ### Vivern
-They were seen in [Punishments](../videos/punishments.md) and [Discovered](../videos/discovered.md).
+They were seen in [Consequences](../videos/consequences.md) and [Discovered](../videos/discovered.md).
 
 ### Red Shirt Player
 Their origin is unknown.

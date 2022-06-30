@@ -14,7 +14,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
 - [X] ~~Item documentation~~
-- [ ] Download & add more images
+- [ ] Downloagd & add more images
 - [ ] Timelines *(version timelines, videos, events, sightings)*
 - [ ] Add an in-depth guide of installing clients/servers
 - [ ] Seperate Preview and Lilypad item & block IDs

@@ -1,4 +1,4 @@
-[← Home Page](../README.md#1-basic-lore)
+[← Home Page](../README.md)
 
 # Other Characters
 There are various other characters found in the ARG.

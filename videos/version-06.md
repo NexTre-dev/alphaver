@@ -96,7 +96,7 @@ This is quite cryptic because the player in the video clearly has a custom skin,
   We would like to thank everyone who reported bugs on our *bug tracker.*
 
   > 20/08/2010: The recruitment process works by selecting accounts automatically.  
-  > [Please do NOT email us asking to let someone in, or to ask how the recruitment is carried out. These emails will be ignored.]
+  > Please do NOT email us asking to let someone in, or to ask how the recruitment is carried out. These emails will be ignored.
 
   Reminder: this version is not to be disclosed anywhere. Sharing recordings and/or screenshots outside of the *bug tracker* is forbidden.
 

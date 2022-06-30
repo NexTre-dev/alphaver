@@ -16,20 +16,23 @@
 "the doors didn't become a staple until before implementation, however."
 
 ## Characters
-* `???` is recording.
+* `PISSMAN-PC` is recording. (Based on the hamachi nickname)
 * `xorcist6898`'s account is been used.
+* `vivivern`: person to which PISSMAN-PC is talking through hamachi
+* `slayer00`: showed on the hamachi group
 
 ## Anomalies
-
+* The date is 2010-08-23.
 * The OS is Windows 7.
 * xorcist6898's Hamachi room IP address is `25.72.43.136`.
 * Hamachi room name is `MineCraftGaming`.
-* 0:36: New dimension (identified as `server.HubLegacy`), where the player remains while banned from online play.
+* 0:11: A new launcher gets showed, which internal browser was already logged on xorcist account
+* 0:36: New dimension (identified as `server.HubLegacy`), where the player remains while banned from online play. (Note: This contradicts what we saw on Version 06, where xorcist was still able to get to the main menu of Minecraft, while PISSMAN was taken directly into HubLegacy)
 * 0:36: A label at the top of the screen: `You have been temporarily banned for violating our Online Play Guidelines! Remaining suspension time: 31 days`
 * 0:56: New Essence stat in the Player's inventory GUI. Similar to survival test stats.
 * Along with the new video, the exalpha-dev.github.io website got updated.
 
-## Chat log
+## Chat log between PISSMAN-PC and vivivern
 
 ```
 >> with these new versions it makes at least some sense

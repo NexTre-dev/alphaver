@@ -27,6 +27,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [ ] Where is the code 5?
 - [ ] Are any messages sent during the sightings important?
 - [ ] What do the paintings mean?
+- [ ] What is the meaning of **events** found in the [explore field of the new website](./website/29.06.2022/README.md#explore)?
 - [ ] What anomalies are in [Consequences](./videos/consequences.md)?
 - [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
 
@@ -92,6 +93,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Presentation](chat_messages/presentation.md)
 * [Discovered](chat_messages/discovered.md)
 * [Sunrise](chat_messages/sunrise.md)
+* [Consequences](chat_messages/consequences.md) *(Latest Video)*
 
 ### 5. Game Content
 #### Lilypad
@@ -114,6 +116,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Item & Block IDs](/resources/ids.md)
 * [GitHub Messages](/resources/github-messages.md)
 * [Rosepad - a modding environment for Lilypad](https://github.com/5GameMaker/Rosepad)
+* [Exalpha's Website/Archive](/website/README.md)
 
 ## Guides & Resources
 * [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)

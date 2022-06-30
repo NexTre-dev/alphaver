@@ -27,7 +27,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [ ] Where is the code 5?
 - [ ] Are any messages sent during the sightings important?
 - [ ] What do the paintings mean?
-- [ ] What anomalies are in [Punishments](../README.md#2-videos)?
+- [ ] What anomalies are in [Punishments](../videos/punishments.md)?
 - [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
 
 ## Outline

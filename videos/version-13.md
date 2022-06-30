@@ -22,3 +22,6 @@
 ## Characters
 * samurai_2001
 * We know this, because the same desktop appears in [Sunrise](sunrise.md), and the player is referred to as `samurai_2001`.
+
+## Anomalies
+* An icon on the taskbar appears to have been censored, as it doesn't look like the windows logo

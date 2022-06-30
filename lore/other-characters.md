@@ -20,7 +20,7 @@ Their operating system is `Windows XP`.
 
 Their Skype username is `LORD_OF_THE_FLIES.1998`.
 
-Their account is been used in [Consequences](../videos/consequences.md)
+Their account was used by PISSMAN-PC in [Consequences](../videos/consequences.md)
 
 ### Dj_p155
 Dj_p155 recorded the video [Attempt to run today](../videos/attempt-to-run-today.md).

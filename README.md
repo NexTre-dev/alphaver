@@ -28,7 +28,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [ ] Are any messages sent during the sightings important?
 - [ ] What do the paintings mean?
 - [ ] What is the meaning of **events** found in the [explore field of the new website](./website/29.06.2022/README.md#explore)?
-- [ ] What anomalies are in [Consequences](./videos/consequences.md)?
+- [X] ~~What anomalies are in [Consequences](./videos/consequences.md)?~~ There are many anomalies, check the page for more info.
 - [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
 
 ## Outline

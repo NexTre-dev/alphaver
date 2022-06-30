@@ -24,4 +24,4 @@
 * We know this, because the same desktop appears in [Sunrise](sunrise.md), and the player is referred to as `samurai_2001`.
 
 ## Anomalies
-* An icon on the taskbar appears to have been censored, as it doesn't look like the windows logo
+* A modern Firefox icon was blurred, it was unblurred before but by YouTube's video editor. It was blurred to make it look like a 2010 video.

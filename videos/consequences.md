@@ -22,7 +22,7 @@
 * `slayer00`: showed on the hamachi group
 
 ## Anomalies
-
+* The date is 2010-08-23.
 * The OS is Windows 7.
 * xorcist6898's Hamachi room IP address is `25.72.43.136`.
 * Hamachi room name is `MineCraftGaming`.

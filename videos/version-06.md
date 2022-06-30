@@ -12,7 +12,8 @@ We found a few other players who also seem to remember this version, however we 
 
 ## Characters
 * `LORD_OF_THE_FLIES.1998` aka `xorcist6898`:
-  Playing and recording the video.
+  * Playing and recording the video.
+  * Playtester ID is `2380-d8eb`
 * `Jose.gonzales.210` aka `Dj_p155`:
   Second person on Skype.
 
@@ -96,7 +97,7 @@ This is quite cryptic because the player in the video clearly has a custom skin,
   We would like to thank everyone who reported bugs on our *bug tracker.*
 
   > 20/08/2010: The recruitment process works by selecting accounts automatically.  
-  > [Please do NOT email us asking to let someone in, or to ask how the recruitment is carried out. These emails will be ignored.]
+  > Please do NOT email us asking to let someone in, or to ask how the recruitment is carried out. These emails will be ignored.
 
   Reminder: this version is not to be disclosed anywhere. Sharing recordings and/or screenshots outside of the *bug tracker* is forbidden.
 

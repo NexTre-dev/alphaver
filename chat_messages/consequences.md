@@ -2,10 +2,6 @@
 
 # Video #22: Consequences
 ## Vivern Chat
-<blockquote>
-    <p>PISSMAN-PC: with these new versions it makes at least some sense</p>
-    <p>PISSMAN-PC: like, they promised so much in the new update</p>
-</blockquote>
 > PISSMAN-PC: with these new versions it makes at least some sense
 > PISSMAN-PC: like, they promised so much in the new update
 > PISSMAN-PC: some kind of ash dimension or something

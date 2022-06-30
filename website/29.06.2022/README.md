@@ -58,7 +58,7 @@ You can find the following message in the `.footer` element:
 <details>
 
 <summary>
-#### img0.png
+<h4>img0.png</h4>
 </summary>
 
 img0 features a screenshot of presumably a Lilypad version at night.  
@@ -82,22 +82,20 @@ the next release will feature enhanced security
 </details>
 
 </details>
-
 <details>
 
 <summary>
-#### img1.png
+<h4>img1.png</h4>
 </summary>
 
 img1 features a screenshot of an iron door *(the one with the bars instead of squares as the window)* in an eerie environment at night.  
 <img src="https://exalpha-dev.github.io/img1.png" width="600">
 
 </details>
-
 <details>
 
 <summary>
-#### img2.png
+<h4>img2.png</h4>
 </summary>
 
 img2 features a screenshot of dropped items *(some of which i'm not able to identify, please create a pr if you can)*, a crafting table, the weird looking furnace, and a double chest. This is all found in a cobblestone house of some sort.  
@@ -106,10 +104,9 @@ img2 features a screenshot of dropped items *(some of which i'm not able to iden
 > TODO: Identify the dropped items, and add them to a list here.
 
 </details>
-
 <details>
 <summary>
-#### img3.png
+<h4>img3.png</h4>
 </summary>
 
 img 3 features a screenshot of the player fighting a giant *(Giant of NINONNA-PAHHIRUU)*, this is the only screenshot where we can see some part of the user interface. **This was definitely taken from a Lilypad release**.  

@@ -20,6 +20,8 @@ Their operating system is `Windows XP`.
 
 Their Skype username is `LORD_OF_THE_FLIES.1998`.
 
+Their account was used in [Punishments](../videos/punishments.md)
+
 ### Dj_p155
 Dj_p155 recorded the video [Attempt to run today](../videos/attempt-to-run-today.md).
 They were seen in [Entry point](../videos/entry-point.md), [Version 01](../videos/), [The search](../videos/the-search.md) and [Version 06](../videos/version-06.md).

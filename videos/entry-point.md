@@ -25,7 +25,8 @@ Not much more background info is known.
 
 ## Characters
 * `LORD_OF_THE_FLIES.1998` aka `xorcist6898`:
-  Playing and recording the video.
+  Playing and recording the video.  
+  > NOTE: With context taken from the video Consequences and the description, this is NOT the "real" xorcist6898. This is a player who borrowed the "real" xorcist's account, and everytime we see xorcist6898 in a video, it's probably them..
 * `Jose.gonzales.210` aka `Dj_p155`:
   Second person on Skype.
 

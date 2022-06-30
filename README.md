@@ -14,7 +14,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [X] ~~Organize the analyzation of the Lilypad .jar~~
 - [X] ~~Add youtube links to each video~~
 - [X] ~~Item documentation~~
-- [ ] Downloagd & add more images
+- [ ] Download & add more images
 - [ ] Timelines *(version timelines, videos, events, sightings)*
 - [ ] Add an in-depth guide of installing clients/servers
 - [ ] Seperate Preview and Lilypad item & block IDs
@@ -27,8 +27,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 - [ ] Where is the code 5?
 - [ ] Are any messages sent during the sightings important?
 - [ ] What do the paintings mean?
-- [ ] What anomalies are in [Punishments](./videos/punishments.md)?
-- [ ] What is the meaning of **events** found in the [explore field of the new website](./website/29.06.2022/README.md#explore)?
+- [ ] What anomalies are in [Consequences](./videos/consequences.md)?
 - [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
 
 ## Outline
@@ -62,7 +61,8 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 * [Presentation](/videos/presentation.md)
 * [Discovered](/videos/discovered.md)
 * [????](/videos/question-mark.md)
-* [Sunrise](/videos/sunrise.md) *(Latest Video)*
+* [Sunrise](/videos/sunrise.md)
+* [Consequences](/videos/consequences.md) *(Latest Video)*
 
 ### 3. Sightings
 > **WARNING:** Due to becoming a `Shadow Player` is pretty known by now, further sightings and some need to be disregarded. Sightings that get marked with `⚠️` can't be proved legitimate.

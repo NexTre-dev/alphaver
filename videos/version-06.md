@@ -22,7 +22,7 @@ We found a few other players who also seem to remember this version, however we 
   > **xorcist6898:** Of course i didn't  
   > **xorcist6898:** I have it recorded too  
   > **dj_p155:** gonna give you the benifit of doubt here. Can you send me the recording?  
-  > **xorcist6898:** It's too big for skype unfortunately
+  > **xorcist6898:** It's too big for skype unfortunately  
   > **xorcist6898:** I'd need to post it to youtube as private or something
 
 ## Anomalies
@@ -45,6 +45,7 @@ We found a few other players who also seem to remember this version, however we 
   <details>
     <summary>Transcript</summary>
 
+    ```
     Account has been temporarily suspended from Online Play due to the following infraction of the guidelines:  
     Session unauthorized
 
@@ -54,6 +55,7 @@ We found a few other players who also seem to remember this version, however we 
 
     WARNING ISSUED  
     Total warnings issued: 1
+    ```
   </details>
 
 Player - dj_p155
@@ -61,7 +63,7 @@ After looking through this player name, it appears to not exist within Minecraft
 IE - no UUID for this player name, which seems odd such that all Minecraft names should be archived regardless if the player has deleted their account.
 This is quite cryptic because the player in the video clearly has a custom skin, which when I check, none is found with that name.
 
-Theories:
+**Theories:**
 1. This player actually did have a valid Minecraft account but was removed by Mojang itself, including player name history.
 2. This player had an account but it is not associated with the main dev line of Minecraft, thus this forked version on Minecraft is not tracked.
 

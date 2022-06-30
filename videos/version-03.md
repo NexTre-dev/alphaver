@@ -19,7 +19,8 @@ Playing and recording the video.
 * 0:01:41: The bricks are grayish instead of red:  
 <img src="https://lh3.googleusercontent.com/3O1CR-iCAnASxii3pV-HQPVNJ_zkHV21Lt-gkf-H82Huco8kn7ERjk1Dg9qtrBZPiHU25IyeirqOCXKkdJY93TnF1jhJTYGNncl7r0W4ssOKdH4xvXK8AsZsDg0b-gctKqUHmskCGJsgYsVaK1lQpQ" width="300">
 <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Bricks_JE5_BE3.png/revision/latest/scale-to-width-down/150?cb=20200226015249" width="80">  
-* 0:10:31: An iron door underwater
-* 0:33:35: The bridge is missing
+
+* 0:10:31: An iron door underwater  
+* 0:33:35: The bridge is missing  
 * 0:55:12: An empty player joins, you cannot locate it visually:  
 <img src="https://lh6.googleusercontent.com/5awDRTsvKHx4Xa1P1NjSqc5w5JzNfb4goFoJvHXSjrBl73fFdjRQke3juPZc0-fzQ4dbvUZXzoaRHfbtIIaeVD0R6-y78_a8Fj7RHYcYB1hyVmde_eqhVaLYaLXma_iCzFYsAzCO04b9chalXBGlOQ" width="250">

@@ -3,7 +3,7 @@
 # Video #22: Punishments
 | Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
 | ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
-| 2022-06-29 | Minecraft Alpha Version 1.0.16.05_06  | 1:16  | 59.94   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=5ju7V8J4V98) |
+| 2022-06-29 | Minecraft Alpha Version 1.0.16.05_06  | 1:16  | 29.97   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=5ju7V8J4V98) |
 
 ## Description
 "Oh, so that's the video you've been telling me about all along. Glad you were able to finally recover it"

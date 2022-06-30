@@ -12,7 +12,8 @@ We found a few other players who also seem to remember this version, however we 
 
 ## Characters
 * `LORD_OF_THE_FLIES.1998` aka `xorcist6898`:
-  Playing and recording the video.
+  * Playing and recording the video.
+  * Playtester ID is `2380-d8eb`
 * `Jose.gonzales.210` aka `Dj_p155`:
   Second person on Skype.
 

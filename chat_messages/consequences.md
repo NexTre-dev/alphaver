@@ -3,7 +3,9 @@
 # Video #22: Consequences
 ## Vivern Chat
 > PISSMAN-PC: with these new versions it makes at least some sense
+
 > PISSMAN-PC: like, they promised so much in the new update
+
 > PISSMAN-PC: some kind of ash dimension or something
 > PISSMAN-PC: and yet noone is talking abouth these weird updates?
 > PISSMAN-PC: i mean on the forums

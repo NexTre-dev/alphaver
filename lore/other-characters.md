@@ -40,7 +40,7 @@ orble was seen in [Attempt to run today](../videos/attempt-to-run-today.md) and 
 
 They recorded the video [Version 07](../videos/version-07.md).
 
-Their operating system is `Windows Vista`.
+Their operating system is `Windows 7`.
 
 Their Discord username is `ORBL`.
 

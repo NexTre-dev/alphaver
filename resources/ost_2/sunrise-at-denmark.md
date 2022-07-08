@@ -3,3 +3,5 @@
 
 # Sunrise at Denmark
 > aka: `6-Sunrise at Denmark.ogg`
+
+<a href="./audio/6-Sunrise at Denmark.ogg" target="_blank">🔊 You can take a listen here.</a>

@@ -111,6 +111,7 @@ Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.y
 
 ### 7. Other Content
 * [OST.rar](/resources/ost-rar.md)
+* [OST_2.7z](/resources/ost_2-7z.md)
 * [Jar Files](/jar/)
 * [All Items in playable versions](items/README.md)
 * [Item & Block IDs](/resources/ids.md)

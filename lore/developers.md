@@ -30,7 +30,7 @@ They are referred to as dev# or just simply #.
 - Dev6 considered them to be a friend (Presentation)
 - Created the OST album artwork ([OST.rar](../resources/ost-rar.md))
 - Is a she, confirmed by latest community post:  
-  *(image)*
+  <img src="https://user-images.githubusercontent.com/66027449/178020717-877cba49-df9a-4426-a78c-c491eaa92001.png" width="600">
 
 ### dev4
 - Recorded [Feature testing](../videos/feature-testing.md) and is mentioned in the description

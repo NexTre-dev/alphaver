@@ -4,6 +4,9 @@
 # Great Threat
 > aka: `8-Great Threat.ogg`
 
+File comment:
+> Composer's Note: This track was supposed to be an alternative to Faux-Divinity. That's about it really.
+
 <a href="./audio/8-Great Threat.ogg" target="_blank">🔊 You can take a listen here.</a>
 
 ## Spectrogram

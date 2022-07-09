@@ -4,6 +4,9 @@
 # Sunrise at Denmark
 > aka: `6-Sunrise at Denmark.ogg`
 
+File comment:
+> Composer's Note: "With powerful slowness"...What a great quote. It really fit the event.
+
 <a href="./audio/6-Sunrise at Denmark.ogg" target="_blank">🔊 You can take a listen here.</a>
 
 ## Spectrogram

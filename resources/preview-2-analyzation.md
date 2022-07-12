@@ -47,7 +47,7 @@ This code enables cheats.
 <summary>
 
 Numbers are written on a scrap of paper: `47984-25158-78941`.  
-This code enables cheats.
+This code lets you actually play the game.
 
 </details>
 

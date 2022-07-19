@@ -29,7 +29,7 @@ They are referred to as dev# or just simply #.
 - Was on the art team ([Presentation](../videos/presentation.md))
 - Dev6 considered them to be a friend (Presentation)
 - Created the OST album artwork ([OST.rar](../resources/ost-rar.md))
-- Is a she, confirmed by latest community post:  
+- Is a she, confirmed by a community post:  
   <img src="https://user-images.githubusercontent.com/66027449/178020717-877cba49-df9a-4426-a78c-c491eaa92001.png" width="600">
 
 ### dev4

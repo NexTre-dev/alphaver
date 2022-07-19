@@ -40,7 +40,7 @@ They are referred to as dev# or just simply #.
 ### dev5
 - Proposed the Crab Nebula event with dev2 ([Sunrise](../videos/sunrise.md))
 - They composed the OST music ([OST.rar](../resources/ost-rar.md), [OST_2.7z])
-- Apparently lives in **Denmark** *(according to composer notes in OST_2, Denmark reminds him of "home")*.
+- Apparently lives/was born in **Denmark** *(according to composer notes in OST_2, Denmark reminds him of "home")*.
 
 ### dev6
 - Mentioned in the description of [Entry point](../videos/entry-point.md) and [Version 13](../videos/version-13.md)

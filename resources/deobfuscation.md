@@ -1,4 +1,4 @@
-[← Home Page](../README.md#5-game-content)
+[← Home Page](../README.md#guides--resources)
 
 ## Deobfuscation
 

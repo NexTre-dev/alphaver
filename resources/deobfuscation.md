@@ -8,7 +8,7 @@ UNR.PREVIEW2 is based on Alpha 1.0.16_02, so normal Alpha 1.0.16_02 mappings wil
 ### How to deobfuscate
 Requirements:
 
-UNR.PREVIEW2 .jar file (click [here](kiffoliska.github.io/unrpreview2.jar) for an already deobfuscated .jar file)
+UNR.PREVIEW2 .jar file (click [here](https://kiffoliska.github.io/unrpreview2.jar) for an already deobfuscated .jar file)
 
 [Alpha 1.0.16_02 mappings](https://github.com/MCPHackers/MCPHackers.github.io/blob/main/versions/a1.0.16.zip)
 
@@ -25,7 +25,7 @@ Requirements:
 
 [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java/)
 
-Deobfuscated UNR.PREVIEW2 .jar (downloadable [here](kiffoliska.github.io/unrpreview2.jar) if you didn't follow the steps above
+Deobfuscated UNR.PREVIEW2 .jar (downloadable [here](https://kiffoliska.github.io/unrpreview2.jar) if you didn't follow the steps above
 
 Open RetroMCP and run the command "setup a1.0.16_02".
 

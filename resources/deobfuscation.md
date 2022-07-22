@@ -25,7 +25,7 @@ Requirements:
 
 [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java/)
 
-Deobfuscated UNR.PREVIEW2 .jar (downloadable [here](https://kiffoliska.github.io/unrpreview2.jar) if you didn't follow the steps above
+Deobfuscated UNR.PREVIEW2 .jar (downloadable [here](https://kiffoliska.github.io/unrpreview2.jar) if you didn't follow the steps above)
 
 Open RetroMCP and run the command "setup a1.0.16_02".
 

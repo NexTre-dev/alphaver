@@ -125,11 +125,10 @@ If you want to discuss stuff about alphaver, consider joining [RetroGamingNow's 
 * [Exalpha's Website/Archive](/website/README.md)
 
 ## Guides & Resources
-* [Blue Stag#9325's Guide About Decompilation](https://docs.google.com/document/d/1HRdA1AIBAbS7H1LFKUyycaN0BNg1piS-NPyHLXnzQ6I/edit) | [Markdown Version Here](/resources/blue-stag-decompilation.md)
+* Decompiling and deobfuscating: [Lilypad](/resources/decompilation-lilypad.md), [Preview versions](/resources/decompilation.md)
 * [not Zsoz#0001's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
 * [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
 * [How to turn into a shadow player](resources/shadow-player.md)
-* [How to decompile and deobfuscate UNR.PREVIEW2](resources/deobfuscation.md)
 
 ## Community-driven Resources
 * Minecraft Servers

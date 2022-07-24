@@ -129,7 +129,6 @@ If you want to discuss stuff about alphaver, consider joining [RetroGamingNow's 
 * [not Zsoz#0001's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
 * [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
 * [How to turn into a shadow player](resources/shadow-player.md)
-* [How to decompile and deobfuscate UNR.PREVIEW2](resources/deobfuscation.md)
 
 ## Community-driven Resources
 * Minecraft Servers

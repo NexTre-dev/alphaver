@@ -1,6 +1,6 @@
 [← Home Page](../README.md#guides--resources)
 
-# Decompiling Minecraft 1.0.16.05 UNR.PREVIEW2
+# Decompiling
 This is a guide on decompiling and deobfuscation of the first and second publicly released 1.0.16.05 versions. Please do not share the source code as it is against the law to do so.
 These versions are based on Alpha 1.0.16_02, so normal Alpha 1.0.16_02 mappings will work.
 
@@ -26,8 +26,6 @@ Type in `setup`, then select `1.0.16_02`.
 
 ## 2. Deobfuscating
 Once you have the modified jar, rename it to “minecraft.jar” and move it to the “jars” folder, replacing the vanilla jar. Now, type in the  `decompile`  command into RetroMCP-Java, sit back and relax. Hold on for a minute! Forget sitting back and relaxing! And enjoy the compiler errors!
-
-![](https://lh3.googleusercontent.com/f0J5MD3Agqr3ybiTwZFjIKfPCRXRgNfC53ajAlsZxSQmV5_O3twsVrk-pL1faZpRNqRPO-4SULMUwG2i7ky0TJ8JGwr7uDgb6yADY0YxTBjnehzkcl0IHD1N2-3W23pt53sV1-tF0Y-I6hjSrw)
 
 If you have an IDE, open up the workspace.
 

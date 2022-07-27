@@ -29,7 +29,7 @@ If you want to discuss stuff about alphaver, consider joining [RetroGamingNow's 
 
 ## List of Questions
 - [ ] What does R.O.S.T.R.U.M stand for?
-- [ ] Where is the code 5?
+- [X] Where is the code 5? | **Lost.**
 - [ ] Are any messages sent during the sightings important?
 - [ ] What do the paintings mean?
 - [ ] What is the meaning of **events** found in the [explore field of the new website](./website/29.06.2022/README.md#explore)?
@@ -144,9 +144,14 @@ If you want to discuss stuff about alphaver, consider joining [RetroGamingNow's 
     * Devad's Server: `Lilypad.mc-join.org`
     * ErdBeer's Server: `erdbeerbaerlp.de:24259`
     * BlackOut's Server: `lilypad.alphaver.xyz`
-* Wikis:
-  *  [alphaver.fandom.com](https://alphaver.fandom.com)
-  *  [mc-lilypad.fandom.com](https://mc-lilypad.fandom.com)
+* Wikis (in order of creation):
+  *  [Minecraft Alphaver Wiki (FANDOM)](https://minecraftalpha1016versions.fandom.com/) 
+  *  [AlphaVer Wiki (FANDOM)](https://alphaver.fandom.com)
+  *  [Minecraft Lilypad Wiki (FANDOM)](https://mc-lilypad.fandom.com)
+  *  [AlphaVer Wiki (Miraheze)](https://alphaver.miraheze.org/)
+* Subreddits
+  * [r/alphavaer](https://www.reddit.com/r/alphaver/)
+  * [r/alphaversionproj](https://reddit.com/r/alphaversionprj)
 
 ## Contribution
 Feel free to create any pull requests or open issues if you want to contribute to the documentation. 

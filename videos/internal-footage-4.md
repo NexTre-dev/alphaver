@@ -34,7 +34,7 @@ Log:
 >   
 > Game version:  
 >  -base 1.1.0  
->  -extensin: 16.05_11 (dev)  
+>  -extension: 16.05_11 (dev)  
 >   
 > OS: Windows Vista Business (64-bit) [6002]  
 > JVM: 1.6.0_45  
@@ -42,7 +42,7 @@ Log:
 > Technical specification:  
 > CPU: AMD Sempron 3600+ (amd64)  
 >   - 1C(1T)@2.00GHz  
-> GPU: NVIDIA GeForce GTX 250 (738MHz clk. 1100MHz vram: 1024 MB VRAM)  
+> GPU: NVIDIA GeForce GTS 250 (738MHz clk. 1100MHz vram: 1024MV VRAM)  
 >   - compatible API:  
 >    - OpenGL: 3.0  
 >    - Direct3D: 10.0  

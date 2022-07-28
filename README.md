@@ -68,7 +68,8 @@ If you want to discuss stuff about alphaver, consider joining [RetroGamingNow's 
 * [Discovered](/videos/discovered.md)
 * [????](/videos/question-mark.md)
 * [Sunrise](/videos/sunrise.md)
-* [Consequences](/videos/consequences.md) *(Latest Video)*
+* [Consequences](/videos/consequences.md) 
+* [Internal footage 4](/videos/internal-footage-4.md) *(Latest Video)*
 
 ### 3. Sightings
 > **WARNING:** Due to becoming a `Shadow Player` is pretty known by now, further sightings and some need to be disregarded. Sightings that get marked with `⚠️` can't be proved legitimate.

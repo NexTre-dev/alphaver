@@ -3,7 +3,7 @@
 # Video #19: Discovered
 | Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
 | ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
-| 2022-04-16 | Minecraft Alpha v1.0.16.05_13 Lilypad | 0:58:00  | 29.97   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=aozla1r6yVM) |
+| 2022-04-16 | Minecraft Alpha v1.0.16.05 / v1.0.16.05 UNR_PREVIEW 2 / v1.0.16.05_13 Lilypad | 0:58:00  | 29.97   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=aozla1r6yVM) |
 
 > This is a downloadable Lilypad client.  
 > **ONLY RUN THESE FILES AT YOUR OWN RISK!**
@@ -25,5 +25,8 @@ https://www.mediafire.com/file/uo2zqueiw2e872y/lilypad_qa.jar/file
 * dev0 is mentioned.
 
 ## Events & Anomalies
-* Esentially a sequence of 14 images (including one text).
+* Esentially a sequence of 14 images (including one text). 
 * The background sound is a song which doesn't appear to be in the OST.
+
+## Notes
+* As we know two 1.0.16.05 builds have been made, is unknown if is the actual 16.05 build or the 16.05 we saw on [Unknown version](/videos/unknown-version.md)

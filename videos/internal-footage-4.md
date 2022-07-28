@@ -3,7 +3,8 @@
 # Video #23: Internal footage 4
 | Post Date  | Minecraft Version                     | Length   | FPS     | Resolution | Youtube Link      |
 | ---------  | ------------------------------------- | -------- | ------- | ---------  | ----------------- |
-| 2022-07-28 | Minecraft Alpha Version 1.0.16.05_11  | 1:10  | ???   | ???   | [Watch it here]([https://www.youtube.com/watch?v=5ju7V8J4V98](https://www.youtube.com/watch?v=Oq9MeldlNd4)) |
+| 2022-07-28 | Minecraft Alpha Version 1.0.16.05_11  | 1:10  | 59.94   | 1280x720   | [Watch it here](https://www.youtube.com/watch?v=Oq9MeldlNd4) |
+
 
 ## Characters
 

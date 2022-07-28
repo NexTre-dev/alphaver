@@ -22,7 +22,7 @@
   * The only sources of light are Infused Flowers.
 * *00:35*: Ominous track starts playing, signaling an error in the code.
 * *00:51*: Game suddenly crashes.
-* *00:58*: dev1 fills a crash report seen in Internal footage 2.
+* *00:58*: dev1 fills a crash report.
 
 ## Crash Transcript
 

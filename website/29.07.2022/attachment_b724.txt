@@ -1,0 +1,45 @@
+MINECRAFT EXTENSION 16.05 (MODIFICATION) GAME LOG
+This is the file you need to send to the bug tracker.
+Please add it as an attachment, do not copy it into a comment.
+
+Game version:
+  -base: 1.1.0
+  -extension: 16.05_11
+
+OS: Arch Linux 2010.5 (32-bit) [linux 2.6.33.4]
+JVM: 1.7.0_80
+
+Technical specification:
+CPU: Intel Core i3-530 (amd64(x86_64 compat.) in IA-32 mode)
+      - 2C(4T)@2.93GHz
+GPU: ATI Radeon HD 3410 (519MHz clk, 396MHz vram: 256MB VRAM)
+      - compatible API:
+           - OpenGL: 3.3
+           - Direct3D: (N/A [not supported by operating system])
+Memory: 4096 MB
+
+
+###################################
+
+[INFO] Extension 16.05 init
+[INFO] Compilation mode:
+[INFO]   - debug output: VERBOSE
+[INFO]   - hub connections: ENABLED
+[INFO] Operating system unknown, launching in legacy OpenGL mode
+[INFO] Connected to ext1605 servers (Production)
+[INFO] #######################
+[INFO] CONNECTED TO PRODUCTION SERVER
+[INFO]
+[INFO] Logged in as JS_Sam1999
+[INFO] #######################
+[INFO] Authentication successful (id 20bc-308d)
+[INFO] Attmepting to load world ~/sslayer/.minecraft/saves/World2...
+[INFO] Spawned hub door
+[INFO] Spawned hub door
+[INFO] Spawned hub door
+[INFO] Spawned hub door
+[INFO] Spawned hub door
+[INFO] Spawned hub door
+[INFO] Spawned hub door
+[INFO] Stopping....
+[INFO] Clean exit

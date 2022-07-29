@@ -1,0 +1,118 @@
+body {
+	
+  font-family: Minecraft, Cambria, sans-serif;
+  background-image: url("dirt2.png");
+  background-repeat: repeat;
+  /*background-image: url("img0.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;*/
+  image-rendering: crisp-edges;
+  background-color: rgba(0, 0, 0, .2);
+  
+  color: white;
+}
+
+a {
+	color: orange;
+}
+
+.headtag{
+  text-shadow: 4px 4px #000000A0;
+  background-image: url("dirt.png");
+  background-repeat: repeat;
+  image-rendering: crisp-edges;
+  
+  padding-left: 7px;
+  padding-bottom: 5px;
+  
+  width: 100%;
+}
+
+.ret {
+	color: white;
+	text-decoration: none;
+}
+
+.linkbar {
+	background-image: url("stone.png");
+	padding-left: 4px;
+	padding-right: 4px;
+	display: inline-block;
+}
+
+.mwidthsection{
+	background-color:rgba(0, 0, 0, .2);
+	width: 100%;
+
+	padding-bottom: 20px;
+}
+
+.uid {
+	display: inline-block;
+	font-style: italic;
+	font-family: "Arial";
+	border: gray solid 1.5px;
+	background: #00000060;
+	border-radius: 4px;
+	padding-left:1px;
+	padding-right:2px;
+	
+	color: #ffffffA0;
+}
+
+.recruitment {
+	font-style: italic;
+	text-decoration: underline;
+	color : #FFFFFFA0;
+	font-family: "Arial";
+}
+
+.content {
+	margin: auto;
+  	width: 75%;
+}
+
+.login {
+	color: #FFFFFFB0;
+	padding-left: 80px;
+	margin-left: 10%;
+}
+
+.login2 {
+	background-color: #000000B0;
+	display: inline-block;
+	padding: 25px;
+}
+
+.footer {
+	color:#a0a0a040;
+	font-size: 12px;
+	font-family: 'Arial';
+	position: fixed; 
+	bottom: 0;
+}
+
+.image {
+	width: 800px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+	padding-bottom: 2px;
+	margin-bottom: 2px;
+}
+
+li {
+	padding: 2px;
+	font-size: 14px;
+}
+
+#key {
+    font-size: 20pt;
+    font-style: oblique;
+}

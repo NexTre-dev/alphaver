@@ -84,6 +84,34 @@ Currently, the latest video is [Internal Footage 4](videos/internal-footage-4.md
 | [Sunrise]               | **0.5** 🟢               |
 | [Consequences]          | **3** 🟡                 |
 
+### 5. Analyzation 🔎
+* [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
+* [Analyzation of the Preview .jar](/resources/preview-analyzation.md)
+* [Analyzation of the Preview 2 .jar](/resources/preview-2-analyzation.md)
+* [OST.rar](/resources/ost-rar.md)
+* [OST_2.7z](/resources/ost_2-7z.md)
+
+### 6. Mechanics 🔨
+* [The milestone mechanic](mechanics/milestone.md)
+* [The chunk name mechanic](mechanics/chunk-names.md)
+* [The "hunger" mechanic](mechanics/hunger.md)
+* [A guide about giants](/mobs/LilypadGiant.md)
+
+### 7. Other Content 📚
+* [Jar Files](/jar/)
+* [All Items in playable versions](items/README.md)
+* [Item & Block IDs](/resources/ids.md)
+* [GitHub Messages](/resources/github-messages.md)
+* [Rosepad - a modding environment for Lilypad](https://github.com/5GameMaker/Rosepad)
+* [Exalpha's Website/Archive](/website/README.md)
+
+### 8. Guides 📙
+* Decompiling and deobfuscating: [Lilypad](/resources/decompilation-lilypad.md), [Preview versions](/resources/decompilation.md)
+* [not Zsoz#0001's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
+* [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
+* [How to turn into a shadow player](resources/shadow-player.md)
+* [How to decompile and deobfuscate UNR.PREVIEW2](resources/deobfuscation.md)
+
 ## To-do List
 Want to contribute? Feel free to pick a task from the list below, and contribute to the project! *(make sure to mark the task you're working on with a "\*")*
 - [X] ~~Video Analyzation~~

@@ -25,7 +25,7 @@ If you feel like picking up the playable versions, but don't know how to, you ca
 
 ### 2. Videos 📺
 Currently, the latest video is [Internal Footage 4](videos/internal-footage-4.md).
-| **Title**              | **Upload Date** | **Canonical Date**  | **Importance Index**[^1] |
+| **Title**              | **Upload Date** | **Canonical Date**  | **Importance Index**[^importance-index] |
 | ---------------------- | --------------- | ------------------- | ------------------------ |
 | [Entry Point]          | 2021-08-01      | 2010-??-??          | **5** 🔴                 |
 | [Version 01]           | 2021-08-01      | 2010-??-??          | **2** 🟡                 |

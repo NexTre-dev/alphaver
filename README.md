@@ -12,7 +12,7 @@ If you feel like picking up the playable versions, but don't know how to, you ca
 * [not Zsoz's guide about installing AlphaVers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
 * [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
 
-## Outline
+## 📝 Outline
 ### 1. Basic Lore 📜
 > NOTE: These pages aren't a great starting point. They are more like a reference. Head over to [Entry Point](/videos/entry-point.md) for a starting point.
 * [Developers](/lore/developers.md)
@@ -111,6 +111,32 @@ Currently, the latest video is [Internal Footage 4](videos/internal-footage-4.md
 * [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
 * [How to turn into a shadow player](resources/shadow-player.md)
 * [How to decompile and deobfuscate UNR.PREVIEW2](resources/deobfuscation.md)
+
+## 📦 Community-driven Resources
+Below, you can find some resources created by the AlphaVer community.
+### 🎮 Minecraft Servers
+As always, a **VPN** is recommended when joining these Minecraft servers.
+#### Preview 2
+* not Zsoz's Server: `217.144.54.233:1337`
+* ErdBeer's Server: `erdbeerbaerlp.de:24258`
+* princess's Server: `51.81.23.95:25587`
+
+#### Lilypad
+> **Important Note:** Lilypad servers are **not** official server jars.
+> If a server is claiming anything about sightings, it is most likely **false information**.
+* Devad's Server: `Lilypad.mc-join.org`
+* ErdBeer's Server: `erdbeerbaerlp.de:24259`
+* BlackOut's Server: `lilypad.alphaver.xyz`
+
+### 📚 Wikis
+*  [Minecraft Alphaver Wiki (FANDOM)](https://minecraftalpha1016versions.fandom.com/) 
+*  [AlphaVer Wiki (FANDOM)](https://alphaver.fandom.com)
+*  [Minecraft Lilypad Wiki (FANDOM)](https://mc-lilypad.fandom.com)
+*  [AlphaVer Wiki (Miraheze)](https://alphaver.miraheze.org/)
+
+### 📄 Subreddits
+* [r/alphavaer](https://www.reddit.com/r/alphaver/)
+* [r/alphaversionproj](https://reddit.com/r/alphaversionprj)
 
 ## To-do List
 Want to contribute? Feel free to pick a task from the list below, and contribute to the project! *(make sure to mark the task you're working on with a "\*")*

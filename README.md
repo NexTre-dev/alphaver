@@ -1,16 +1,119 @@
-# Minecraft's Alpha 1.0.16 Versions
-Before you start, [make sure to watch RetroGamingNow's video about this first.](https://www.youtube.com/watch?v=_d5hEiYIKKU)
+<div align="center">
+    <img src="./assets/readme.banner.png" width="800" />
+</div>
 
-Are you new to alphavers? [Check out this video guide by not Zsoz](https://www.youtube.com/watch?v=Wj6q8UySvdI) or [this text-based guide](jar/README.md#usage-windows-mac) on how you can install alphavers.
+# Hello there! 👋  
+**AlphaVer** or **Minecraft Alpha 1.0.16 Versions** *(we call it AlphaVer)*, is a fictional web series/[ARG](https://en.wikipedia.org/wiki/Alternate_reality_game) that revolves around a closed-off branch of the actual Alpha 1.0.16 version of Minecraft.
 
-A lot of information is not contained on this repo, if you want to read about things like theories, community posts, or alternative sources of information check out the following links:
-* [RetroGamingNow's Google Slide Project](https://docs.google.com/presentation/d/1Lj9PHEp1x3m41wRKXkYk0_YHPKBfXxMj7pYaMmOmJeQ/edit?usp=sharing)
-* [Fandom Wiki](https://alphaver.fandom.com/wiki/AlphaVer_Wiki)
-* [r/alphaver](https://reddit.com/r/alphaver)
+## Great, so where do I start?
+I recommend you start by checking out [RetroGamingNow's YouTube video](https://www.youtube.com/watch?v=_d5hEiYIKKU), as it explains most of the vital parts entertainingly. If you came from here though, go ahead and read through the repo, it contains a lot of information.
 
-If you want to discuss stuff about alphaver, consider joining [RetroGamingNow's Discord server](https://discord.com/invite/RetroGamingNow).
+If you feel like picking up the playable versions, but don't know how to, you can check out the following video guides:
+* [not Zsoz's guide about installing AlphaVers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
+* [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
+
+## Outline
+### 1. Basic Lore 📜
+> NOTE: These pages aren't a great starting point. They are more like a reference. Head over to [Entry Point](/videos/entry-point.md) for a starting point.
+* [Developers](/lore/developers.md)
+* [Other Characters](/lore/other-characters.md)
+* [Invasion Players](/lore/invasion-players.md)
+* [Codes](/lore/codes.md)
+* [Anomalies](/lore/anomalies.md)
+* [The Hub](/lore/hub.md)
+* [Recruitment program](/lore/recruitment.md)
+
+### 2. Videos 📺
+Currently, the latest video is [Internal Footage 4](videos/internal-footage-4.md).
+| **Title**              | **Upload Date** | **Canonical Date**  | **Importance Index**[^importance-index] |
+| ---------------------- | --------------- | ------------------- | ------------------------ |
+| [Entry Point]          | 2021-08-01      | 2010-??-??          | **5** 🔴                 |
+| [Version 01]           | 2021-08-01      | 2010-??-??          | **2** 🟡                 |
+| [The Search]           | 2021-08-01      | 2010-??-??          | **1** 🟢                 |
+| [Version 03]           | 2021-08-02      | 2010-??-??          | **4** 🔴                 |
+| [Version 05]           | 2021-08-04      | 2010-??-??          | **4** 🔴                 |
+| [Version 06]           | 2021-08-07      | 2010-08-??          | **5** 🔴                 |
+| [Version 07]           | 2021-08-12      | 2010-10-??          | **4** 🔴                 |
+| [Internal Footage 1]   | 2021-08-31      | 2010-??-??          | **3** 🟡                 |
+| [Attempt to run today] | 2021-09-07      | 2021-??-??          | **2** 🟡                 |
+| [Version 10]           | 2021-09-19      | 20(10-14)-??-??     | **3.5** 🟡               |
+| [Internal Footage 2]   | 2021-09-23      | 2010-08-27          | **4** 🔴                 |
+| [Developer Preview]    | 2021-09-29      | 20(10-14)-??-??     | **5** 🔴                 |
+| [Unknown Version]      | 2021-10-07      | (2014<)-??-??       | **3** 🟡                 |
+| [Closed Preview]       | 2021-11-02      | 20(10-14)-??-??     | **5** 🔴                 |
+| [Feature Testing]      | 2021-12-23      | (2014<)-??-??       | **4** 🔴                 |
+| [Internal Footage 3]   | 2022-01-12      | (2014<)-??-??       | **4** 🔴                 |
+| [Version 13]           | 2022-01-23      | (2014<)-??-??       | **2** 🟡                 |
+| [Presentation]         | 2022-01-31      | (2014<)-??-??       | **0.5** 🟢               |
+| [???? (Unlisted)]      | 2022-04-15      | (2014<)-??-??       | **1.5** 🟢               |
+| [Discovered]           | 2022-04-16      | ????-??-??/upload   | **4.5** 🔴               |
+| [Sunrise]              | 2022-05-28      | (2014<)-??-??       | **2** 🟡                 |
+| [Consequences]         | 2022-06-29      | ????-??-??/upload   | **2.5** 🟡               |
+| [Internal Footage 4]   | 2022-07-28      | 20(10-14)-??-??     | **3.5** 🔴               |
+
+### 3. Sightings 👀
+| **Index**      | **Date**   | **Verified?** |
+| -------------- | ---------- | ------------- |
+| [Sighting #1]  | 2021-11-02 | No            |
+| [Sighting #2]  | 2021-11-04 | No            |
+| [Sighting #3]  | 2021-11-05 | No            |
+| [Sighting #4]  | 2021-11-10 | No            |
+| [Sighting #5]  | 2021-11-13 | No            |
+| [Sighting #6]  | 2021-11-14 | Yes           |
+| [Sighting #7]  | 2021-11-16 | No            |
+| [Sighting #8]  | 2021-11-22 | No            |
+| [Sighting #9]  | 2021-11-26 | No            |
+| [Sighting #10] | 2022-01-12 | No            |
+| [Sighting #11] | 2022-01-14 | No            |
+| [Sighting #12] | 2022-04-21 | No            |
+
+### 4. Chat Messages 💬
+| **Video**               | **Importance Index**[^importance-index] |
+| ----------------------- | ------------------------ |
+| [Entry Point]           | **0** 🟢                 |
+| [Version 01]            | **0** 🟢                 |
+| [The Search]            | **0** 🟢                 |
+| [Version 03]            | **0** 🟢                 |
+| [Version 06]            | **0** 🟢                 |
+| [Version 07]            | **0.1** 🟢               |
+| [Attempt to run today]  | **3** 🟡                 |
+| [Version 10]            | **0.5** 🟢               |
+| [Internal Footage 3]    | **0** 🟢                 |
+| [Presentation]          | **0** 🟢                 |
+| [Discovered]            | **0** 🟢                 |
+| [Sunrise]               | **0.5** 🟢               |
+| [Consequences]          | **3** 🟡                 |
+
+### 5. Analyzation 🔎
+* [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
+* [Analyzation of the Preview .jar](/resources/preview-analyzation.md)
+* [Analyzation of the Preview 2 .jar](/resources/preview-2-analyzation.md)
+* [OST.rar](/resources/ost-rar.md)
+* [OST_2.7z](/resources/ost_2-7z.md)
+
+### 6. Mechanics 🔨
+* [The milestone mechanic](mechanics/milestone.md)
+* [The chunk name mechanic](mechanics/chunk-names.md)
+* [The "hunger" mechanic](mechanics/hunger.md)
+* [A guide about giants](/mobs/LilypadGiant.md)
+
+### 7. Other Content 📚
+* [Jar Files](/jar/)
+* [All Items in playable versions](items/README.md)
+* [Item & Block IDs](/resources/ids.md)
+* [GitHub Messages](/resources/github-messages.md)
+* [Rosepad - a modding environment for Lilypad](https://github.com/5GameMaker/Rosepad)
+* [Exalpha's Website/Archive](/website/README.md)
+
+### 8. Guides 📙
+* Decompiling and deobfuscating: [Lilypad](/resources/decompilation-lilypad.md), [Preview versions](/resources/decompilation.md)
+* [not Zsoz#0001's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
+* [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
+* [How to turn into a shadow player](resources/shadow-player.md)
+* [How to decompile and deobfuscate UNR.PREVIEW2](resources/deobfuscation.md)
 
 ## To-do List
+Want to contribute? Feel free to pick a task from the list below, and contribute to the project! *(make sure to mark the task you're working on with a "\*")*
 - [X] ~~Video Analyzation~~
 - [X] ~~Sighting/Incident Reports~~
 - [X] ~~File, audio and image analyzations~~
@@ -25,135 +128,51 @@ If you want to discuss stuff about alphaver, consider joining [RetroGamingNow's 
 - [ ] Seperate Preview and Lilypad item & block IDs
 - [ ] Reanalyze videos
 
-*\* = working on it*
+[^importance-index]: 
+    ## Importance Index
+    On this repo, we mark videos, articles, and other content with a scale from 0-5. This marks the importance of the content. Below you can find a chart about this:
+    * 0-1: Not important at all/filler,
+    * 2-3: Not that important, but worth checking out,
+    * 4-5: Crucially important to the lore.
 
-## List of Questions
-- [ ] What does R.O.S.T.R.U.M stand for?
-- [X] Where is the code 5? | **Lost.**
-- [ ] Are any messages sent during the sightings important?
-- [ ] What do the paintings mean?
-- [ ] What is the meaning of **events** found in the [explore field of the new website](./website/29.06.2022/README.md#explore)?
-- [X] ~~What anomalies are in [Consequences](./videos/consequences.md)?~~ There are many anomalies, check the page for more info.
-- [X] ~~Do any of the new audio files contain clues?~~ | **They do not.**
+<!-- Links for easier writing -->
 
-## Outline
-### 1. Basic Lore
-* [Developers](/lore/developers.md)
-* [Other Characters](/lore/other-characters.md)
-* [Invasion Players](/lore/invasion-players.md)
-* [Codes](/lore/codes.md)
-* [Anomalies](/lore/anomalies.md)
-* [The Hub](/lore/hub.md)
-* [Recruitment program](/lore/recruitment.md)
+<!-- Videos -->
+[Entry Point]: /videos/entry-point.md
+[Version 01]: /videos/version-01.md
+[The Search]: /videos/the-search.md
+[Version 03]: /videos/version-03.md
+[Version 05]: /videos/version-05.md
+[Version 06]: /videos/version-06.md
+[Version 07]: /videos/version-07.md
+[Internal Footage 1]: /videos/internal-footage-1.md
+[Attempt to run today]: /videos/attempt-to-run-today.md
+[Version 10]: /videos/version-10.md
+[Internal Footage 2]: /videos/internal-footage-2.md
+[Developer Preview]: /videos/developer-preview.md
+[Unknown Version]: /videos/unknown-version.md
+[Closed Preview]: /videos/closed-preview.md
+[Feature Testing]: /videos/feature-testing.md
+[Internal Footage 3]: /videos/internal-footage-3.md
+[Version 13]: /videos/version-13.md
+[Presentation]: /videos/presentation.md
+[???? (Unlisted)]: /videos/question-mark.md
+[Discovered]: /videos/discovered.md
+[Sunrise]: /videos/sunrise.md
+[Consequences]: /videos/consequences.md
+[Internal Footage 4]: /videos/internal-footage-4.md
 
-### 2. Videos
-* [Entry point](/videos/entry-point.md)
-* [Version 01](/videos/version-01.md)
-* [The search](/videos/the-search.md)
-* [Version 03](/videos/version-03.md)
-* [Version 05](/videos/version-05.md)
-* [Version 06](/videos/version-06.md)
-* [Version 07](/videos/version-07.md)
-* [Internal footage 1](/videos/internal-footage-1.md)
-* [Attempt to run today](/videos/attempt-to-run-today.md)
-* [Version 10](/videos/version-10.md)
-* [Internal footage 2](/videos/internal-footage-2.md)
-* [Developer preview](/videos/developer-preview.md)
-* [Unknown Version](/videos/unknown-version.md)
-* [Closed Preview](/videos/closed-preview.md)
-* [Feature Testing](/videos/feature-testing.md)
-* [Internal footage 3](/videos/internal-footage-3.md)
-* [Version 13](/videos/version-13.md)
-* [Presentation](/videos/presentation.md)
-* [Discovered](/videos/discovered.md)
-* [????](/videos/question-mark.md)
-* [Sunrise](/videos/sunrise.md)
-* [Consequences](/videos/consequences.md) 
-* [Internal footage 4](/videos/internal-footage-4.md) *(Latest Video)*
+<!-- Sightings -->
+[Sighting #1]: /sightings/sighting-1.md
+[Sighting #2]: /sightings/sighting-2.md
+[Sighting #3]: /sightings/sighting-3.md
+[Sighting #4]: /sightings/sighting-4.md
+[Sighting #5]: /sightings/sighting-5.md
+[Sighting #6]: /sightings/sighting-6.md
+[Sighting #7]: /sightings/sighting-7.md
+[Sighting #8]: /sightings/sighting-8.md
+[Sighting #9]: /sightings/sighting-9.md
+[Sighting #10]: /sightings/sighting-10.md
+[Sighting #11]: /sightings/sighting-11.md
+[Sighting #12]: /sightings/sighting-12.md
 
-### 3. Sightings
-> **WARNING:** Due to becoming a `Shadow Player` is pretty known by now, further sightings and some need to be disregarded. Sightings that get marked with `⚠️` can't be proved legitimate.
-* [Sighting #1](sightings/sighting-1.md) `⚠️`
-* [Sighting #2](sightings/sighting-2.md) `⚠️`
-* [Sighting #3](sightings/sighting-3.md) `⚠️`
-* [Sighting #4](sightings/sighting-4.md) `⚠️`
-* [Sighting #5](sightings/sighting-5.md) `⚠️`
-* [Sighting #6](sightings/sighting-6.md)
-* [Sighting #7](sightings/sighting-7.md) `⚠️`
-* [Sighting #8](sightings/sighting-8.md) `⚠️`
-* [Sighting #9](sightings/sighting-9.md) `⚠️`
-* [Sighting #10](sightings/sighting-10.md) `⚠️`
-* [Sighting #11](sightings/sighting-11.md) `⚠️`
-* [Sighting #12](sightings/sighting-12.md) `⚠️`
-  
-### 4. Chat Messages
-* [Entry Point](/chat_messages/entry-point.md)
-* [Version 01](chat_messages/version-01.md)
-* [The search](chat_messages/the-search.md)
-* [Version 03](chat_messages/version-03.md)
-* [Version 06](chat_messages/version-06.md)
-* [Version 07](chat_messages/version-07.md)
-* [Attempt to run today](chat_messages/attempt-to-run-today.md)
-* [Version 10](chat_messages/version-10.md)
-* [Internal footage 3](chat_messages/internal-footage-3.md)
-* [Presentation](chat_messages/presentation.md)
-* [Discovered](chat_messages/discovered.md)
-* [Sunrise](chat_messages/sunrise.md)
-* [Consequences](chat_messages/consequences.md) *(Latest Video)*
-
-### 5. Game Content
-#### Lilypad
-* [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
-* [A guide about giants](/mobs/LilypadGiant.md)
-
-#### Preview Versions
-* [Analyzation of the Preview .jar](/resources/preview-analyzation.md)
-* [Analyzation of the Preview 2 .jar](/resources/preview-2-analyzation.md)
-
-### 6. Mechanics
-* [The milestone mechanic](mechanics/milestone.md)
-* [The chunk name mechanic](mechanics/chunk-names.md)
-* [The "hunger" mechanic](mechanics/hunger.md)
-
-### 7. Other Content
-* [OST.rar](/resources/ost-rar.md)
-* [OST_2.7z](/resources/ost_2-7z.md)
-* [Jar Files](/jar/)
-* [All Items in playable versions](items/README.md)
-* [Item & Block IDs](/resources/ids.md)
-* [GitHub Messages](/resources/github-messages.md)
-* [Rosepad - a modding environment for Lilypad](https://github.com/5GameMaker/Rosepad)
-* [Exalpha's Website/Archive](/website/README.md)
-
-## Guides & Resources
-* Decompiling and deobfuscating: [Lilypad](/resources/decompilation-lilypad.md), [Preview versions](/resources/decompilation.md)
-* [not Zsoz#0001's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=Wj6q8UySvdI)
-* [Aeases's Video Guide About Installing Alphavers](https://www.youtube.com/watch?v=q2Uj4MvHN8Q)
-* [How to turn into a shadow player](resources/shadow-player.md)
-* [How to decompile and deobfuscate UNR.PREVIEW2](resources/deobfuscation.md)
-
-## Community-driven Resources
-* Minecraft Servers
-  > Obviously, a **VPN** is recommended when joining these servers.
-  * Preview 2:
-    * not Zsoz's Server: `217.144.54.233:1337`
-    * ErdBeer's Server: `erdbeerbaerlp.de:24258`
-    * princess's Server: `51.81.23.95:25587`
-  * Lilypad:
-    > **Important Note:** Lilypad servers are **not** official server jars.
-    > If a server is claiming anything about sightings, it is most likely **false information**.
-    * Devad's Server: `Lilypad.mc-join.org`
-    * ErdBeer's Server: `erdbeerbaerlp.de:24259`
-    * BlackOut's Server: `lilypad.alphaver.xyz`
-* Wikis (in order of creation):
-  *  [Minecraft Alphaver Wiki (FANDOM)](https://minecraftalpha1016versions.fandom.com/) 
-  *  [AlphaVer Wiki (FANDOM)](https://alphaver.fandom.com)
-  *  [Minecraft Lilypad Wiki (FANDOM)](https://mc-lilypad.fandom.com)
-  *  [AlphaVer Wiki (Miraheze)](https://alphaver.miraheze.org/)
-* Subreddits
-  * [r/alphavaer](https://www.reddit.com/r/alphaver/)
-  * [r/alphaversionproj](https://reddit.com/r/alphaversionprj)
-
-## Contribution
-Feel free to create any pull requests or open issues if you want to contribute to the documentation. 
-Anything is appreciated.

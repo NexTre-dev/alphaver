@@ -1,11 +1,8 @@
 <div align="center">
-    <img src="./assets/readme.banner.png" width="500" />
-</div>
-<div align="center">
-    <h1>Minecraft's Alpha 1.0.16 Versions</h1>
+    <img src="./assets/readme.banner.png" width="800" />
 </div>
 
-## Hello there! 👋  
+# Hello there! 👋  
 **AlphaVer** or **Minecraft Alpha 1.0.16 Versions** *(we call it AlphaVer)*, is a fictional web series/[ARG](https://en.wikipedia.org/wiki/Alternate_reality_game) that revolves around a closed-off branch of the actual Alpha 1.0.16 version of Minecraft.
 
 ## Great, so where do I start?

@@ -68,7 +68,7 @@ Currently, the latest video is [Internal Footage 4](videos/internal-footage-4.md
 | [Sighting #12] | 2022-04-21 | No            |
 
 ### 4. Chat Messages 💬
-| **Video**               | **Importance Index**[^1] |
+| **Video**               | **Importance Index**[^importance-index] |
 | ----------------------- | ------------------------ |
 | [Entry Point]           | **0** 🟢                 |
 | [Version 01]            | **0** 🟢                 |
@@ -100,7 +100,7 @@ Want to contribute? Feel free to pick a task from the list below, and contribute
 - [ ] Seperate Preview and Lilypad item & block IDs
 - [ ] Reanalyze videos
 
-[^1]: ## Importance Index
+[^importance-index]: ## Importance Index
 On this repo, we mark videos, articles, and other content with a scale from 0-5. This marks the importance of the content. Below you can find a chart about this:
 * 0-1: Not important at all/filler,
 * 2-3: Not that important, but worth checking out,

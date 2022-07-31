@@ -23,7 +23,7 @@ They are referred to as dev# or just simply #.
 - Seen in [Sunrise](../videos/sunrise.md)
 - Proposed the Crab Nebula event with dev5 ([Sunrise](../videos/sunrise.md))
 - Was the oldest person on the dev team ([Sunrise](../videos/sunrise.md))
-- Is either dead, missing, or left the team ([Sunrise](../videos/sunrise.md))
+- Is dead, confirmed in [Internal Footage 4](../videos/internal-footage-4.md) ~~missing, or left the team~~ ([Sunrise](../videos/sunrise.md))
 
 ### dev3
 - Was on the art team ([Presentation](../videos/presentation.md))

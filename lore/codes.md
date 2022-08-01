@@ -9,7 +9,7 @@ There are 8 hexademical codes that can be found in AlphaVer videos and distribut
 3. 165817b59befd
 4. ef2978f01bf07
    - Codes 0-4 are found by getting to the milestone 10 in the [Lilypad Release](), every code is restricted to a different account.
-5. *unknown*
+5. *unknown*, presumably gone
 6. ee16f45ea4d60
    - Seen in video [????](../videos/question-mark.md).
 7. 4d0feb521f160

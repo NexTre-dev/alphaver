@@ -4,7 +4,7 @@
 There seem to be seven developers.
 They are referred to as dev# or just simply #.
 
-| <img src="../assets/developers/dev0.png" width="80"> | *No Image* | <img src="https://lh5.googleusercontent.com/udCXix4t_ifvYQR5slX6Za_PjSgWVNWrLXNB_Pp_Et-ISjvzkR3psHJOVHh2Qxdt4Mz71pys5vktcII7k_kJajdgSorpFjSQ_9vYh246XyR0AmZi7OML2Yndieqfpcq8-G1tB-a9BOrvLPRrlSyt1w" width="80"> | *No Image* | <img src="https://lh6.googleusercontent.com/q6mNvvA00atbtljOZRXqrEb7HDJjuFQQ4k8yUnu0eaE90Q0TIScGUeo9NDEyCJ-CDXdToJYC0_zl1gkseDxte3iN8mik4ZqA3ENSm7KEC0JNy1uPVtJ2tgJGQzG7Wpt8pcdrX_0AU8AmI6z02g" width="80"> | *No Image* | <img src="https://lh3.googleusercontent.com/vEgf2jvfm940s9TkADBAcJrtvqDvzkR_bQN_p5VvHUGUbZN6FKPbJ1NXLxs7fXnhn-p8H894-tAVMjFhfiAWfJQ0_qhTHqHi76P2Bu6vf8jwOV4lIYMvSw11mFADW7yuRCEO7prFEKHGYfUnd86sRw" width="80"> | 
+| <img src="../assets/developers/dev0.png" width="80"> | *No Image* | <img src="../assets/developers/dev2.png" width="80"> | *No Image* | <img src="../assets/developers/dev4.png" width="80"> | *No Image* | <img src="../assets/developers/dev6.png" width="80"> | 
 | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | 
 | dev0                    | dev1                    | dev2                    | dev3                    | dev4                    | dev5                    | dev6                    | 
 
@@ -30,7 +30,7 @@ They are referred to as dev# or just simply #.
 - Dev6 considered them to be a friend (Presentation)
 - Created the OST album artwork ([OST.rar](../resources/ost-rar.md))
 - Is a she, confirmed by a community post:  
-  <img src="https://user-images.githubusercontent.com/66027449/178020717-877cba49-df9a-4426-a78c-c491eaa92001.png" width="600">
+  <img src="../assets/images/community_post01.png" width="600">
 
 ### dev4
 - Recorded [Feature testing](../videos/feature-testing.md) and is mentioned in the description

@@ -24,7 +24,7 @@ If you feel like picking up the playable versions, but don't know how to, you ca
 * [Recruitment program](/lore/recruitment.md)
 
 ### 2. Videos 📺
-Currently, the latest video is [Internal Footage 4](videos/internal-footage-4.md).
+Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | **Title**              | **Upload Date** | **Canonical Date**  | **Importance Index**[^importance-index] |
 | ---------------------- | --------------- | ------------------- | ------------------------ |
 | [Entry Point]          | 2021-08-01      | 2010-??-??          | **5** 🔴                 |
@@ -50,6 +50,7 @@ Currently, the latest video is [Internal Footage 4](videos/internal-footage-4.md
 | [Sunrise]              | 2022-05-28      | (2014<)-??-??       | **2** 🟡                 |
 | [Consequences]         | 2022-06-29      | ????-??-??/upload   | **2.5** 🟡               |
 | [Internal Footage 4]   | 2022-07-28      | 20(10-14)-??-??     | **3.5** 🔴               |
+| [Reinsertion point]    | 2022-08-01      | 2010-??-??          | **5** 🔴                 |
 
 ### 3. Sightings 👀
 | **Index**      | **Date**   | **Verified?** |
@@ -187,6 +188,7 @@ Want to contribute? Feel free to pick a task from the list below, and contribute
 [Sunrise]: /videos/sunrise.md
 [Consequences]: /videos/consequences.md
 [Internal Footage 4]: /videos/internal-footage-4.md
+[Reinsertion point]: /videos/reinsertion-point.md
 
 <!-- Sightings -->
 [Sighting #1]: /sightings/sighting-1.md

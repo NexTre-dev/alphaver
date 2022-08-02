@@ -48,7 +48,7 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | [???? (Unlisted)]      | 2022-04-15      | (2014<)-??-??       | **1.5** 🟢               |
 | [Discovered]           | 2022-04-16      | ????-??-??/upload   | **4.5** 🔴               |
 | [Sunrise]              | 2022-05-28      | (2014<)-??-??       | **2** 🟡                 |
-| [Consequences]         | 2022-06-29      | ????-??-??/upload   | **2.5** 🟡               |
+| [Consequences]         | 2022-06-29      | 2010-08-23  | **2.5** 🟡               |
 | [Internal Footage 4]   | 2022-07-28      | 20(10-14)-??-??     | **3.5** 🔴               |
 | [Reinsertion point]    | 2022-08-01      | 2010-??-??          | **5** 🔴                 |
 

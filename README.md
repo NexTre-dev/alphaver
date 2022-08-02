@@ -71,19 +71,20 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 ### 4. Chat Messages 💬
 | **Video**               | **Importance Index**[^importance-index] |
 | ----------------------- | ------------------------ |
-| [Entry Point]           | **0** 🟢                 |
-| [Version 01]            | **0** 🟢                 |
-| [The Search]            | **0** 🟢                 |
-| [Version 03]            | **0** 🟢                 |
-| [Version 06]            | **0** 🟢                 |
-| [Version 07]            | **0.1** 🟢               |
-| [Attempt to run today]  | **3** 🟡                 |
-| [Version 10]            | **0.5** 🟢               |
-| [Internal Footage 3]    | **0** 🟢                 |
-| [Presentation]          | **0** 🟢                 |
-| [Discovered]            | **0** 🟢                 |
-| [Sunrise]               | **0.5** 🟢               |
-| [Consequences]          | **3** 🟡                 |
+| [Entry Point])(chat_messages/entry-point.md)           | **0** 🟢                 |
+| [Version 01](chat_messages/version-01.md)            | **0** 🟢                 |
+| [The Search](chat_messages/the-search.md)            | **0** 🟢                 |
+| [Version 03](chat_messages/version-03.md)            | **0** 🟢                 |
+| [Version 06](chat_messages/version-06.md)            | **0** 🟢                 |
+| [Version 07](chat_messages/version-07.md)            | **0.1** 🟢               |
+| [Attempt to run today](chat_messages/attempt-to-run-today.md)  | **3** 🟡                 |
+| [Version 10](chat_messages/version-10.md)           | **0.5** 🟢               |
+| [Internal Footage 3](chat_messages/internal-footage-3.md)    | **0** 🟢                 |
+| [Presentation](chat_messages/presentation.md)          | **0** 🟢                 |
+| [Discovered](chat_messages/discovered.md)            | **0** 🟢                 |
+| [Sunrise](chat_messages/sunrise.md)               | **0.5** 🟢               |
+| [Consequences](chat_messages/consequences.md)          | **3** 🟡                 |
+| [Reinsertion point](chat_messages/reinsertion_point.md)|**1** 🟢|
 
 ### 5. Analyzation 🔎
 * [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)

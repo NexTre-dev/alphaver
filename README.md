@@ -60,7 +60,7 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | [Sighting #3]  | 2021-11-05 | No            |
 | [Sighting #4]  | 2021-11-10 | No            |
 | [Sighting #5]  | 2021-11-13 | No            |
-| [Sighting #6]  | 2021-11-14 | Yes           |
+| [Sighting #6]  | 2021-11-14 | Yes (Confirmed in Discovered)           |
 | [Sighting #7]  | 2021-11-16 | No            |
 | [Sighting #8]  | 2021-11-22 | No            |
 | [Sighting #9]  | 2021-11-26 | No            |

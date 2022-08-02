@@ -71,7 +71,7 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 ### 4. Chat Messages 💬
 | **Video**               | **Importance Index**[^importance-index] |
 | ----------------------- | ------------------------ |
-| [Entry Point])(chat_messages/entry-point.md)           | **0** 🟢                 |
+| [Entry Point](chat_messages/entry-point.md)           | **0** 🟢                 |
 | [Version 01](chat_messages/version-01.md)            | **0** 🟢                 |
 | [The Search](chat_messages/the-search.md)            | **0** 🟢                 |
 | [Version 03](chat_messages/version-03.md)            | **0** 🟢                 |

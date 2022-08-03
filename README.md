@@ -32,7 +32,7 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | [The Search]           | 2021-08-01      | 2010-??-??          | **1** 🟢                 |
 | [Version 03]           | 2021-08-02      | 2010-??-??          | **4** 🔴                 |
 | [Version 05]           | 2021-08-04      | 2010-??-??          | **4** 🔴                 |
-| [Version 06]           | 2021-08-07      | 2010-08-??          | **5** 🔴                 |
+| [Version 06]           | 2021-08-07      | 2010-08-22/23          | **5** 🔴                 |
 | [Version 07]           | 2021-08-12      | 2010-10-??          | **4** 🔴                 |
 | [Internal Footage 1]   | 2021-08-31      | 2010-??-??          | **3** 🟡                 |
 | [Attempt to run today] | 2021-09-07      | 2021-??-??          | **2** 🟡                 |
@@ -60,7 +60,7 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | [Sighting #3]  | 2021-11-05 | No            |
 | [Sighting #4]  | 2021-11-10 | No            |
 | [Sighting #5]  | 2021-11-13 | No            |
-| [Sighting #6]  | 2021-11-14 | Yes           |
+| [Sighting #6]  | 2021-11-14 | Yes (Confirmed in Discovered)           |
 | [Sighting #7]  | 2021-11-16 | No            |
 | [Sighting #8]  | 2021-11-22 | No            |
 | [Sighting #9]  | 2021-11-26 | No            |

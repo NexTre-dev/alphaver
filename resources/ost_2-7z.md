@@ -11,8 +11,10 @@
 * The image attached in the community post contained a new string of number that can be seen by autobalancing the colour
 
 <div align="center">
-    <img src="./assets/images/community_post 02.png" width="800" />
-    <img src="./assets/images/FixedColour.png" width="800">
+    <img src="../assets/images/community_post02.png" width="800" />
+    <p>Community post on the youtube channel which included the link for the OST2.7z</p>
+    <img src="../assets/images/FixedColour.png" width="800">
+    <p>The code hidden in the community post image</p>
 </div>
 
 * The code showed in the image is `9137 2785`, for what it might be at the moment is still unknown

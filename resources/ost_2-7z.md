@@ -8,6 +8,14 @@
 ## Notes
 * Tracks are now properly capitalized,
 * The archive is password protected, the password is `152463`.
+* The image attached in the community post contained a new string of number that can be seen by autobalancing the colour
+
+<div align="center">
+    <img src="./assets/images/community_post 02.png" width="800" />
+    <img src="./assets/images/FixedColour.png" width="800">
+</div>
+
+* The code showed in the image is `9137 2785`, for what it might be at the moment is still unknown
 
 ## Files
 * [1-Suomalainen Kehtolaulu.ogg](ost_2/suomalainen-kehtolaulu.md)

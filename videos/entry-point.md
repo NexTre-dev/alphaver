@@ -35,3 +35,10 @@ Not much more background info is known.
 * 0:27:23: Cow and pig fade out of existence.
 * 0:41:43: A player appears.
 * 1:05:22: The player is gone.
+
+## Gallery
+
+<div align="center">
+  <img src="../assets/screenshots/Vid-01/shadow_player.png" width="800" />
+  <p>The shadow player xorcist saw</p>
+</div>

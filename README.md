@@ -32,7 +32,7 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | [The Search]           | 2021-08-01      | 2010-??-??          | **1** 🟢                 |
 | [Version 03]           | 2021-08-02      | 2010-??-??          | **4** 🔴                 |
 | [Version 05]           | 2021-08-04      | 2010-??-??          | **4** 🔴                 |
-| [Version 06]           | 2021-08-07      | 2010-08-22/23          | **5** 🔴                 |
+| [Version 06]           | 2021-08-07      | 2010-08-22/23       | **5** 🔴                 |
 | [Version 07]           | 2021-08-12      | 2010-10-??          | **4** 🔴                 |
 | [Internal Footage 1]   | 2021-08-31      | 2010-??-??          | **3** 🟡                 |
 | [Attempt to run today] | 2021-09-07      | 2021-??-??          | **2** 🟡                 |
@@ -48,9 +48,10 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | [???? (Unlisted)]      | 2022-04-15      | (2014<)-??-??       | **1.5** 🟢               |
 | [Discovered]           | 2022-04-16      | ????-??-??/upload   | **4.5** 🔴               |
 | [Sunrise]              | 2022-05-28      | (2014<)-??-??       | **2** 🟡                 |
-| [Consequences]         | 2022-06-29      | 2010-08-23  | **2.5** 🟡               |
+| [Consequences]         | 2022-06-29      | 2010-08-23          | **2.5** 🟡               |
 | [Internal Footage 4]   | 2022-07-28      | 20(10-14)-??-??     | **3.5** 🔴               |
 | [Reinsertion point]    | 2022-08-01      | 2010-??-??          | **5** 🔴                 |
+| [attachment_b849.avi]  | 2022-09-11      | ????                | **?**
 
 ### 3. Sightings 👀
 | **Index**      | **Date**   | **Verified?** |
@@ -190,6 +191,7 @@ Want to contribute? Feel free to pick a task from the list below, and contribute
 [Consequences]: /videos/consequences.md
 [Internal Footage 4]: /videos/internal-footage-4.md
 [Reinsertion point]: /videos/reinsertion-point.md
+[attachment_b849.avi]: /videos/attachment_b849.avi.md
 
 <!-- Sightings -->
 [Sighting #1]: /sightings/sighting-1.md

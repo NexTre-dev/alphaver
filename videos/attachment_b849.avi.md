@@ -16,6 +16,14 @@
 "I'm getting this old build system running again. As expected, it doesn't want to cooperate with JDK 17, but I'm fairly confident I'll get this running so that the whole world will be able to see what [0] wanted to hide."
 "To make this the most complete release, expect to see a feature that wasn't there in the original 2011 July 27 backup. You'll know what it is when you see it."
 
+## Characters
+In attachment_b849.avi, it seems to be a steve-skinned character. 
+As seen at:
+* 01:05.23
+* 01:25.02
+* 01:46.24
+* 01:54.12
+
 ## Events
 () = needs description / ? = needs verification
 * 00:00.00 - Black Screen + Weird audio?

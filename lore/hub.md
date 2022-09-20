@@ -13,7 +13,7 @@ It also seems like the Hub had some "exterior" space. Those pieces of land were 
 
 ## Alternative Hubs
 Alternative hubs are completely different from the hub's appearance mentioned above. While it remains the same 3x3 corridors with random dead ends, it also has big rooms, weird looking trees and parallax effects.  
-These rooms are said to be used in \*special\* occasions, such as player unsuspension or recruitment.
+These rooms are said to be used in \*special\* occasions, su  ch as player unsuspension or recruitment.
 
 ## Role
 The Hub allowed players to travel between each others' worlds without connecting to them directly. It worked like modern BungeeCord, but instead of additional worlds on the server, there were actual players' worlds. One could connect to a world of any other player, if both players were connected to the Internet.

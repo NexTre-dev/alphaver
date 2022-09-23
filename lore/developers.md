@@ -4,9 +4,9 @@
 There seem to be seven developers.
 They are referred to as dev# or just simply #.
 
-| <img src="../assets/developers/dev0.png" width="80"> | *No Image* | <img src="../assets/developers/dev2.png" width="80"> | *No Image* | <img src="../assets/developers/dev4.png" width="80"> | *No Image* | <img src="../assets/developers/dev6.png" width="80"> | 
-| ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | 
-| dev0                    | dev1                    | dev2                    | dev3                    | dev4                    | dev5                    | dev6                    | 
+| <img src="../assets/developers/dev0.png" width="80"> | *No Image* | <img src="../assets/developers/dev2.png" width="80"> | *No Image* | <img src="../assets/developers/dev4.png" width="80"> | *No Image* | <img src="../assets/developers/dev6.png" width="80"> | *No Image* |
+| ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |  ----------------------- |
+| dev0                    | dev1                    | dev2                    | dev3                    | dev4                    | dev5                    | dev6                    | dev7                     |
 
 ### dev0
 - Wanted to pitch Lilypad changes to Mojang ([Developer preview](../videos/developer-preview.md))
@@ -50,3 +50,7 @@ They are referred to as dev# or just simply #.
 - Considered devs 4 and 3 to be his friends (internal footage 3, Presentation)
 - *Did not want dev0 to know of his whereabouts* (Presentation)
 - *Knowingly broke/bent the explicit rules of the Mojang offshoot at least three times* ([Internal footage 1](../videos/internal-footage-1.md), [Internal footage 2](../videos/internal-footage-2.md), [Internal footage 3](../videos/internal-footage-3.md))
+
+### dev7
+- Is RGN Confirmed 23/9/22
+- Not Much is known yet

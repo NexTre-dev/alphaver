@@ -68,6 +68,7 @@ Currently, the latest video is [Reinsertion point](videos/reinsertion-point.md).
 | [Sighting #10] | 2022-01-12 | No            |
 | [Sighting #11] | 2022-01-14 | No            |
 | [Sighting #12] | 2022-04-21 | No            |
+| [Sighting #13] | 2022-04-21 | Yes           |
 
 ### 4. Chat Messages 💬
 | **Video**               | **Importance Index**[^importance-index] |
@@ -206,4 +207,4 @@ Want to contribute? Feel free to pick a task from the list below, and contribute
 [Sighting #10]: /sightings/sighting-10.md
 [Sighting #11]: /sightings/sighting-11.md
 [Sighting #12]: /sightings/sighting-12.md
-
+[Sighting #13]: /sightings/sighting-13.md

@@ -3,7 +3,7 @@
 # Video #25: attachment_b849.avi
 | Post Date  | Minecraft Version             | Length  | FPS | Resolution | Youtube Link      | 
 | ---------  | ----------------------------- | ------- | --- | ---------- | ----------------- | 
-| 2021-09-07 | Minecraft Alpha v1.0.16_05 R4 | 3:04:08 | 50  | 1280x720  | [Watch it here](https://www.youtube.com/watch?v=4HzJflHAs7Y) | 
+| 2021-09-07 | Minecraft Alpha v1.0.16.05 R4 | 3:04:08 | 50  | 1280x720  | [Watch it here](https://www.youtube.com/watch?v=4HzJflHAs7Y) | 
 
 ## Description
 "To hype all of you up for what we are going to release soon, here's a new video found on the bug tracker backup."

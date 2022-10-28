@@ -14,3 +14,4 @@ There are 8 hexademical codes that can be found in AlphaVer videos and distribut
    - Seen in video [????](../videos/question-mark.md).
 7. 4d0feb521f160
    - Seen in comments of [OST.rar](../resources/ost-rar.md).
+8. *unknown* Also gone.

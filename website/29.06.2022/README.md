@@ -109,8 +109,10 @@ img2 features a screenshot of dropped items *(some of which i'm not able to iden
 <h4>img3.png</h4>
 </summary>
 
-img 3 features a screenshot of the player fighting a giant *(Giant of NINONNA-PAHHIRUU)*, this is the only screenshot where we can see some part of the user interface. **This was definitely taken from a Lilypad release**.  
+img 3 features a screenshot of the player fighting a giant *(Giant of NINONNA-PAHHIRUU)*, this is the only screenshot where we can see some part of the user interface. **This was definitely taken from a Lilypad release**. And We can see the crab nebula a tiny bit of it though.
 <img src="https://exalpha-dev.github.io/img3.png" width="600">
+Crab nebula [^2]
+<img src="https://media.discordapp.net/attachments/980886544833474560/1035999011498364968/20221029_202949.png" width="600">
 </details>
 </details>
 
@@ -313,7 +315,7 @@ Changes in this version:
 * Numerous new items and blocks added
 * Added Giants, our first proper bosses
 * Gave our night skies a fresh layer of paint
-  > This might be referring to the Crab Nebula event, but I'm not sure, as it's said to be cut content from _12.
+  > This might be referring to the Crab Nebula event, but I'm not sure, as it's said to be cut content from _12. [^2]
 * New music by [5]
 * Other minor fixes listed **here**
 
@@ -331,3 +333,4 @@ It says `revision1`, along with a weird symbol of somekind:
 </details>
 
 [^1]: This is false *(or not, it might be an unofficial client/just the user tinkering with game files)*, as in one of the bug reports, the player uses `Arch Linux`.
+[^2]: oh and that means The crab nebula want scrapped it was discovered in img3 on 29/10/2022. When Vincent was making a jar Archive site and using exalpha-dev.github.io As a base. Also the crab nebula Is in R4.

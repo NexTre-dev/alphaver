@@ -139,7 +139,7 @@ As always, a **VPN** is recommended when joining these Minecraft servers.
 *  [AlphaVer Wiki (Miraheze)](https://alphaver.miraheze.org/)
 
 ### 📄 Subreddits
-* [r/alphavaer](https://www.reddit.com/r/alphaver/)
+* [r/alphaver](https://www.reddit.com/r/alphaver/)
 * [r/alphaversionproj](https://reddit.com/r/alphaversionprj)
 
 ## To-do List

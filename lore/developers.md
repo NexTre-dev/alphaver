@@ -18,6 +18,8 @@ They are referred to as dev# or just simply #.
 
 ### dev1
 - Can be seen as a name on the forums in [Internal footage 2](../videos/internal-footage-2.md)
+- Recorded [Internal footage 4](../videos/internal-footage-4.md)
+- Joins Orbl's Other World In [Home](../videos/home.md)
 
 ### dev2
 - Seen in [Sunrise](../videos/sunrise.md)

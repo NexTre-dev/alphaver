@@ -60,7 +60,7 @@
 
 ## Characters
 * `orble` is recording
-* `dev6` 
+* `dev6` talks to orble about the trailer
 * `dev1` joins mid-video
 
 ## Anomalies

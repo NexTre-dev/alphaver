@@ -24,7 +24,7 @@ If you feel like picking up the playable versions, but don't know how to, you ca
 * [Recruitment program](/lore/recruitment.md)
 
 ### 2. Videos 📺
-Currently, the latest video is [attachment_b849.avi](videos/reinsertion-point.md).
+Currently, the latest video is [Home](videos/home.md).
 | **Title**              | **Upload Date** | **Canonical Date**  | **Importance Index**[^importance-index] |
 | ---------------------- | --------------- | ------------------- | ------------------------ |
 | [Entry Point]          | 2021-08-01      | 2010-??-??          | **5** 🔴                 |

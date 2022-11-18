@@ -24,7 +24,7 @@ If you feel like picking up the playable versions, but don't know how to, you ca
 * [Recruitment program](/lore/recruitment.md)
 
 ### 2. Videos 📺
-Currently, the latest video is [attachment_b849.avi](videos/reinsertion-point.md).
+Currently, the latest video is [Home](videos/home.md).
 | **Title**              | **Upload Date** | **Canonical Date**  | **Importance Index**[^importance-index] |
 | ---------------------- | --------------- | ------------------- | ------------------------ |
 | [Entry Point]          | 2021-08-01      | 2010-??-??          | **5** 🔴                 |
@@ -51,7 +51,8 @@ Currently, the latest video is [attachment_b849.avi](videos/reinsertion-point.md
 | [Consequences]         | 2022-06-29      | 2010-08-23          | **2.5** 🟡               |
 | [Internal Footage 4]   | 2022-07-28      | 20(10-14)-??-??     | **3.5** 🔴               |
 | [Reinsertion point]    | 2022-08-01      | 2010-??-??          | **5** 🔴                 |
-| [attachment_b849.avi]  | 2022-09-11      | ????                | **?**
+| [attachment_b849.avi]  | 2022-09-11      | ????                | **?**                     |
+| [Home]                 | 2022-11-17      | ????                | **?**                     |
 
 ### 3. Sightings 👀
 | **Index**      | **Date**   | **Verified?** |
@@ -86,7 +87,8 @@ Currently, the latest video is [attachment_b849.avi](videos/reinsertion-point.md
 | [Discovered](chat_messages/discovered.md)            | **0** 🟢                 |
 | [Sunrise](chat_messages/sunrise.md)               | **0.5** 🟢               |
 | [Consequences](chat_messages/consequences.md)          | **3** 🟡                 |
-| [Reinsertion point](chat_messages/reinsertion_point.md)|**1** 🟢|
+| [Reinsertion point](chat_messages/reinsertion-point.md)|**1** 🟢|
+| [Home](chat_messages/home.md)|**?** 🟢|
 
 ### 5. Analyzation 🔎
 * [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)
@@ -193,6 +195,7 @@ Want to contribute? Feel free to pick a task from the list below, and contribute
 [Internal Footage 4]: /videos/internal-footage-4.md
 [Reinsertion point]: /videos/reinsertion-point.md
 [attachment_b849.avi]: /videos/attachment_b849.avi.md
+[Home]: /videos/home.md
 
 <!-- Sightings -->
 [Sighting #1]: /sightings/sighting-1.md

@@ -87,7 +87,8 @@ Currently, the latest video is [Home](videos/home.md).
 | [Discovered](chat_messages/discovered.md)            | **0** 🟢                 |
 | [Sunrise](chat_messages/sunrise.md)               | **0.5** 🟢               |
 | [Consequences](chat_messages/consequences.md)          | **3** 🟡                 |
-| [Reinsertion point](chat_messages/reinsertion_point.md)|**1** 🟢|
+| [Reinsertion point](chat_messages/reinsertion-point.md)|**1** 🟢|
+| [Home](chat_messages/home.md)|**1** 🟢|
 
 ### 5. Analyzation 🔎
 * [Analyzation of the Lilypad .jar](/resources/lilypad-analyzation.md)

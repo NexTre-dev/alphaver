@@ -1,6 +1,6 @@
 [← Home Page](../README.md#2-videos)
 
-# Video #3: The search
+# Video #26: Home
 | Post Date  | Minecraft Version             | Length  | FPS | Resolution | Youtube Link      |
 | ---------  | ----------------------------- | ------- | --- | ---------- | ----------------- |
 | 2022-11-17 | Minecraft Alpha v1.0.16.05 R4 | 1:36:68 | 60  | 1080x720   | [Watch it here](https://www.youtube.com/watch?v=J1WVsECSekg) |

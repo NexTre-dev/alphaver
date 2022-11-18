@@ -194,6 +194,7 @@ Want to contribute? Feel free to pick a task from the list below, and contribute
 [Internal Footage 4]: /videos/internal-footage-4.md
 [Reinsertion point]: /videos/reinsertion-point.md
 [attachment_b849.avi]: /videos/attachment_b849.avi.md
+[Home]: /videos/home.md
 
 <!-- Sightings -->
 [Sighting #1]: /sightings/sighting-1.md

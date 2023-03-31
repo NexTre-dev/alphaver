@@ -25,14 +25,11 @@ Drag RetroMCP-Java into an empty folder, and run it to open up a command prompt:
 Type in `setup`, then select `1.0.16_02`.
 
 ## 2. Deobfuscating
-Once you have the modified jar, rename it to “minecraft.jar” and move it to the “jars” folder, replacing the vanilla jar. Now, type in the  `decompile`  command into RetroMCP-Java, sit back and relax. Hold on for a minute! Forget sitting back and relaxing! And enjoy the compiler errors!
+Once you have the modified jar, rename it to “minecraft.jar” and move it to the “jars” folder, replacing the vanilla jar. Now, type in the  `decompile`  command into RetroMCP-Java, sit back and relax.
 
 If you have an IDE, open up the workspace.
 
 **NOTE:** If you are using IntelliJ IDEA you must import the modules and set `MCP_LOC` to the path of your RetroMCP folder first!
-
-## 4. Fixing the source code
-TODO: FIGURE OUT IF THERE ARE ANY ERRORS!!
 
 ## 5. Running
 Click the run button, and VOLIA! You have a working decompilation! Now if you want to make mods before doing so in RetroMCP type in `updatemd5`, this should update the hashes to be in a more clean state. And to recompile a obfuscated jar type in `reobfuscare`.

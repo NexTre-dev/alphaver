@@ -109,6 +109,8 @@ Currently, the latest video is [Home](videos/home.md).
 * [Item & Block IDs](/resources/ids.md)
 * [GitHub Messages](/resources/github-messages.md)
 * [Rosepad - a modding environment for Lilypad](https://github.com/5GameMaker/Rosepad)
+* [Afterglow](https://github.com/AfterglowMC/AfterglowMC)
+* [BadBlock](https://github.com/Alphaverers/BadBlock/tree/BadBlock)
 * [Exalpha's Website/Archive](/website/README.md)
 
 ### 8. Guides 📙

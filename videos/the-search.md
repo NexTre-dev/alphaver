@@ -19,4 +19,4 @@ Video could potentially prove that they're not present on a mismatched version.
   Second person on Skype.
 
 ## Anomalies
-* The version they are playing on is a lost version *(the original .jar file is lost, [read more here](https://minecraft.fandom.com/wiki/Java_Edition_Alpha_v1.0.17))*.
+* The version they are playing on is a lost version *(the original .jar file is lost, [read more here](https://minecraft.wiki/w/Java_Edition_Alpha_v1.0.17))*.
